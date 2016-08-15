@@ -1,6 +1,6 @@
 # Build settings
 # Gems
-gems: 
+gems:
 - jekyll-paginate
 - jekyll-feed
 
@@ -11,7 +11,7 @@ gems:
 #baseurl: "/projectname"
 url: ""
 enforce_ssl: ""
-baseurl: "/jekyllBasic"
+baseurl: "/bcdams-map"
 
 # Title of website
 title: Project Name
@@ -32,16 +32,16 @@ avatar: "/img/avatar.jpg"
 nav-links:
   Home: ""
   About Me: "aboutme"
-  Contact: "contact"  
-  
+  Contact: "contact"
+
 # --- Footer options --- #
 
-# If the values are empty, they are ignored 
+# If the values are empty, they are ignored
 profile:
   name: Babji Chetty
   email: Your-Email
   facebook: your-fb-id
-  github: your-github-id 
+  github: your-github-id
   twitter: your-twitter-id
   linkedin: your-linkedin-id
   stackoverflow: your-stackoverflow-id
