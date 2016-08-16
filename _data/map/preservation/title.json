@@ -1,5 +1,7 @@
 {
 	"label": "Title",
 	"namespace": "dcterms",
-	"element": "title"
+	"element": "title",
+	"uri": "http://purl.org/dc/terms/title",
+	"definition": "A name given to the resource."
 }

@@ -1,5 +1,7 @@
 {
 	"label": "Creator",
 	"namespace": "dcterms",
-	"element": "creator"
+	"element": "creator",
+	"uri": "http://purl.org/dc/terms/creator",
+	"definition": "An entity primarily responsible for making the resource."
 }
