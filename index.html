@@ -2,16 +2,17 @@
 layout: template1
 ---
 
-<h1>Bayou City DAMS Metadata Application Profile</h1>
+<h1>Bayou City DAMS</h1>
+<h2>Metadata Application Profile</h2>
 
 <hr>
-<p><b>DPTF:</b> |
+<p><b>DPTF:</b>
   {% for element_hash in site.data.dptf %}
   {% assign element = element_hash[1] %}
   <a href="#{{ element.label }}"> {{ element.label }}</a> |
   {% endfor %}
 </p>
-<p><b>DAMSTF:</b> |
+<p><b>DAMSTF:</b>
   {% for element_hash in site.data.damstf %}
   {% assign element = element_hash[1] %}
   <a href="#{{ element.label }}"> {{ element.label }}</a> |
@@ -19,13 +20,13 @@ layout: template1
 </p>
 <hr>
 
-<h2>DPTF</h2>
+<h3>DPTF</h3>
 <p>Fields defined by the Digital Preservation Task Force</p>
 <table class="border" cellspacing="0">
 {% for element_hash in site.data.dptf %}
 {% assign element = element_hash[1] %}
   <tr>
-    <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
+    <th colspan="2"><h4 id="{{ element.label }}">{{ element.label }}</h4></th>
   </tr>
   <tr>
     <td><b>Label</b></td>
@@ -48,13 +49,13 @@ layout: template1
 {% endfor %}
 </table>
 
-<h2>DAMSTF</h2>
+<h3>DAMSTF</h3>
 <p>Fields defined by the Digital Asset Management System Task Force</p>
 <table class="border" cellspacing="0">
 {% for element_hash in site.data.damstf %}
 {% assign element = element_hash[1] %}
   <tr>
-    <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
+    <th colspan="2"><h4 id="{{ element.label }}">{{ element.label }}</h4></th>
   </tr>
   <tr>
     <td><b>Label</b></td>
