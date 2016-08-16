@@ -21,7 +21,7 @@ layout: template1
 {% for element_hash in site.data.dptf %}
 {% assign element = element_hash[1] %}
   <tr>
-    <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
+    <div id="{{ element.label }}"></div><th colspan="2"><h3>{{ element.label }}</h3></th>
   </tr>
   <tr>
     <td><b>MAP</b></td>
