@@ -2,6 +2,9 @@
 layout: template1
 ---
 
+<h1>Bayou City DAMS Metadata Application Profile</h1>
+
+<hr>
 <p><b>DPTF:</b> |
   {% for element_hash in site.data.dptf %}
   {% assign element = element_hash[1] %}
@@ -14,6 +17,7 @@ layout: template1
   <a href="#{{ element.label }}"> {{ element.label }}</a> |
   {% endfor %}
 </p>
+<hr>
 
 <h2>DPTF</h2>
 <p>Fields defined by the Digital Preservation Task Force</p>
