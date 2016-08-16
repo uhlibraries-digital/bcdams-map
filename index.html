@@ -9,24 +9,24 @@ layout: template1
     <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
   </tr>
   <!-- <tr>
-    <td>URI:</td>
-    <td>
-      <a href="{{ element.uri }}">{{ element.uri }}</a>
-    </td>
-  </tr> -->
-  <!-- <tr>
     <td>Label:</td>
     <td>{{ element.label }}</td>
   </tr> -->
   <tr>
-    <td>MAP:</td>
+    <td><b>MAP</b></td>
     <td>{{ element.namespace }}.{{ element.element }}</td>
   </tr>
-  <!-- <tr>
-    <td>Comment:</td>
-    <td>{{ element.comment }}</td>
+  <tr>
+    <td><b>URI</b></td>
+    <td>
+      <a href="{{ element.uri }}">{{ element.uri }}</a>
+    </td>
   </tr>
-  {% if element.references %}
+  <tr>
+    <td><b>Definition</b></td>
+    <td>{{ element.definition }}</td>
+  </tr>
+  <!-- {% if element.references %}
     <tr>
       <td>References:</td>
       <td>{{ element.references }}</td>
