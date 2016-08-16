@@ -9,13 +9,21 @@ layout: template1
 <p><b>DPTF:</b>
   {% for element_hash in site.data.dptf %}
   {% assign element = element_hash[1] %}
-  |<a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% if forloop.first == true %}
+      <a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% else %}
+      |<a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% endif %}
   {% endfor %}
 </p>
 <p><b>DAMSTF:</b>
   {% for element_hash in site.data.damstf %}
   {% assign element = element_hash[1] %}
-  |<a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% if forloop.first == true %}
+      <a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% else %}
+      |<a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% endif %}
   {% endfor %}
 </p>
 <hr>
