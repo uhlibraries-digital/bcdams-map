@@ -1,0 +1,7 @@
+{
+	"label": "Contributor",
+	"namespace": "dcterms",
+	"element": "contributor",
+	"uri": "http://purl.org/dc/terms/contributor",
+	"definition": "An entity responsible for making contributions to the resource."
+}
