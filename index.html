@@ -2,16 +2,27 @@
 layout: template1
 ---
 
+<p><b>DPTF:</b> |
+  {% for element_hash in site.data.dptf %}
+  {% assign element = element_hash[1] %}
+  <a href="#{{ element.label }}"> {{ element.label }}</a> |
+  {% endfor %}
+</p>
+<p><b>DAMSTF:</b> |
+  {% for element_hash in site.data.damstf %}
+  {% assign element = element_hash[1] %}
+  <a href="#{{ element.label }}"> {{ element.label }}</a> |
+  {% endfor %}
+</p>
+
+<h2>DPTF</h2>
+<p>Fields defined by the Digital Preservation Task Force</p>
 <table class="border" cellspacing="0">
-{% for element_hash in site.data.map.preservation %}
+{% for element_hash in site.data.dptf %}
 {% assign element = element_hash[1] %}
   <tr>
     <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
   </tr>
-  <!-- <tr>
-    <td>Label:</td>
-    <td>{{ element.label }}</td>
-  </tr> -->
   <tr>
     <td><b>MAP</b></td>
     <td>{{ element.namespace }}.{{ element.element }}</td>
@@ -26,11 +37,30 @@ layout: template1
     <td><b>Definition</b></td>
     <td>{{ element.definition }}</td>
   </tr>
-  <!-- {% if element.references %}
-    <tr>
-      <td>References:</td>
-      <td>{{ element.references }}</td>
-    </tr>
-  {% endif %} -->
+{% endfor %}
+</table>
+
+<h2>DAMSTF</h2>
+<p>Fields defined by the Digital Asset Management System Task Force</p>
+<table class="border" cellspacing="0">
+{% for element_hash in site.data.damstf %}
+{% assign element = element_hash[1] %}
+  <tr>
+    <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
+  </tr>
+  <tr>
+    <td><b>MAP</b></td>
+    <td>{{ element.namespace }}.{{ element.element }}</td>
+  </tr>
+  <tr>
+    <td><b>URI</b></td>
+    <td>
+      <a href="{{ element.uri }}">{{ element.uri }}</a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Definition</b></td>
+    <td>{{ element.definition }}</td>
+  </tr>
 {% endfor %}
 </table>
