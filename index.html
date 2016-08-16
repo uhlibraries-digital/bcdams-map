@@ -24,6 +24,10 @@ layout: template1
     <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
   </tr>
   <tr>
+    <td><b>Label</b></td>
+    <td>{{ element.label }}</td>
+  </tr>
+  <tr>
     <td><b>MAP</b></td>
     <td>{{ element.namespace }}.{{ element.element }}</td>
   </tr>
@@ -47,6 +51,10 @@ layout: template1
 {% assign element = element_hash[1] %}
   <tr>
     <th colspan="2"><h3 id="{{ element.label }}">{{ element.label }}</h3></th>
+  </tr>
+  <tr>
+    <td><b>Label</b></td>
+    <td>{{ element.label }}</td>
   </tr>
   <tr>
     <td><b>MAP</b></td>
