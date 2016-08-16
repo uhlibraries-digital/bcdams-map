@@ -9,13 +9,13 @@ layout: template1
 <p><b>DPTF:</b>
   {% for element_hash in site.data.dptf %}
   {% assign element = element_hash[1] %}
-  <a href="#{{ element.label }}"> {{ element.label }}</a> |
+  |<a href="#{{ element.label }}"> {{ element.label }} </a>
   {% endfor %}
 </p>
 <p><b>DAMSTF:</b>
   {% for element_hash in site.data.damstf %}
   {% assign element = element_hash[1] %}
-  <a href="#{{ element.label }}"> {{ element.label }}</a> |
+  |<a href="#{{ element.label }}"> {{ element.label }} </a>
   {% endfor %}
 </p>
 <hr>
@@ -33,7 +33,7 @@ layout: template1
     <td>{{ element.label }}</td>
   </tr>
   <tr>
-    <td><b>MAP</b></td>
+    <td><b>Element</b></td>
     <td>{{ element.namespace }}.{{ element.element }}</td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ layout: template1
     <td>{{ element.label }}</td>
   </tr>
   <tr>
-    <td><b>MAP</b></td>
+    <td><b>Element</b></td>
     <td>{{ element.namespace }}.{{ element.element }}</td>
   </tr>
   <tr>
