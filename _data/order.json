@@ -1,8 +1,4 @@
-{
-	"dptf":[
+[
 		{"name":"title"},
-		{"name":"creator"}],
-	"damstf":[
-		{"name":"alternative_title"},
-		{"name":"contributor"}]
-}
+		{"name":"creator"}]
+]
