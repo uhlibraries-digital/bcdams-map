@@ -1,0 +1,8 @@
+"elements":{
+	"dptf":[
+		{"name":"title"},
+		{"name":"creator"}],
+	"damstf":[
+		{"name":"alternative_title"},
+		{"name":"contributor"}]
+}
