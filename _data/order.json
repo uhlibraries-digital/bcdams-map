@@ -1,8 +1,8 @@
-"elements":{
-	"dptf":[
+[
+	{"dptf":[
 		{"name":"title"},
-		{"name":"creator"}],
-	"damstf":[
+		{"name":"creator"}]},
+	{"damstf":[
 		{"name":"alternative_title"},
-		{"name":"contributor"}]
-}
+		{"name":"contributor"}]}
+]
