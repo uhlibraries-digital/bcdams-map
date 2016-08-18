@@ -6,8 +6,9 @@ layout: template1
 <h2>Metadata Application Profile</h2>
 
 {% for namespace in site.data.order %}
-{% assign element = namespace[1] %}
-  <p>{{ element }}</p>
+  {% for element in namespace %}
+    <p>{{ element.name }}</p>
+  {% endfor %}
 {% endfor %}
 
 <hr>
