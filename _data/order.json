@@ -1,4 +1,15 @@
-[
+{
+	"dptf": [
+		"title",
+		"creator"
+	],
+	"damstf": [
+		"alternative_title",
+		"contributor"
+	]
+}
+
+/*[
 	{
 		"namespace": "dptf",
 		"element1": "title",
@@ -9,4 +20,4 @@
 		"element1": "alternative_title",
 		"element2": "contributor"
 	}
-]
+]*/
