@@ -15,14 +15,6 @@ layout: template1
       |<a href="#{{ element.label }}"> {{ element.label }} </a>
     {% endif %}
   {% endfor %}
-  <!-- {% for element_hash in site.data.dptf %}
-  {% assign element = element_hash[1] %}
-    {% if forloop.first == true %}
-      <a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% else %}
-      |<a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% endif %}
-  {% endfor %} -->
 </p>
 <p><b>DAMSTF:</b>
   {% for field in site.data.order.damstf %}
@@ -33,14 +25,6 @@ layout: template1
       |<a href="#{{ element.label }}"> {{ element.label }} </a>
     {% endif %}
   {% endfor %}
-  <!-- {% for element_hash in site.data.damstf %}
-  {% assign element = element_hash[1] %}
-    {% if forloop.first == true %}
-      <a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% else %}
-      |<a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% endif %}
-  {% endfor %} -->
 </p>
 <hr>
 
