@@ -1,4 +1,12 @@
 [
-		{"name":"title"},
-		{"name":"creator"}]
+	{
+		"namespace": "dptf",
+		"element1": "title",
+		"element2": "creator"
+	},
+	{
+		"namespace": "damstf",
+		"element1": "alternative_title",
+		"element2": "contributor"
+	}
 ]
