@@ -20,6 +20,8 @@ layout: template1
     {% else %}
       |<a href="#{{ element.label }}"> {{ element.label }} </a>
     {% endif %}
+    <p>{{ element_hash }}</p>
+    <p>{{ element }}</p>
   {% endfor %}
 </p>
 <p><b>DAMSTF:</b>
