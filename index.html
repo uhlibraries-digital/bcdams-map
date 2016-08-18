@@ -5,8 +5,9 @@ layout: template1
 <h1><img src="{{ site.baseurl }}{{ site.avatar }}" alt="UH Logo" style="width:50px;height:50px;"> Bayou City DAMS</h1>
 <h2>Metadata Application Profile</h2>
 
-{% for element in site.data.order.elements.dptf %}
-  <p>{{ element.name }}</p>
+{% for namespace in site.data.order %}
+{% assign element = namespace[1] %}
+  <p>{{ element }}</p>
 {% endfor %}
 
 <hr>
