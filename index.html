@@ -5,12 +5,14 @@ layout: template1
 <h1><img src="{{ site.baseurl }}{{ site.avatar }}" alt="UH Logo" style="width:50px;height:50px;"> Bayou City DAMS</h1>
 <h2>Metadata Application Profile</h2>
 
-{% for group in site.data.order %}
+<p>{{ site.data.order[dptf] }}</p>
+
+<!-- {% for group in site.data.order %}
   {% if group.namespace == "dptf" %}
   {% assign element = site.data.dptf[group.element1] %}
   <p>{{ element.label }}</p>
   {% endif %}
-{% endfor %}
+{% endfor %} -->
 
 <hr>
 <p><b>DPTF:</b>
