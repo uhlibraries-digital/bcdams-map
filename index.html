@@ -5,38 +5,42 @@ layout: template1
 <h1><img src="{{ site.baseurl }}{{ site.avatar }}" alt="UH Logo" style="width:50px;height:50px;"> Bayou City DAMS</h1>
 <h2>Metadata Application Profile</h2>
 
-{% for field in site.data.order.dptf %}
-  {% assign element = site.data.dptf[field] %}
-  <p>{{ element.label }}</p>
-{% endfor %}
-
-<!-- {% for group in site.data.order %}
-  {% if group.namespace == "dptf" %}
-  {% assign element = site.data.dptf[group.element1] %}
-  <p>{{ element.label }}</p>
-  {% endif %}
-{% endfor %} -->
-
 <hr>
 <p><b>DPTF:</b>
-  {% for element_hash in site.data.dptf %}
-  {% assign element = element_hash[1] %}
+  {% for field in site.data.order.dptf %}
+    {% assign element = site.data.dptf[field] %}
     {% if forloop.first == true %}
       <a href="#{{ element.label }}"> {{ element.label }} </a>
     {% else %}
       |<a href="#{{ element.label }}"> {{ element.label }} </a>
     {% endif %}
   {% endfor %}
+  <!-- {% for element_hash in site.data.dptf %}
+  {% assign element = element_hash[1] %}
+    {% if forloop.first == true %}
+      <a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% else %}
+      |<a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% endif %}
+  {% endfor %} -->
 </p>
 <p><b>DAMSTF:</b>
-  {% for element_hash in site.data.damstf %}
-  {% assign element = element_hash[1] %}
+  {% for field in site.data.order.damstf %}
+    {% assign element = site.data.damstf[field] %}
     {% if forloop.first == true %}
       <a href="#{{ element.label }}"> {{ element.label }} </a>
     {% else %}
       |<a href="#{{ element.label }}"> {{ element.label }} </a>
     {% endif %}
   {% endfor %}
+  <!-- {% for element_hash in site.data.damstf %}
+  {% assign element = element_hash[1] %}
+    {% if forloop.first == true %}
+      <a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% else %}
+      |<a href="#{{ element.label }}"> {{ element.label }} </a>
+    {% endif %}
+  {% endfor %} -->
 </p>
 <hr>
 
