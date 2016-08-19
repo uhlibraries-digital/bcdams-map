@@ -1,7 +1,7 @@
 {
 	"dptf": [
-		"title",
-		"creator"
+		"creator",
+		"title"
 	],
 	"damstf": [
 		"alternative_title",
