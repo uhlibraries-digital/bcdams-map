@@ -33,9 +33,9 @@ layout: template1
 <table class="border" cellspacing="0">
 {% for field in site.data.order.dptf %}
 {% assign element = site.data.dptf[field] %}
-  <a name="{{ element.label }}"></a>
   <tr>
     <th colspan="2">
+      <a name="{{ element.label }}"></a>
       <h4>{{ element.label }}</h4>
     </th>
   </tr>
