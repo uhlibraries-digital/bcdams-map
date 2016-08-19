@@ -34,7 +34,10 @@ layout: template1
 {% for field in site.data.order.dptf %}
 {% assign element = site.data.dptf[field] %}
   <tr>
-    <th colspan="2"><h4 id="{{ element.label }}">{{ element.label }}</h4></th>
+    <th colspan="2">
+      <a name="{{ element.label }}"></a>
+      <h4>{{ element.label }}</h4>
+    </th>
   </tr>
   <tr>
     <td><b>Label</b></td>
@@ -82,7 +85,10 @@ layout: template1
 {% for field in site.data.order.damstf %}
 {% assign element = site.data.damstf[field] %}
   <tr>
-    <th colspan="2"><h4 id="{{ element.label }}">{{ element.label }}</h4></th>
+    <th colspan="2">
+      <a name="{{ element.label }}"></a>
+      <h4>{{ element.label }}</h4>
+    </th>
   </tr>
   <tr>
     <td><b>Label</b></td>
