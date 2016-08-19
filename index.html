@@ -54,6 +54,14 @@ layout: template1
     <td><b>Definition</b></td>
     <td>{{ element.definition }}</td>
   </tr>
+  <tr>
+    <td><b>Description</b></td>
+    <td>{{ element.description }}</td>
+  </tr>
+  <tr>
+    <td><b>Entity Type</b></td>
+      <a href="{{ element.entity_uri }}">{{ element.entity_label }}</a>
+  </tr>
 {% endfor %}
 </table>
 
