@@ -3,5 +3,8 @@
 	"namespace": "dcterms",
 	"element": "alternative",
 	"uri": "http://purl.org/dc/terms/alternative",
-	"definition": "An alternative name for the resource."
+	"definition": "An alternative name for the resource.",
+	"description": "",
+	"entity_label": "String",
+	"repeatable": ""
 }
