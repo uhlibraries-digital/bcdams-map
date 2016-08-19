@@ -7,5 +7,6 @@
 	"description": "",
 	"entity_label": "Agent",
 	"entity_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
+	"required": "",
 	"repeatable": "true"
 }

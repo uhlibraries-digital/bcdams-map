@@ -6,5 +6,6 @@
 	"definition": "A name given to the resource.",
 	"description": "",
 	"entity_label": "String",
+	"required": "true",
 	"repeatable": ""
 }

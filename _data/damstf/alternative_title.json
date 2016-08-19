@@ -6,5 +6,6 @@
 	"definition": "An alternative name for the resource.",
 	"description": "",
 	"entity_label": "String",
+	"required": "",
 	"repeatable": ""
 }
