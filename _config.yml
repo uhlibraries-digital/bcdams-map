@@ -58,7 +58,7 @@ profile:
 # google_analytics: "Your-GA-Id"
 
 # Set these options as you need (For more information, check Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title
