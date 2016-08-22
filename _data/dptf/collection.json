@@ -5,8 +5,6 @@
 	"uri": "http://purl.org/dc/terms/isPartOf",
 	"definition": "A related resource in which the described resource is physically or logically included.",
 	"description": "",
-	/*"entity_label": "",
-	"entity_uri": "",*/
 	"required": "false",
 	"repeatable": "true"
 }
