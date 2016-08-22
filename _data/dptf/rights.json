@@ -1,0 +1,12 @@
+{
+	"label": "Rights",
+	"namespace": "dc",
+	"element": "rights",
+	"uri": "http://purl.org/dc/elements/1.1/rights",
+	"definition": "Information about rights held in and over the resource.",
+	"description": "",
+	"entity_label": "Rights Statement",
+	"entity_uri": "http://rightsstatements.org/page/1.0/",
+	"required": "false",
+	"repeatable": "false"
+}
