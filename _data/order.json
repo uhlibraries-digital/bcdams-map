@@ -1,7 +1,13 @@
 {
 	"dptf": [
+		"title",
 		"creator",
-		"title"
+		"date",
+		"description",
+		"publisher",
+		"collection",
+		"rights",
+		"access_rights"
 	],
 	"damstf": [
 		"alternative_title",
