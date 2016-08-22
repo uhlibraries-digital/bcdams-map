@@ -7,5 +7,5 @@
 	"description": "",
 	"entity_label": "String",
 	"required": "true",
-	"repeatable": ""
+	"repeatable": "false"
 }
