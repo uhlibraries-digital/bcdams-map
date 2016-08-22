@@ -1,0 +1,11 @@
+{
+	"label": "Description",
+	"namespace": "dcterms",
+	"element": "description",
+	"uri": "http://purl.org/dc/terms/description",
+	"definition": "An account of the resource.",
+	"description": "",
+	"entity_label": "String",
+	"required": "false",
+	"repeatable": "false"
+}
