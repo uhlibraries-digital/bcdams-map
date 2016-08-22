@@ -1,0 +1,12 @@
+{
+	"label": "Date",
+	"namespace": "dc",
+	"element": "date",
+	"uri": "http://purl.org/dc/elements/1.1/date",
+	"definition": "A point or period of time associated with an event in the lifecycle of the resource.",
+	"description": "",
+	"entity_label": "EDTF Date",
+	"entity_uri": "http://www.loc.gov/standards/datetime/pre-submission.html",
+	"required": "false",
+	"repeatable": "false"
+}
