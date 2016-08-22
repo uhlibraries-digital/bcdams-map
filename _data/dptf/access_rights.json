@@ -1,0 +1,12 @@
+{
+	"label": "Access Rights",
+	"namespace": "dcterms",
+	"element": "accessRights",
+	"uri": "http://purl.org/dc/terms/accessRights",
+	"definition": "Information about who can access the resource or an indication of its security status.",
+	"description": "",
+	/*"entity_label": "",
+	"entity_uri": "",*/
+	"required": "false",
+	"repeatable": "false"
+}
