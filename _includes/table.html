@@ -1,0 +1,43 @@
+<tr>
+	<th colspan="2">
+		<a name="{{ element.label }}"></a>
+		<h4>{{ element.label }}</h4>
+	</th>
+</tr>
+<tr>
+	<td><b>Label</b></td>
+	<td>{{ element.label }}</td>
+</tr>
+<tr>
+	<td><b>Element</b></td>
+	<td>{{ element.namespace }}.{{ element.element }}</td>
+</tr>
+<tr>
+	<td><b>URI</b></td>
+	<td>
+		<a href="{{ element.uri }}">{{ element.uri }}</a>
+	</td>
+</tr>
+<tr>
+	<td><b>Definition</b></td>
+	<td>{{ element.definition }}</td>
+</tr>
+<tr>
+	<td><b>Description</b></td>
+	<td>{{ element.description }}</td>
+</tr>
+{% if element.entity_label %}
+	{% if element.entity_uri %}
+		<tr>
+			<td><b>Entity Type</b></td>
+			<td>
+				<a href="{{ element.entity_uri }}">{{ element.entity_label }}</a>
+			</td>
+		</tr>
+	{% else %}
+		<tr>
+			<td><b>Entity Type</b></td>
+			<td>{{ element.entity_label }}</td>
+		</tr>
+	{% endif %}
+{% endif %}
