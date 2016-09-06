@@ -1,4 +1,4 @@
-<span vocab="http://schema.org/" typeof="Thing">
+<span vocab="http://www.w3.org/2000/01/rdf-schema#" typeof="https://www.w3.org/1999/02/22-rdf-syntax-ns#Property">
 <tr>
 	<th colspan="2">
 		<a name="{{ element.label }}"></a>
@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td><b>Label</b></td>
-	<td property="name">{{ element.label }}</td>
+	<td property="label">{{ element.label }}</td>
 </tr>
 <tr>
 	<td><b>Element</b></td>
@@ -16,7 +16,7 @@
 <tr>
 	<td><b>URI</b></td>
 	<td>
-		<a property="sameAs" href="{{ element.uri }}">{{ element.uri }}</a>
+		<a property="http://www.w3.org/2004/02/skos/core#exactMatch" href="{{ element.uri }}">{{ element.uri }}</a>
 	</td>
 </tr>
 <tr>
