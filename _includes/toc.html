@@ -1,0 +1,5 @@
+{% if forloop.first == true %}
+	<a href="#{{ element.label }}"> {{ element.label }} </a>
+{% else %}
+	|<a href="#{{ element.label }}"> {{ element.label }} </a>
+{% endif %}

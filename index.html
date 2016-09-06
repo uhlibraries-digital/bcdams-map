@@ -7,24 +7,16 @@ layout: template1
 
 <hr>
 <p><b>DPTF:</b>
-  {% for field in site.data.order.dptf %}
-    {% assign element = site.data.dptf[field] %}
-    {% if forloop.first == true %}
-      <a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% else %}
-      |<a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% endif %}
-  {% endfor %}
+{% for field in site.data.order.dptf %}
+  {% assign element = site.data.dptf[field] %}
+  {% include toc.html %}
+{% endfor %}
 </p>
 <p><b>DAMSTF:</b>
-  {% for field in site.data.order.damstf %}
-    {% assign element = site.data.damstf[field] %}
-    {% if forloop.first == true %}
-      <a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% else %}
-      |<a href="#{{ element.label }}"> {{ element.label }} </a>
-    {% endif %}
-  {% endfor %}
+{% for field in site.data.order.damstf %}
+  {% assign element = site.data.damstf[field] %}
+  {% include toc.html %}
+{% endfor %}
 </p>
 <hr>
 
@@ -32,8 +24,8 @@ layout: template1
 <p>Fields identified as important for preservation by the Digital Preservation Task Force</p>
 <table class="border" cellspacing="0">
 {% for field in site.data.order.dptf %}
-{% assign element = site.data.dptf[field] %}
-{% include table.html %}
+  {% assign element = site.data.dptf[field] %}
+  {% include table.html %}
 {% endfor %}
 </table>
 
@@ -41,8 +33,8 @@ layout: template1
 <p>Fields identified as important for access by the Digital Asset Management System Task Force</p>
 <table class="border" cellspacing="0">
 {% for field in site.data.order.damstf %}
-{% assign element = site.data.damstf[field] %}
-{% include table.html %}
+  {% assign element = site.data.damstf[field] %}
+  {% include table.html %}
 {% endfor %}
 </table>
 
