@@ -5,8 +5,8 @@
 	"uri": "http://purl.org/dc/terms/creator",
 	"definition": "An entity primarily responsible for making the resource.",
 	"description": "",
-	"entity_label": "Agent",
-	"entity_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
+	"range_label": "Agent",
+	"range_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
 	"required": "false",
 	"repeatable": "true"
 }

@@ -5,8 +5,8 @@
 	"uri": "",
 	"definition": "",
 	"description": "",
-	"entity_label": "",
-	"entity_uri": "",
+	"range_label": "",
+	"range_uri": "",
 	"required": "",
 	"repeatable": ""
 }

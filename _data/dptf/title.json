@@ -5,7 +5,7 @@
 	"uri": "http://purl.org/dc/terms/title",
 	"definition": "A name given to the resource.",
 	"description": "",
-	"entity_label": "String",
+	"range_label": "String",
 	"required": "true",
 	"repeatable": "false"
 }
