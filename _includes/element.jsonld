@@ -1,0 +1,11 @@
+{
+  "@context": { "property": "https://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "label": "http://www.w3.org/2000/01/rdf-schema#label",
+                "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "sameAs": "http://www.w3.org/2002/07/owl#sameAs" },
+  "@type": "property",
+  "@id": "{{ element.uri }}",
+  "label": "{{ element.label }}",
+  "comment": "{{ element.definition }}",
+  "sameAs": "{{ element.same_as }}"
+}
