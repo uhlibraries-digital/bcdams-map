@@ -16,23 +16,23 @@
 <tr>
 	<td><b>URI</b></td>
 	<td>
-		<a property="exactMatch" href="{{ element.uri }}">{{ element.uri }}</a>
+		<a href="{{ element.uri }}"><span property="exactMatch">{{ element.uri }}</span></a>
 	</td>
 </tr>
 <tr>
 	<td><b>Same As</b></td>
 	<td>
-		<a property="closeMatch" href="{{ element.same_as }}">{{ element.same_as }}</a>
+		<a href="{{ element.same_as }}"><span property="closeMatch">{{ element.same_as }}</span></a>
 	</td>
 </tr>
 <tr>
 	<td><b>Definition</b></td>
-	<td property="definition">{{ element.definition }}</td>
+	<td><span property="definition">{{ element.definition }}</span></td>
 </tr>
 {% if element.note %}
 	<tr>
 		<td><b>Note</b></td>
-		<td property="note">{{ element.note }}</td>
+		<td><span property="note">{{ element.note }}</span></td>
 	</tr>
 {% endif %}
 {% if element.range_label %}
