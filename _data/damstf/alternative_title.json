@@ -4,7 +4,6 @@
 	"name": "alternative",
 	"uri": "http://purl.org/dc/terms/alternative",
 	"definition": "An alternative name for the resource.",
-	"note": "",
 	"range_label": "String",
 	"required": "",
 	"repeatable": ""
