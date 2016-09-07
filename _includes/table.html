@@ -23,10 +23,12 @@
 	<td><b>Definition</b></td>
 	<td>{{ element.definition }}</td>
 </tr>
-<tr>
-	<td><b>Description</b></td>
-	<td>{{ element.description }}</td>
-</tr>
+{% if element.note %}
+	<tr>
+		<td><b>Note</b></td>
+		<td property="skos:note">{{ element.note }}</td>
+	</tr>
+{% endif %}
 {% if element.range_label %}
 	{% if element.range_uri %}
 		<tr>
