@@ -7,7 +7,6 @@ layout: null
 {% assign element = site.data.damstf[field] %}
 	{
 		{{ element | jsonify }}
-	}
 {% if forloop.last == true %}
 	}
 {% else %}
