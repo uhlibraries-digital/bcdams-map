@@ -1,7 +1,7 @@
 {
 	"label": "Alternative Title",
 	"namespace": "dcterms",
-	"element": "alternative",
+	"name": "alternative",
 	"uri": "http://purl.org/dc/terms/alternative",
 	"definition": "An alternative name for the resource.",
 	"description": "",
