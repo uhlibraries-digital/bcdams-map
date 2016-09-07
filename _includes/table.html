@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td><b>Label</b></td>
-	<td resource="#{{ element.name }}" property="rdfs:label">{{ element.label }}</td>
+	<td property="rdfs:label">{{ element.label }}</td>
 </tr>
 <tr>
 	<td><b>Element</b></td>
@@ -16,7 +16,7 @@
 <tr>
 	<td><b>URI</b></td>
 	<td>
-		<a resource="#{{ element.name }}" property="skos:exactMatch" href="{{ element.uri }}">{{ element.uri }}</a>
+		<a property="skos:exactMatch" href="{{ element.uri }}">{{ element.uri }}</a>
 	</td>
 </tr>
 <tr>
@@ -26,7 +26,7 @@
 {% if element.note %}
 	<tr>
 		<td><b>Note</b></td>
-		<td resource="#{{ element.name }}" property="skos:note">{{ element.note }}</td>
+		<td property="skos:note">{{ element.note }}</td>
 	</tr>
 {% endif %}
 {% if element.range_label %}
