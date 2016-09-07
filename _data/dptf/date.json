@@ -1,7 +1,7 @@
 {
 	"label": "Date",
 	"namespace": "dc",
-	"element": "date",
+	"name": "date",
 	"uri": "http://purl.org/dc/elements/1.1/date",
 	"definition": "A point or period of time associated with an event in the lifecycle of the resource.",
 	"description": "",

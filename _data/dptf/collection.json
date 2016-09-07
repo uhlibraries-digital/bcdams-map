@@ -1,7 +1,7 @@
 {
 	"label": "Collection",
 	"namespace": "dcterms",
-	"element": "isPartOf",
+	"name": "isPartOf",
 	"uri": "http://purl.org/dc/terms/isPartOf",
 	"definition": "A related resource in which the described resource is physically or logically included.",
 	"description": "",

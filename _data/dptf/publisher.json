@@ -1,7 +1,7 @@
 {
 	"label": "Publisher",
 	"namespace": "dcterms",
-	"element": "publisher",
+	"name": "publisher",
 	"uri": "http://purl.org/dc/terms/publisher",
 	"definition": "An entity responsible for making the resource available.",
 	"description": "",

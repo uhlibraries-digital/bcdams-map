@@ -1,7 +1,7 @@
 {
 	"label": "Rights",
 	"namespace": "dc",
-	"element": "rights",
+	"name": "rights",
 	"uri": "http://purl.org/dc/elements/1.1/rights",
 	"definition": "Information about rights held in and over the resource.",
 	"description": "",

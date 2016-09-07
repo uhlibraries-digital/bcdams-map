@@ -1,7 +1,7 @@
 {
 	"label": "Access Rights",
 	"namespace": "dcterms",
-	"element": "accessRights",
+	"name": "accessRights",
 	"uri": "http://purl.org/dc/terms/accessRights",
 	"definition": "Information about who can access the resource or an indication of its security status.",
 	"description": "",
