@@ -1,0 +1,25 @@
+---
+layout: nil
+---
+[
+{% for field in site.data.order.dptf %}
+{% assign element = site.data.dptf[field] %}
+	{
+		"label": "{{ element.label }}",
+		"namespace": "{{ element.namespace }}",
+		"name": "{{ element.name }}",
+		"uri": "{{ element.uri }}",
+		"same_as": "{{ element.same_as }}",
+		"definition": "{{ element.definition }}",
+		"note": "{{ element.note }}",
+		"range_label": "{{ element.range_label }}",
+		"range_uri": "{{ element.range_uri }}",
+		"required": "{{ element.required }}",
+		"repeatable": "{{ element.repeatable }}"
+{% if forloop.last == true %}
+	}
+{% else %}
+	},
+{% endif %}
+{% endfor %}
+]
