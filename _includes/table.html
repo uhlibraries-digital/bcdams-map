@@ -1,4 +1,4 @@
-<div vocab="http://www.w3.org/1999/02/22-rdf-syntax-ns#" prefix="rdfs: http://www.w3.org/2000/01/rdf-schema#" prefix="skos: http://www.w3.org/2004/02/skos/core#" resource="#{{ element.name }}" typeof="Property">
+<div vocab="http://www.w3.org/2004/02/skos/core#" resource="#{{ element.name }}" typeof="Concept">
 <tr>
 	<th colspan="2">
 		<a name="{{ element.name }}"></a>
@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td><b>Label</b></td>
-	<td property="rdfs:label">{{ element.label }}</td>
+	<td property="prefLabel">{{ element.label }}</td>
 </tr>
 <tr>
 	<td><b>Element</b></td>
@@ -16,23 +16,23 @@
 <tr>
 	<td><b>URI</b></td>
 	<td>
-		<a property="skos:exactMatch" href="{{ element.uri }}">{{ element.uri }}</a>
+		<a property="exactMatch" href="{{ element.uri }}">{{ element.uri }}</a>
 	</td>
 </tr>
 <tr>
 	<td><b>Same As</b></td>
 	<td>
-		<a property="skos:closeMatch" href="{{ element.same_as }}">{{ element.same_as }}</a>
+		<a property="closeMatch" href="{{ element.same_as }}">{{ element.same_as }}</a>
 	</td>
 </tr>
 <tr>
 	<td><b>Definition</b></td>
-	<td property="skos:definition">{{ element.definition }}</td>
+	<td property="definition">{{ element.definition }}</td>
 </tr>
 {% if element.note %}
 	<tr>
 		<td><b>Note</b></td>
-		<td property="skos:note">{{ element.note }}</td>
+		<td property="note">{{ element.note }}</td>
 	</tr>
 {% endif %}
 {% if element.range_label %}
