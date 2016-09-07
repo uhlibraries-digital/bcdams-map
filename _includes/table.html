@@ -1,4 +1,4 @@
-<div vocab="http://www.w3.org/2004/02/skos/core#" resource="#{{ element.name }}" typeof="Concept">
+<div about="{{ element.uri }}" vocab="http://www.w3.org/2004/02/skos/core#" typeof="Concept">
 <tr>
 	<th colspan="2">
 		<a name="{{ element.name }}"></a>
@@ -7,7 +7,7 @@
 </tr>
 <tr>
 	<td><b>Label</b></td>
-	<td><span property="prefLabel">{{ element.label }}</span></td>
+	<td><span about="{{ element.uri }}" property="prefLabel">{{ element.label }}</span></td>
 </tr>
 <tr>
 	<td><b>Element</b></td>
@@ -16,23 +16,23 @@
 <tr>
 	<td><b>URI</b></td>
 	<td>
-		<a href="{{ element.uri }}"><span property="exactMatch">{{ element.uri }}</span></a>
+		<a href="{{ element.uri }}"><span about="{{ element.uri }}" property="exactMatch">{{ element.uri }}</span></a>
 	</td>
 </tr>
 <tr>
 	<td><b>Same As</b></td>
 	<td>
-		<a href="{{ element.same_as }}"><span property="closeMatch">{{ element.same_as }}</span></a>
+		<a href="{{ element.same_as }}"><span about="{{ element.uri }}" property="closeMatch">{{ element.same_as }}</span></a>
 	</td>
 </tr>
 <tr>
 	<td><b>Definition</b></td>
-	<td><span property="definition">{{ element.definition }}</span></td>
+	<td><span about="{{ element.uri }}" property="definition">{{ element.definition }}</span></td>
 </tr>
 {% if element.note %}
 	<tr>
 		<td><b>Note</b></td>
-		<td><span property="note">{{ element.note }}</span></td>
+		<td><span about="{{ element.uri }}" property="note">{{ element.note }}</span></td>
 	</tr>
 {% endif %}
 {% if element.range_label %}
