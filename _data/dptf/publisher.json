@@ -2,7 +2,7 @@
 	"label": "Publisher",
 	"namespace": "dcterms",
 	"name": "publisher",
-	"uri": "",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#publisher",
 	"same_as": "http://purl.org/dc/terms/publisher",
 	"definition": "An entity responsible for making the resource available.",
 	"range_label": "Agent",

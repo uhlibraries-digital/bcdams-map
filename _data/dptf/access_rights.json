@@ -2,7 +2,7 @@
 	"label": "Access Rights",
 	"namespace": "dcterms",
 	"name": "accessRights",
-	"uri": "",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#accessRights",
 	"same_as": "http://purl.org/dc/terms/accessRights",
 	"definition": "Information about who can access the resource or an indication of its security status.",
 	"required": "false",

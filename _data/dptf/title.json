@@ -2,7 +2,7 @@
 	"label": "Title",
 	"namespace": "dcterms",
 	"name": "title",
-	"uri": "",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#title",
 	"same_as": "http://purl.org/dc/terms/title",
 	"definition": "A name given to the resource.",
 	"range_label": "String",
