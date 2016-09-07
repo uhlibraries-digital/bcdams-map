@@ -1,0 +1,17 @@
+---
+layout: null
+---
+
+[
+{% for field in site.data.order.damstf %}
+{% assign element = site.data.damstf[field] %}
+	{
+		{{ element | jsonify }}
+	}
+{% if forloop.last == true %}
+	}
+{% else %}
+	},
+{% endif %}
+{% endfor %}
+]
