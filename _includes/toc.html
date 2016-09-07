@@ -1,5 +1,5 @@
 {% if forloop.first == true %}
-	<span> <a href="#{{ element.label }}">{{ element.label }}</a> </span>
+	<span> <a href="#{{ element.name }}">{{ element.label }}</a> </span>
 {% else %}
-	<span>| <a href="#{{ element.label }}">{{ element.label }}</a> </span>
+	<span>| <a href="#{{ element.name }}">{{ element.label }}</a> </span>
 {% endif %}
