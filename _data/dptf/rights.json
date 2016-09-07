@@ -4,7 +4,7 @@
 	"name": "rights",
 	"uri": "http://purl.org/dc/elements/1.1/rights",
 	"definition": "Information about rights held in and over the resource.",
-	"description": "",
+	"note": "",
 	"range_label": "Rights Statement",
 	"range_uri": "http://rightsstatements.org/page/1.0/",
 	"required": "false",

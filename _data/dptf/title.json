@@ -4,7 +4,7 @@
 	"name": "title",
 	"uri": "http://purl.org/dc/terms/title",
 	"definition": "A name given to the resource.",
-	"description": "",
+	"note": "",
 	"range_label": "String",
 	"required": "true",
 	"repeatable": "false"
