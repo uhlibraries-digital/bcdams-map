@@ -13,7 +13,6 @@ comments: false
 
 The {{ site.title }} builds on the University of Houston Digital Library's [Metadata Dictionary](http://digital.lib.uh.edu/about/metadata). It aligns closely with the [DPLA MAP v4.0](https://dp.la/info/wp-content/uploads/2015/03/MAPv4.pdf).
 
-
 # API
 
 | Function                | Returns                           |
