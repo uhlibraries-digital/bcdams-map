@@ -18,10 +18,7 @@ layout: nil
 		{% endfor %}
 		{% for field in site.data.order.damstf %}
 			{% assign element = site.data.damstf[field] %}
-			"member": "{{ element.uri }}"
-			{% if forloop.last == false %}
-				,
-			{% endif %}
+			"member": "{{ element.uri }}"{% if forloop.last == false %},{% endif %}
 		{% endfor %}
 	},
 {% for field in site.data.order.dptf %}
