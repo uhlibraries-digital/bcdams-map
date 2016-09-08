@@ -2,34 +2,25 @@
 layout: nil
 ---
 
-[
-	{
-	  "@context": { "resource": "https://www.w3.org/1999/02/22-rdf-syntax-ns#Resource",
-	                "label": "http://www.w3.org/2000/01/rdf-schema#label",
-	                "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
-	                "member": "https://www.w3.org/1999/02/22-rdf-syntax-ns#member" },
-	  "@type": "resource",
-	  "@id": "{{ site.url }}",
-	  "label": "{{ site.title }}",
-	  "comment": "{{ site.desc }}",
+{
+  "@context": { "Resource": "https://www.w3.org/1999/02/22-rdf-syntax-ns#Resource",
+                "Property": "https://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+								"label": "http://www.w3.org/2000/01/rdf-schema#label",
+                "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+                "sameAs": "http://www.w3.org/2002/07/owl#sameAs" },
+  "@type": "Resource",
+  "@id": "{{ site.url }}",
+  "label": "{{ site.title }}",
+  "comment": "{{ site.desc }}",
+	"@graph":
+	[
 		{% for field in site.data.order.dptf %}
 			{% assign element = site.data.dptf[field] %}
-			"member": "{{ element.uri }}",
+			{% include element.jsonld %},
 		{% endfor %}
 		{% for field in site.data.order.damstf %}
 			{% assign element = site.data.damstf[field] %}
-			"member": "{{ element.uri }}"{% if forloop.last == false %},{% endif %}
+			{% include element.jsonld %}{% if forloop.last == false %},{% endif %}
 		{% endfor %}
-	},
-{% for field in site.data.order.dptf %}
-	{% assign element = site.data.dptf[field] %}
-	{% include element.jsonld %},
-{% endfor %}
-{% for field in site.data.order.damstf %}
-	{% assign element = site.data.damstf[field] %}
-	{% include element.jsonld %}
-	{% if forloop.last == false %}
-		,
-	{% endif %}
-{% endfor %}
-]
+	]
+}
