@@ -12,6 +12,7 @@
 	"damstf": [
 		"alternate_title",
 		"series_title",
-		"contributor"
+		"contributor",
+		"place"
 	]
 }
