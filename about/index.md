@@ -11,22 +11,13 @@ comments: false
 
 # Description
 
-The {{ site.title }} builds on the University of Houston Digital Library's [Metadata Dictionary](http://digital.lib.uh.edu/about/metadata). It aligns closely with the [DPLA MAP v4.0](https://dp.la/info/wp-content/uploads/2015/03/MAPv4.pdf). 
+The {{ site.title }} builds on the University of Houston Digital Library's [Metadata Dictionary](http://digital.lib.uh.edu/about/metadata). It aligns closely with the [DPLA MAP v4.0](https://dp.la/info/wp-content/uploads/2015/03/MAPv4.pdf).
 
 
 # API
 
-```
-\api\dptf.json
-```
-Returns DPTF metadata elements as JSON
-
-```
-\api\damstf.json
-```
-Returns DAMSTF metadata elements as JSON
-
-```
-\api\graph.jsonld
-```
-Returns BCDAMS-MAP graph as JSON-LD
+| Function                | Returns                           |
+| ----------------------- | --------------------------------- |
+| ```\api\dptf.json```    | DPTF metadata elements as JSON    |
+| ```\api\damstf.json```  | DAMSTF metadata elements as JSON  |
+| ```\api\graph.jsonld``` | {{ site.title }} graph as JSON-LD |
