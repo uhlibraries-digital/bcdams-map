@@ -4,10 +4,7 @@ layout: nil
 
 [
 {% for field in site.data.order.damstf %}
-{% assign element = site.data.damstf[field] %}
-	{{ element | jsonify }}
-{% if forloop.last == false %}
-	,
-{% endif %}
+	{% assign element = site.data.damstf[field] %}
+	{{ element | jsonify }}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]
