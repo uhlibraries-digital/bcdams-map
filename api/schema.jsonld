@@ -3,6 +3,27 @@ layout: nil
 ---
 
 [
+	{
+	  "@context": { "resource": "https://www.w3.org/1999/02/22-rdf-syntax-ns#Resource",
+	                "label": "http://www.w3.org/2000/01/rdf-schema#label",
+	                "comment": "http://www.w3.org/2000/01/rdf-schema#comment",
+	                "member": "https://www.w3.org/1999/02/22-rdf-syntax-ns#member" },
+	  "@type": "resource",
+	  "@id": "{{ site.url }}",
+	  "label": "{{ site.title }}",
+	  "comment": "{{ site.desc }}",
+		{% for field in site.data.order.dptf %}
+			{% assign element = site.data.dptf[field] %}
+			"member": {{ element.uri }},
+		{% endfor %}
+		{% for field in site.data.order.damstf %}
+			{% assign element = site.data.damstf[field] %}
+			"member": {{ element.uri }},
+			{% if forloop.last == false %}
+				,
+			{% endif %}
+		{% endfor %}
+	}
 {% for field in site.data.order.dptf %}
 	{% assign element = site.data.dptf[field] %}
 	{% include element.jsonld %},
