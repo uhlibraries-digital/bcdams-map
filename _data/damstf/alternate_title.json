@@ -1,8 +1,8 @@
 {
-	"label": "Alternative Title",
+	"label": "Alternate Title",
 	"namespace": "dcterms",
 	"name": "alternative",
-	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#alternative",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#alternateTitle",
 	"same_as": "http://purl.org/dc/terms/alternative",
 	"definition": "An alternative name for the resource.",
 	"range_label": "String",
