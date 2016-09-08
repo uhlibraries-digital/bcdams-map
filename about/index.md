@@ -17,6 +17,6 @@ The {{ site.title }} builds on the University of Houston Digital Library's [Meta
 
 | Function                | Returns                           |
 | ----------------------- | --------------------------------- |
-| ```\api\dptf.json```    | DPTF metadata elements as JSON    |
-| ```\api\damstf.json```  | DAMSTF metadata elements as JSON  |
-| ```\api\graph.jsonld``` | {{ site.title }} graph as JSON-LD |
+| ```/api/dptf.json```    | DPTF metadata elements as JSON    |
+| ```/api/damstf.json```  | DAMSTF metadata elements as JSON  |
+| ```/api/graph.jsonld``` | {{ site.title }} graph as JSON-LD |
