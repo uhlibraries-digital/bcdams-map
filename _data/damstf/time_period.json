@@ -1,14 +1,13 @@
 {
-	"label": "",
-	"namespace": "",
-	"name": "",
-	"uri": "",
-	"same_as": "",
-	"definition": "",
+	"label": "Time Period",
+	"namespace": "dcterms",
+	"name": "temporal",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#timePeriod",
+	"same_as": "http://purl.org/dc/terms/temporal",
+	"definition": "Temporal characteristics of the described resource. Captures aboutness.",
 	"usage": "",
-	"range_label": "",
-	"range_uri": "",
+	"range_label": "Time Period",
 	"required": "",
-	"repeatable": "",
-	"hidden": ""
+	"repeatable": "true",
+	"hidden": "false"
 }

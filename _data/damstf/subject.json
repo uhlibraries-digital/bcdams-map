@@ -1,14 +1,14 @@
 {
-	"label": "",
-	"namespace": "",
-	"name": "",
-	"uri": "",
-	"same_as": "",
-	"definition": "",
+	"label": "Subject",
+	"namespace": "dcterms",
+	"name": "subject",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#subject",
+	"same_as": "http://purl.org/dc/terms/subject",
+	"definition": "Topic of described resource.",
 	"usage": "",
-	"range_label": "",
-	"range_uri": "",
+	"range_label": "Concept",
+	"range_uri": "https://id.lib.uh.edu/ark:/84475/au0477sn120",
 	"required": "",
-	"repeatable": "",
-	"hidden": ""
+	"repeatable": "true",
+	"hidden": "false"
 }

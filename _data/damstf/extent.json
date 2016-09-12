@@ -1,14 +1,13 @@
 {
-	"label": "",
-	"namespace": "",
-	"name": "",
-	"uri": "",
-	"same_as": "",
-	"definition": "",
+	"label": "Extent",
+	"namespace": "dcterms",
+	"name": "extent",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#extent",
+	"same_as": "http://purl.org/dc/terms/extent",
+	"definition": "Size or duration of described resource.",
 	"usage": "",
-	"range_label": "",
-	"range_uri": "",
+	"range_label": "String",
 	"required": "",
-	"repeatable": "",
-	"hidden": ""
+	"repeatable": "false",
+	"hidden": "false"
 }

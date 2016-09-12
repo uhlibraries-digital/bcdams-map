@@ -1,14 +1,13 @@
 {
-	"label": "",
-	"namespace": "",
-	"name": "",
-	"uri": "",
+	"label": "Note",
+	"namespace": "uhlib",
+	"name": "note",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#note",
 	"same_as": "",
-	"definition": "",
+	"definition": "Additional information about the described resource.",
 	"usage": "",
-	"range_label": "",
-	"range_uri": "",
+	"range_label": "String",
 	"required": "",
-	"repeatable": "",
-	"hidden": ""
+	"repeatable": "false",
+	"hidden": "false"
 }

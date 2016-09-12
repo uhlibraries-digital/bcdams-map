@@ -1,14 +1,14 @@
 {
-	"label": "",
-	"namespace": "",
-	"name": "",
-	"uri": "",
-	"same_as": "",
-	"definition": "",
+	"label": "Donor",
+	"namespace": "dcterms",
+	"name": "provenance",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#donor",
+	"same_as": "http://purl.org/dc/terms/provenance",
+	"definition": "A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.",
 	"usage": "",
-	"range_label": "",
-	"range_uri": "",
+	"range_label": "Agent",
+	"range_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
 	"required": "",
-	"repeatable": "",
-	"hidden": ""
+	"repeatable": "true",
+	"hidden": "false"
 }

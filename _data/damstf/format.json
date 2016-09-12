@@ -1,14 +1,13 @@
 {
-	"label": "",
-	"namespace": "",
-	"name": "",
-	"uri": "",
-	"same_as": "",
-	"definition": "",
+	"label": "Format",
+	"namespace": "dc",
+	"name": "format",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#format",
+	"same_as": "http://purl.org/dc/elements/1.1/format",
+	"definition": "Physical medium or dimensions of described resource.",
 	"usage": "",
-	"range_label": "",
-	"range_uri": "",
+	"range_label": "String",
 	"required": "",
 	"repeatable": "",
-	"hidden": ""
+	"hidden": "false"
 }
