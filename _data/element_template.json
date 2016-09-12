@@ -9,5 +9,6 @@
 	"range_label": "",
 	"range_uri": "",
 	"required": "",
-	"repeatable": ""
+	"repeatable": "",
+	"hidden": ""
 }

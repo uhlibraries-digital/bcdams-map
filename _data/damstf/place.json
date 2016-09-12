@@ -5,9 +5,10 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#place",
 	"same_as": "http://purl.org/dc/terms/spatial",
 	"definition": "Spatial characteristics of the resource.",
-	"note": "",
+	"usage": "",
 	"range_label": "Place",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au9146r1446",
 	"required": "",
-	"repeatable": ""
+	"repeatable": "",
+	"hidden": "false"
 }

@@ -5,7 +5,9 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#description",
 	"same_as": "http://purl.org/dc/terms/description",
 	"definition": "An account of the resource.",
+	"usage": "",
 	"range_label": "String",
 	"required": "false",
-	"repeatable": "false"
+	"repeatable": "false",
+	"hidden": "false"
 }

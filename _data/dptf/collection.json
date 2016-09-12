@@ -5,6 +5,8 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#isPartOf",
 	"same_as": "http://purl.org/dc/terms/isPartOf",
 	"definition": "A related resource in which the described resource is physically or logically included.",
+	"usage": "",
 	"required": "false",
-	"repeatable": "true"
+	"repeatable": "true",
+	"hidden": "false"
 }

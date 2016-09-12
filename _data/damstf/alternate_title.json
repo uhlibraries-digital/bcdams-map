@@ -5,7 +5,9 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#alternateTitle",
 	"same_as": "http://purl.org/dc/terms/alternative",
 	"definition": "An alternative name for the resource.",
+	"usage": "",
 	"range_label": "String",
 	"required": "",
-	"repeatable": ""
+	"repeatable": "",
+	"hidden": "false"
 }
