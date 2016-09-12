@@ -2,7 +2,7 @@
 	"label": "Place",
 	"namespace": "dcterms",
 	"name": "spatial",
-	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#place",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#spatial",
 	"same_as": "http://purl.org/dc/terms/spatial",
 	"definition": "Spatial characteristics of the resource.",
 	"usage": "",
