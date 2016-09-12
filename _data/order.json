@@ -13,9 +13,18 @@
 		"alternate_title",
 		"series_title",
 		"contributor",
-		"place"
+		"subject",
+		"genre",
+		"place",
+		"time_period",
+		"format",
+		"type",
+		"extent",
+		"language",
+		"donor",
+		"note"
 	],
 	"technical": [
-		
+
 	]
 }
