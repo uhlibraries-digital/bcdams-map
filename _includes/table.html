@@ -33,12 +33,10 @@
 	<td><b>Definition</b></td>
 	<td>{{ element.definition }}</td>
 </tr>
-{% if element.note %}
-	<tr>
-		<td><b>Note</b></td>
-		<td>{{ element.note }}</td>
-	</tr>
-{% endif %}
+<tr>
+	<td><b>Usage</b></td>
+	<td>{{ element.usage }}</td>
+</tr>
 {% if element.range_label %}
 	{% if element.range_uri %}
 		<tr>
