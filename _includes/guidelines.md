@@ -5,9 +5,11 @@
 {% endif %}
 
 # Input Guidelines: {{ element.label }}
-<{{ element.uri }}>
+
+__URI:__ <{{ element.uri }}>
 
 __Definition:__ {{ element.definition }}
+
 __Same As:__ <{{ element.same_as }}>
 
 ---
