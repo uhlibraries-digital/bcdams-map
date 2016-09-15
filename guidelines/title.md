@@ -8,7 +8,7 @@ comments: false
 {% assign element = site.data.dptf[page.field] %}
 
 # Input Guidelines: {{ element.label }}
-
+{{ element.uri }}
 ---
 
 __Letter:__ Letter from [sender] to [recipient] regarding [subject]
