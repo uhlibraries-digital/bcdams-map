@@ -2,7 +2,7 @@
 layout: template1
 title: Collection
 set: dptf
-data: collection
+data: isPartOf
 comments: false
 ---
 
