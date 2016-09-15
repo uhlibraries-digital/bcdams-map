@@ -5,9 +5,9 @@
 		"date",
 		"description",
 		"publisher",
-		"collection",
+		"isPartOf",
 		"rights",
-		"access_rights"
+		"accessRights"
 	],
 	"damstf": [
 		"alternate_title",
