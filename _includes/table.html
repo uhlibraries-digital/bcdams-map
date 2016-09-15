@@ -41,6 +41,9 @@
 			<td><b>Range</b></td>
 			<td>
 				<a href="{{ element.range_uri }}">{{ element.range_label }}</a>
+				{% if element.range2_label %}
+					<span> | <a href="{{ element.range2_uri }}">{{ element.range2_label }}</a></span>
+				{% endif %}
 			</td>
 		</tr>
 	{% else %}
