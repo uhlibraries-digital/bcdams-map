@@ -1,16 +1,11 @@
 ---
 layout: template1
 title: Title
-field: title
+data: title
 comments: false
 ---
 
-{% assign element = site.data.dptf[page.field] %}
-
-# Input Guidelines: {{ element.label }}
-<{{ element.uri }}>
-
----
+{% include guidelines.md %}
 
 __Letter:__ Letter from [sender] to [recipient] regarding [subject]
 
