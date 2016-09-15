@@ -4,7 +4,7 @@ title: Metadata Input Guidelines
 comments: false
 ---
 
-# Input Guidelines
+# Descriptive Metadata Input Guidelines
 
 ## DPTF
 {% for field in site.data.order.dptf %}
