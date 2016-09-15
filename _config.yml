@@ -32,6 +32,7 @@ avatar: "/img/uh.jpg"
 nav-links:
   Home: ""
   About: "about"
+  Guidelines: "guidelines"
   Contact: "contact"
 
 # --- Footer options --- #
