@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#hasType",
 	"same_as": "http://www.europeana.eu/schemas/edm/hasType",
 	"definition": "Captures categories of described resource in a given field. Does not capture aboutness.",
-	"usage": "",
 	"range_label": "AAT",
 	"required": "",
 	"repeatable": "",

@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#accessRights",
 	"same_as": "http://purl.org/dc/terms/accessRights",
 	"definition": "Information about who can access the resource or an indication of its security status.",
-	"usage": "",
 	"range_label": "Rights Statement",
 	"range_uri": "http://rightsstatements.org/page/1.0/",
 	"required": "false",

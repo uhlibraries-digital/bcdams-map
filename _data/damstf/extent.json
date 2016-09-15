@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#extent",
 	"same_as": "http://purl.org/dc/terms/extent",
 	"definition": "Size or duration of described resource.",
-	"usage": "",
 	"range_label": "String",
 	"required": "",
 	"repeatable": "false",

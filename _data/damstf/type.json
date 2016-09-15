@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#type",
 	"same_as": "http://purl.org/dc/terms/type",
 	"definition": "Nature or genre of described resource.",
-	"usage": "",
 	"range_label": "DCMI Type",
 	"range_uri": "http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=dcmitype#H7",
 	"required": "",

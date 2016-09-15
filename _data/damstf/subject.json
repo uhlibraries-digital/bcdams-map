@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#subject",
 	"same_as": "http://purl.org/dc/terms/subject",
 	"definition": "Topic of described resource.",
-	"usage": "",
 	"range_label": "Concept",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au0477sn120",
 	"required": "",

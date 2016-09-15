@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#temporal",
 	"same_as": "http://purl.org/dc/terms/temporal",
 	"definition": "Temporal characteristics of the described resource. Captures aboutness.",
-	"usage": "",
 	"range_label": "Time Period",
 	"required": "",
 	"repeatable": "true",

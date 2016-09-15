@@ -5,7 +5,6 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#date",
 	"same_as": "http://purl.org/dc/elements/1.1/date",
 	"definition": "A point or period of time associated with an event in the lifecycle of the resource, typically its date of creation.",
-	"usage": "",
 	"range_label": "EDTF Date",
 	"range_uri": "http://www.loc.gov/standards/datetime/pre-submission.html",
 	"required": "false",
