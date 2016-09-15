@@ -4,7 +4,7 @@
 	"name": "description",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#description",
 	"same_as": "http://purl.org/dc/terms/description",
-	"definition": "An account of the resource.",
+	"definition": "Includes but is not limited to: an abstract, a table of contents, or a free-text account of described resource.",
 	"usage": "",
 	"range_label": "String",
 	"required": "false",

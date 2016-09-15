@@ -4,7 +4,7 @@
 	"name": "rights",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#rights",
 	"same_as": "http://purl.org/dc/elements/1.1/rights",
-	"definition": "Information about rights held in and over the resource.",
+	"definition": "Information about rights held in and over the described resource. Typically, rights information includes a statement about various property rights associated with the described resource, including intellectual property rights.",
 	"usage": "",
 	"range_label": "Rights Statement",
 	"range_uri": "http://rightsstatements.org/page/1.0/",
