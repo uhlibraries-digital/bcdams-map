@@ -9,9 +9,11 @@ comments: false
 
 # Input Guidelines: {{ element.label }}
 
+---
+
 __Letter:__ Letter from [sender] to [recipient] regarding [subject]
 
-The subject statement at the end is optional. If included, Metadata Specialists should utilize a variety of words for "regarding," such as: about, concerning, in reference to, etc.
+_The subject statement at the end is optional. If included, Metadata Specialists should utilize a variety of words for "regarding," such as: about, concerning, in reference to, etc._
 
 __Newsletter:__ [title of newsletter], [issue date]
 
