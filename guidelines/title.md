@@ -9,6 +9,7 @@ comments: false
 
 # Input Guidelines: {{ element.label }}
 {{ element.uri }}
+
 ---
 
 __Letter:__ Letter from [sender] to [recipient] regarding [subject]
