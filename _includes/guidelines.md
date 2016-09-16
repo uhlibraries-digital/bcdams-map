@@ -12,6 +12,8 @@ __Definition:__ {{ element.definition }}
 
 __Same As:__ <{{ element.same_as }}>
 
+__Obligation:__ {% include obligation_label.md %}
+
 ---
 
 ## Input Guidelines
