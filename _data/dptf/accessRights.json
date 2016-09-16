@@ -7,7 +7,7 @@
 	"definition": "Information about who can access the resource or an indication of its security status.",
 	"range_label": "Rights Statement",
 	"range_uri": "http://rightsstatements.org/page/1.0/",
-	"obligation": "false",
+	"obligation": "required",
 	"repeatable": "false",
 	"hidden": "false"
 }

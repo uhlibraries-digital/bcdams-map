@@ -7,7 +7,7 @@
 	"definition": "A point or period of time associated with an event in the lifecycle of the resource.",
 	"range_label": "EDTF Date",
 	"range_uri": "http://www.loc.gov/standards/datetime/pre-submission.html",
-	"obligation": "false",
+	"obligation": "stronglyRecommended",
 	"repeatable": "false",
 	"hidden": "false"
 }
