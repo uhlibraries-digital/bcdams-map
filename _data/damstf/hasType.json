@@ -4,7 +4,7 @@
 	"name": "hasType",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#hasType",
 	"same_as": "http://www.europeana.eu/schemas/edm/hasType",
-	"definition": "The identifier of a concept, or a word or phrase from a controlled vocabulary (thesaurus	etc) giving the type of the CHO.",
+	"definition": "The identifier of a concept, or a word or phrase from a controlled vocabulary (thesaurus etc) giving the type of the CHO.",
 	"range_label": "AAT",
 	"range_uri": "https://vocab.lib.uh.edu/en/collections/aat.html",
 	"obligation": "optional",
