@@ -10,6 +10,6 @@
 	"range2_label": "Agent",
 	"range2_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
 	"obligation": "stronglyRecommended",
-	"repeatable": "true",
-	"hidden": "false"
+	"repeatable": true,
+	"hidden": false
 }

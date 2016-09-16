@@ -7,6 +7,6 @@
 	"definition": "The file format, physical medium, or dimensions of the resource.",
 	"range_label": "String",
 	"obligation": "recommended",
-	"repeatable": "true",
-	"hidden": "false"
+	"repeatable": true,
+	"hidden": false
 }

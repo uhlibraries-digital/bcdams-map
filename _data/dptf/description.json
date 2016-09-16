@@ -7,6 +7,6 @@
 	"definition": "An account of the resource.",
 	"range_label": "String",
 	"obligation": "optional",
-	"repeatable": "false",
-	"hidden": "false"
+	"repeatable": false,
+	"hidden": false
 }

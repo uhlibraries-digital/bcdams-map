@@ -8,6 +8,6 @@
 	"range_label": "AAT",
 	"range_uri": "https://vocab.lib.uh.edu/en/collections/aat.html",
 	"obligation": "optional",
-	"repeatable": "true",
-	"hidden": "false"
+	"repeatable": true,
+	"hidden": false
 }

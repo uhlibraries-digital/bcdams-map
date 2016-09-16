@@ -7,6 +7,6 @@
 	"definition": "Additional information about the described resource.",
 	"range_label": "String",
 	"obligation": "optional",
-	"repeatable": "false",
-	"hidden": "false"
+	"repeatable": false,
+	"hidden": false
 }

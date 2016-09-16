@@ -7,6 +7,6 @@
 	"definition": "Temporal characteristics of the resource.",
 	"range_label": "Time Period",
 	"obligation": "optional",
-	"repeatable": "true",
-	"hidden": "false"
+	"repeatable": true,
+	"hidden": false
 }

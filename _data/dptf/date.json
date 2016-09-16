@@ -8,6 +8,6 @@
 	"range_label": "EDTF Date",
 	"range_uri": "http://www.loc.gov/standards/datetime/pre-submission.html",
 	"obligation": "stronglyRecommended",
-	"repeatable": "true",
-	"hidden": "false"
+	"repeatable": true,
+	"hidden": false
 }
