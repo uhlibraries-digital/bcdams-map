@@ -7,7 +7,7 @@
 	"definition": "The identifier of a concept, or a word or phrase from a controlled vocabulary (thesaurus	etc) giving the type of the CHO.",
 	"range_label": "AAT",
 	"range_uri": "https://vocab.lib.uh.edu/en/collections/aat.html",
-	"obligation": "",
+	"obligation": "optional",
 	"repeatable": "",
 	"hidden": "false"
 }

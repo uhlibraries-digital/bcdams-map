@@ -7,7 +7,7 @@
 	"definition": "A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.",
 	"range_label": "Agent",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
-	"obligation": "",
+	"obligation": "optional",
 	"repeatable": "true",
 	"hidden": "false"
 }

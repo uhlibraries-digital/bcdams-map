@@ -7,7 +7,7 @@
 	"definition": "A language of the resource.",
 	"range_label": "Lexvo",
 	"range_uri": "http://www.lexvo.org/",
-	"obligation": "",
+	"obligation": "requiredWhenAvailable",
 	"repeatable": "true",
 	"hidden": "false"
 }
