@@ -7,6 +7,6 @@
 	"definition": "An alternative name for the resource.",
 	"range_label": "String",
 	"obligation": "optional",
-	"repeatable": "",
+	"repeatable": "true",
 	"hidden": "false"
 }
