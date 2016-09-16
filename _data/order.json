@@ -10,18 +10,18 @@
 		"accessRights"
 	],
 	"damstf": [
-		"alternate_title",
-		"series_title",
+		"alternative",
+		"series",
 		"contributor",
 		"subject",
-		"genre",
-		"place",
-		"time_period",
+		"hasType",
+		"spatial",
+		"temporal",
 		"format",
 		"type",
 		"extent",
 		"language",
-		"donor",
+		"provenance",
 		"note"
 	],
 	"technical": [
