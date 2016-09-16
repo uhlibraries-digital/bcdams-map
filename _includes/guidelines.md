@@ -14,6 +14,8 @@ __Same As:__ <{{ element.same_as }}>
 
 __Obligation:__ {% include obligation_label.md %}
 
+__Repeatable:__ {% if element.repeatable == "true" %}True{% else %}False{% endif %}
+
 ---
 
 ## Input Guidelines
