@@ -4,7 +4,7 @@
 	"name": "format",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#format",
 	"same_as": "http://purl.org/dc/elements/1.1/format",
-	"definition": "Physical medium or dimensions of described resource.",
+	"definition": "The file format, physical medium, or dimensions of the resource.",
 	"range_label": "String",
 	"obligation": "",
 	"repeatable": "",

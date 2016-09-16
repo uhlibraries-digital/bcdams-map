@@ -4,7 +4,7 @@
 	"name": "language",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#language",
 	"same_as": "http://purl.org/dc/terms/language",
-	"definition": "Language(s) of described resource.",
+	"definition": "A language of the resource.",
 	"range_label": "Lexvo",
 	"range_uri": "http://www.lexvo.org/",
 	"obligation": "",
