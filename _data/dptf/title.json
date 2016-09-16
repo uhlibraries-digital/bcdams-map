@@ -6,7 +6,7 @@
 	"same_as": "http://purl.org/dc/terms/title",
 	"definition": "A name given to the resource.",
 	"range_label": "String",
-	"required": "true",
+	"obligation": "true",
 	"repeatable": "false",
 	"hidden": "false"
 }

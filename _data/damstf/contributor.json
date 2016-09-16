@@ -7,7 +7,7 @@
 	"definition": "An entity responsible for making contributions to the resource.",
 	"range_label": "Agent",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
-	"required": "",
+	"obligation": "",
 	"repeatable": "true",
 	"hidden": "false"
 }

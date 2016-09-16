@@ -6,7 +6,7 @@
 	"same_as": "http://purl.org/dc/elements/1.1/format",
 	"definition": "Physical medium or dimensions of described resource.",
 	"range_label": "String",
-	"required": "",
+	"obligation": "",
 	"repeatable": "",
 	"hidden": "false"
 }

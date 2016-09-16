@@ -7,7 +7,7 @@
 	"definition": "Nature or genre of described resource.",
 	"range_label": "DCMI Type",
 	"range_uri": "http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=dcmitype#H7",
-	"required": "",
+	"obligation": "",
 	"repeatable": "",
 	"hidden": "false"
 }

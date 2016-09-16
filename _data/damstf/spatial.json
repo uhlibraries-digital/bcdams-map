@@ -7,7 +7,7 @@
 	"definition": "Spatial characteristics of the resource.",
 	"range_label": "Place",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au9146r1446",
-	"required": "",
+	"obligation": "",
 	"repeatable": "",
 	"hidden": "false"
 }
