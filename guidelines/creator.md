@@ -1,7 +1,6 @@
 ---
 layout: template1
 title: Creator
-set: dptf
 data: creator
 comments: false
 ---

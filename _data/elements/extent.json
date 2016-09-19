@@ -8,6 +8,7 @@
 	"definition": "The size or duration of the resource.",
 	"range_label": "String",
 	"obligation": "optional",
+	"type": "descriptive",
 	"input": "single",
 	"repeatable": true,
 	"hidden": false

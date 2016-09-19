@@ -1,7 +1,6 @@
 ---
 layout: template1
 title: Collection
-set: dptf
 data: isPartOf
 comments: false
 ---

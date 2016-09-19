@@ -1,8 +1,4 @@
-{% if page.set == "dptf" %}
-	{% assign element = site.data.dptf[page.data] %}
-{% else %}
-	{% assign element = site.data.damstf[page.data] %}
-{% endif %}
+{% assign element = site.data.elements[page.data] %}
 
 # {{ element.label }}
 

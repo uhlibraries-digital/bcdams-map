@@ -1,27 +1,27 @@
 {
-	"dptf": [
+	"descriptive": [
 		"title",
-		"creator",
-		"date",
-		"description",
-		"publisher",
-		"isPartOf",
-		"rights",
-		"accessRights"
-	],
-	"damstf": [
 		"alternative",
 		"series",
+		"creator",
 		"contributor",
+		"publisher",
+		"date",
+		"language",
+		"description",
 		"subject",
-		"hasType",
 		"spatial",
 		"temporal",
+		"hasType",
 		"format",
 		"type",
-		"extent",
-		"language",
+		"extent"
+	],
+	"administrative": [
+		"isPartOf",
 		"provenance",
+		"rights",
+		"accessRights",
 		"note"
 	],
 	"technical": [

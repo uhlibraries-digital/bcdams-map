@@ -1,7 +1,6 @@
 ---
 layout: template1
 title: Publisher
-set: dptf
 data: publisher
 comments: false
 ---

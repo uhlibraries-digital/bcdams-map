@@ -9,6 +9,7 @@
 	"range_label": "DCMI Type",
 	"range_uri": "http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=dcmitype#H7",
 	"obligation": "requiredWhenAvailable",
+	"type": "descriptive",
 	"input": "single",
 	"repeatable": true,
 	"hidden": false

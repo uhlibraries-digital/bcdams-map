@@ -1,7 +1,6 @@
 ---
 layout: template1
 title: Description
-set: dptf
 data: description
 comments: false
 ---

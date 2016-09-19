@@ -1,7 +1,6 @@
 ---
 layout: template1
 title: Date
-set: dptf
 data: date
 comments: false
 ---

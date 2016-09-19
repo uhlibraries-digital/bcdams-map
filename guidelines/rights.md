@@ -1,7 +1,6 @@
 ---
 layout: template1
 title: Rights
-set: dptf
 data: rights
 comments: false
 ---

@@ -6,14 +6,14 @@ comments: false
 
 # Metadata Input Guidelines
 
-## DPTF
-{% for field in site.data.order.dptf %}
-  {% assign element = site.data.dptf[field] %}
-  * [{{ element.label }}]({{ site.url }}/guidelines/{{ element.name }})
+## Descriptive
+{% for field in site.data.order.descriptive %}
+  {% assign element = site.data.elements[field] %}
+  * [{{ element.label }}]({{ element.guidelines_uri }})
 {% endfor %}
 
-## DAMSTF
-{% for field in site.data.order.damstf %}
-  {% assign element = site.data.damstf[field] %}
-  * [{{ element.label }}]({{ site.url }}/guidelines/{{ element.name }})
+## Administrative
+{% for field in site.data.order.administrative %}
+  {% assign element = site.data.elements[field] %}
+  * [{{ element.label }}]({{ element.guidelines_uri }})
 {% endfor %}

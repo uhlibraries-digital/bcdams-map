@@ -8,6 +8,7 @@
 	"definition": "An alternative name for the resource.",
 	"range_label": "String",
 	"obligation": "optional",
+	"type": "descriptive",
 	"input": "single",
 	"repeatable": true,
 	"hidden": false

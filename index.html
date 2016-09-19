@@ -6,34 +6,32 @@ layout: template1
 <h2>Metadata Application Profile</h2>
 
 <hr>
-<p><b>DPTF:</b>
-{% for field in site.data.order.dptf %}
-  {% assign element = site.data.dptf[field] %}
+<p><b>Descriptive:</b>
+{% for field in site.data.order.descriptive %}
+  {% assign element = site.data.elements[field] %}
   {% include toc.html %}
 {% endfor %}
 </p>
-<p><b>DAMSTF:</b>
-{% for field in site.data.order.damstf %}
-  {% assign element = site.data.damstf[field] %}
+<p><b>Administrative:</b>
+{% for field in site.data.order.administrative %}
+  {% assign element = site.data.elements[field] %}
   {% include toc.html %}
 {% endfor %}
 </p>
 <hr>
 
-<h3>DPTF</h3>
-<p>Fields identified as important for preservation by the Digital Preservation Task Force</p>
+<h3>Descriptive Metadata</h3>
 <table class="border" cellspacing="0">
-{% for field in site.data.order.dptf %}
-  {% assign element = site.data.dptf[field] %}
+{% for field in site.data.order.descriptive %}
+  {% assign element = site.data.elements[field] %}
   {% include table.html %}
 {% endfor %}
 </table>
 
-<h3>DAMSTF</h3>
-<p>Fields identified as important for access by the Digital Asset Management System Task Force</p>
+<h3>Administrative Metadata</h3>
 <table class="border" cellspacing="0">
-{% for field in site.data.order.damstf %}
-  {% assign element = site.data.damstf[field] %}
+{% for field in site.data.order.administrative %}
+  {% assign element = site.data.elements[field] %}
   {% include table.html %}
 {% endfor %}
 </table>
