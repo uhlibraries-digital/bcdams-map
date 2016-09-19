@@ -14,13 +14,8 @@ layout: nil
   "comment": "{{ site.desc }}",
 	"@graph":
 	[
-		{% for field in site.data.order.dptf %}
-			{% assign element = site.data.dptf[field] %}
-			{% include element.jsonld %},
-		{% endfor %}
-		{% for field in site.data.order.damstf %}
-			{% assign element = site.data.damstf[field] %}
-			{% include element.jsonld %}{% if forloop.last == false %},{% endif %}
-		{% endfor %}
+	{% for field in site.data.elements %}
+		{% include element.jsonld %}{% if forloop.last == false %},{% endif %}
+	{% endfor %}
 	]
 }

@@ -15,8 +15,9 @@ The {{ site.title }} builds on the University of Houston Digital Library's [Meta
 
 # API
 
-| Function                | Returns                           |
-| ----------------------- | --------------------------------- |
-| ```/api/dptf.json```    | DPTF metadata elements as JSON    |
-| ```/api/damstf.json```  | DAMSTF metadata elements as JSON  |
-| ```/api/graph.jsonld``` | {{ site.title }} graph as JSON-LD |
+| Function                        | Returns                                   |
+| ------------------------------- | ----------------------------------------- |
+| ```/api/map.json```             | All metadata elements as JSON             |
+| ```/api/descriptive.json```     | Descriptive metadata elements as JSON     |
+| ```/api/administrative.json```  | Administrative metadata elements as JSON  |
+| ```/api/graph.jsonld```         | {{ site.title }} graph as JSON-LD         |

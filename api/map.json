@@ -3,12 +3,7 @@ layout: nil
 ---
 
 [
-{% for field in site.data.order.dptf %}
-	{% assign element = site.data.dptf[field] %}
-	{{ element | jsonify }},
-{% endfor %}
-{% for field in site.data.order.damstf %}
-	{% assign element = site.data.damstf[field] %}
+{% for element in site.data.elements %}
 	{{ element | jsonify }}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]

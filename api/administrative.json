@@ -3,8 +3,8 @@ layout: nil
 ---
 
 [
-{% for field in site.data.order.damstf %}
-	{% assign element = site.data.damstf[field] %}
+{% for field in site.data.order.administrative %}
+	{% assign element = site.data.elements[field] %}
 	{{ element | jsonify }}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]
