@@ -14,8 +14,8 @@ layout: nil
   "comment": "{{ site.desc }}",
 	"@graph":
 	[
-	{% for element in site.data.elements %}
-    {% assign element = element[1] %}
+	{% for field in site.data.elements %}
+    {% assign element = field[1] %}
 		{% include element.jsonld %}{% if forloop.last == false %},{% endif %}
 	{% endfor %}
 	]
