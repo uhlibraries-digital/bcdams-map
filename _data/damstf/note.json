@@ -3,7 +3,7 @@
 	"namespace": "uhlib",
 	"name": "note",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#note",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/note",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/note",
 	"same_as": "",
 	"definition": "Additional information about the described resource.",
 	"range_label": "String",

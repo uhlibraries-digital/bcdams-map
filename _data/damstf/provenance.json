@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "provenance",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#provenance",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/provenance",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/provenance",
 	"same_as": "http://purl.org/dc/terms/provenance",
 	"definition": "A statement of any changes in ownership and custody of the resource since its creation that are significant for its authenticity, integrity, and interpretation.",
 	"range_label": "Agent",

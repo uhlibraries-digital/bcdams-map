@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "type",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#type",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/type",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/type",
 	"same_as": "http://purl.org/dc/terms/type",
 	"definition": "The nature or genre of the resource.",
 	"range_label": "DCMI Type",

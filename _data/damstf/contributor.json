@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "contributor",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#contributor",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/contributor",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/contributor",
 	"same_as": "http://purl.org/dc/terms/contributor",
 	"definition": "An entity responsible for making contributions to the resource.",
 	"range_label": "Agent",

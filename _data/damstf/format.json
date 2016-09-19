@@ -3,7 +3,7 @@
 	"namespace": "dc",
 	"name": "format",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#format",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/format",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/format",
 	"same_as": "http://purl.org/dc/elements/1.1/format",
 	"definition": "The file format, physical medium, or dimensions of the resource.",
 	"range_label": "String",

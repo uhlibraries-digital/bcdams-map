@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "title",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#title",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/title",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/title",
 	"same_as": "http://purl.org/dc/terms/title",
 	"definition": "A name given to the resource.",
 	"range_label": "String",

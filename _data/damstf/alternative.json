@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "alternative",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#alternative",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/alternative",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/alternative",
 	"same_as": "http://purl.org/dc/terms/alternative",
 	"definition": "An alternative name for the resource.",
 	"range_label": "String",

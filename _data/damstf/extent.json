@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "extent",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#extent",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/extent",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/extent",
 	"same_as": "http://purl.org/dc/terms/extent",
 	"definition": "The size or duration of the resource.",
 	"range_label": "String",

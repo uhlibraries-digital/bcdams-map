@@ -3,7 +3,7 @@
 	"namespace": "dcterms",
 	"name": "temporal",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#temporal",
-	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/temporal",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/temporal",
 	"same_as": "http://purl.org/dc/terms/temporal",
 	"definition": "Temporal characteristics of the resource.",
 	"range_label": "Time Period",
