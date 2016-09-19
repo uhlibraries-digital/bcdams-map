@@ -3,6 +3,7 @@
 	"namespace": "dcterms",
 	"name": "creator",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#creator",
+	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/creator",
 	"same_as": "http://purl.org/dc/terms/creator",
 	"definition": "An entity primarily responsible for making the resource.",
 	"range_label": "Agent",

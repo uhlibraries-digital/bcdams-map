@@ -3,6 +3,7 @@
 	"namespace": "edm",
 	"name": "hasType",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#hasType",
+	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/hasType",
 	"same_as": "http://www.europeana.eu/schemas/edm/hasType",
 	"definition": "The identifier of a concept, or a word or phrase from a controlled vocabulary (thesaurus etc) giving the type of the CHO.",
 	"range_label": "AAT",

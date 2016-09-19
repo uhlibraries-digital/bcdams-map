@@ -3,6 +3,7 @@
 	"namespace": "dc",
 	"name": "date",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#date",
+	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/date",
 	"same_as": "http://purl.org/dc/elements/1.1/date",
 	"definition": "A point or period of time associated with an event in the lifecycle of the resource.",
 	"range_label": "EDTF Date",

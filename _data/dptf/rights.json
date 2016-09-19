@@ -3,6 +3,7 @@
 	"namespace": "dc",
 	"name": "rights",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#rights",
+	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/rights",
 	"same_as": "http://purl.org/dc/elements/1.1/rights",
 	"definition": "Information about rights held in and over the resource.",
 	"range_label": "Rights Statement",

@@ -3,6 +3,7 @@
 	"namespace": "dcterms",
 	"name": "subject",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#subject",
+	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/subject",
 	"same_as": "http://purl.org/dc/terms/subject",
 	"definition": "The topic of the resource.",
 	"range_label": "Concept",

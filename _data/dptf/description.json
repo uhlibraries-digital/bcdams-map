@@ -3,6 +3,7 @@
 	"namespace": "dcterms",
 	"name": "description",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#description",
+	"guidelines": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/description",
 	"same_as": "http://purl.org/dc/terms/description",
 	"definition": "An account of the resource.",
 	"range_label": "String",
