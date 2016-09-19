@@ -3,8 +3,7 @@ layout: nil
 ---
 
 [
-{% for field in site.data.elements %}
-	{% assign element = site.data.elements[field] %}
+{% for element in site.data.elements %}
 	{{ element | jsonify }}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]
