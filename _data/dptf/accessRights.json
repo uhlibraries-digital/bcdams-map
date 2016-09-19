@@ -9,6 +9,7 @@
 	"range_label": "Rights Statement",
 	"range_uri": "http://rightsstatements.org/page/1.0/",
 	"obligation": "required",
+	"input": "single",
 	"repeatable": false,
 	"hidden": false
 }

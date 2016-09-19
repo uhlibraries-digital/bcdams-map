@@ -8,6 +8,7 @@
 	"definition": "Additional information about the described resource.",
 	"range_label": "String",
 	"obligation": "optional",
+	"input": "multi",
 	"repeatable": false,
 	"hidden": false
 }

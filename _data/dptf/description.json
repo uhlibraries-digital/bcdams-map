@@ -8,6 +8,7 @@
 	"definition": "An account of the resource.",
 	"range_label": "String",
 	"obligation": "optional",
+	"input": "multi",
 	"repeatable": false,
 	"hidden": false
 }

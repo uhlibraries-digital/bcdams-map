@@ -9,6 +9,7 @@
 	"range_label": "Lexvo",
 	"range_uri": "http://www.lexvo.org/",
 	"obligation": "requiredWhenAvailable",
+	"input": "single",
 	"repeatable": true,
 	"hidden": false
 }

@@ -8,6 +8,7 @@
 	"definition": "A related resource in which the described resource is physically or logically included.",
 	"range_label": "Collection",
 	"obligation": "requiredWhenAvailable",
+	"input": "single",
 	"repeatable": true,
 	"hidden": false
 }

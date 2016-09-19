@@ -8,6 +8,7 @@
 	"definition": "A name given to the resource.",
 	"range_label": "String",
 	"obligation": "required",
+	"input": "single",
 	"repeatable": false,
 	"hidden": false
 }
