@@ -15,6 +15,7 @@ layout: nil
 	"@graph":
 	[
 	{% for field in site.data.elements %}
+    {% assign element = site.data.elements[field] %}
 		{% include element.jsonld %}{% if forloop.last == false %},{% endif %}
 	{% endfor %}
 	]

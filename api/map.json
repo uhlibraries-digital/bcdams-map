@@ -4,6 +4,7 @@ layout: nil
 
 [
 {% for element in site.data.elements %}
+	{% assign element = site.data.elements[field] %}
 	{{ element | jsonify }}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]
