@@ -4,7 +4,7 @@
 	"name": "title",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#title",
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/title",
-	"same_as": "http://purl.org/dc/terms/title",
+	"same_as_uri": "http://purl.org/dc/terms/title",
 	"definition": "A name given to the resource.",
 	"range_label": "String",
 	"obligation": "required",

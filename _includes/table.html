@@ -1,7 +1,7 @@
 <div about="{{ element.uri }}" prefix="rdfs: http://www.w3.org/2000/01/rdf-schema#" prefix="owl: http://www.w3.org/2002/07/owl#" typeof="http://www.w3.org/1999/02/22-rdf-syntax-ns#Property">
 	<div property="rdfs:label" content="{{ element.label }}"></div>
 	<div property="rdfs:comment" content="{{ element.definition }}"></div>
-	<div property="owl:sameAs" content="{{ element.same_as }}"></div>
+	<div property="owl:sameAs" content="{{ element.same_as_uri }}"></div>
 </div>
 <tr>
 	<th colspan="2">
@@ -26,7 +26,7 @@
 <tr>
 	<td><b>Same As</b></td>
 	<td>
-		<a href="{{ element.same_as }}">{{ element.same_as }}</a>
+		<a href="{{ element.same_as_uri }}">{{ element.same_as_uri }}</a>
 	</td>
 </tr>
 <tr>

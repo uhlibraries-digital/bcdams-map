@@ -3,5 +3,5 @@
   "@id": "{{ element.uri }}",
   "label": "{{ element.label }}",
   "comment": "{{ element.definition }}",
-  "sameAs": "{{ element.same_as }}"
+  "sameAs": "{{ element.same_as_uri }}"
 }

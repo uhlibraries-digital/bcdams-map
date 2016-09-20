@@ -4,7 +4,7 @@
 	"name": "temporal",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#temporal",
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/temporal",
-	"same_as": "http://purl.org/dc/terms/temporal",
+	"same_as_uri": "http://purl.org/dc/terms/temporal",
 	"definition": "Temporal characteristics of the resource.",
 	"range_label": "Time Period",
 	"obligation": "optional",

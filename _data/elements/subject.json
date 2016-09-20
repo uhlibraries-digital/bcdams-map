@@ -4,7 +4,7 @@
 	"name": "subject",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#subject",
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/subject",
-	"same_as": "http://purl.org/dc/terms/subject",
+	"same_as_uri": "http://purl.org/dc/terms/subject",
 	"definition": "The topic of the resource.",
 	"range_label": "Concept",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au0477sn120",

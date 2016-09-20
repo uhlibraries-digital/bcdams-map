@@ -4,7 +4,7 @@
 	"name": "contributor",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#contributor",
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/contributor",
-	"same_as": "http://purl.org/dc/terms/contributor",
+	"same_as_uri": "http://purl.org/dc/terms/contributor",
 	"definition": "An entity responsible for making contributions to the resource.",
 	"range_label": "Agent",
 	"range_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",

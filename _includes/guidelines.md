@@ -6,7 +6,7 @@ __URI:__ <{{ element.uri }}>
 
 __Definition:__ {{ element.definition }}
 
-__Same As:__ <{{ element.same_as }}>
+__Same As:__ <{{ element.same_as_uri }}>
 
 __Obligation:__ {% include obligation_label.md %}
 

@@ -4,7 +4,7 @@
 	"name": "rights",
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#rights",
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/rights",
-	"same_as": "http://purl.org/dc/elements/1.1/rights",
+	"same_as_uri": "http://purl.org/dc/elements/1.1/rights",
 	"definition": "Information about rights held in and over the resource.",
 	"range_label": "Rights Statement",
 	"range_uri": "http://rightsstatements.org/page/1.0/",
