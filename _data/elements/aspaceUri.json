@@ -1,0 +1,15 @@
+{
+	"label": "ArchivesSpace URI",
+	"namespace": "uhlib",
+	"name": "aspaceUri",
+	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#aspaceUri",
+	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/aspaceUri",
+	"same_as_uri": "",
+	"definition": "The URI in ArchivesSpace that identifies the archival object in which the resource is contained.",
+	"range_label": "ArchivesSpace Object URI",
+	"obligation": "requiredWhenAvailable",
+	"type": "administrative",
+	"input": "single",
+	"repeatable": "false",
+	"hidden": "true"
+}
