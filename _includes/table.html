@@ -23,12 +23,14 @@
 		<a href="{{ element.uri }}">{{ element.uri }}</a>
 	</td>
 </tr>
+{% if element.same_as_uri %}
 <tr>
 	<td><b>Same As</b></td>
 	<td>
 		<a href="{{ element.same_as_uri }}">{{ element.same_as_uri }}</a>
 	</td>
 </tr>
+{% endif %}
 <tr>
 	<td><b>Definition</b></td>
 	<td>{{ element.definition }}<br>
