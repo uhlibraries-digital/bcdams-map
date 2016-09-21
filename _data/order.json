@@ -19,6 +19,7 @@
 	],
 	"administrative": [
 		"isPartOf",
+		"aspaceUri",
 		"provenance",
 		"rights",
 		"accessRights",
