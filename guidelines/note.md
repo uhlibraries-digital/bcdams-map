@@ -6,3 +6,5 @@ comments: false
 ---
 
 {% include guidelines.md %}
+
+Record any additional contextual information about the resource.

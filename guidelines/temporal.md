@@ -6,3 +6,5 @@ comments: false
 ---
 
 {% include guidelines.md %}
+
+Enter a term from an appropriate controlled vocabulary.
