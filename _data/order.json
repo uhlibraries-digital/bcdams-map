@@ -18,6 +18,7 @@
 		"extent"
 	],
 	"administrative": [
+		"identifier",
 		"isPartOf",
 		"aspaceUri",
 		"provenance",
