@@ -20,4 +20,5 @@ The {{ site.title }} builds on the University of Houston Digital Library's [Meta
 | ```/api/map.json```             | All metadata elements as JSON             |
 | ```/api/descriptive.json```     | Descriptive metadata elements as JSON     |
 | ```/api/administrative.json```  | Administrative metadata elements as JSON  |
+| ```/api/archival.json```        | Archival metadata elements as JSON        |
 | ```/api/graph.jsonld```         | {{ site.title }} graph as JSON-LD         |
