@@ -1,0 +1,10 @@
+---
+layout: nil
+---
+
+[
+{% for field in site.data.order.archival %}
+	{% assign element = site.data.elements[field] %}
+	{{ element | jsonify }}{% if forloop.last == false %},{% endif %}
+{% endfor %}
+]
