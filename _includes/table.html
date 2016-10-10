@@ -37,21 +37,22 @@
 		<a href="{{ element.guidelines_uri }}">Input Guidelines</a>
 	</td>
 </tr>
-{% if element.range_label %}
-	{% if element.range_uri %}
-		<tr>
-			<td><b>Range</b></td>
-			<td>
-				<a href="{{ element.range_uri }}">{{ element.range_label }}</a>
-				{% if element.range2_label %}
-					<span> | <a href="{{ element.range2_uri }}">{{ element.range2_label }}</a></span>
-				{% endif %}
-			</td>
-		</tr>
-	{% else %}
-		<tr>
-			<td><b>Range</b></td>
-			<td>{{ element.range_label }}</td>
-		</tr>
-	{% endif %}
-{% endif %}
+<tr>
+	<td><b>Range</b></td>
+	<td>
+		{% for r in element.range %}
+			{% if r.uri %}
+				<a href="{{ r.uri }}">{{ r.label }}  </a>
+			{% elsif r.values %}
+				{{ r.label }}:<br>
+				<ul>
+				{% for value in r.values %}
+					<li>{{ value }}</li>
+				{% endfor %}
+				</ul>
+			{% else %}
+				{{ r.label }}
+			{% endif %}
+		{% endfor %}
+	</td>
+</tr>
