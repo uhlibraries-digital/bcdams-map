@@ -8,6 +8,7 @@
 	"definition": "Information about who can access the resource or an indication of its security status.",
 	"range": [
 		{
+			"label": "Access Rights Statement",
 			"values": [
 			 	"Statement 1",
 			 	"Statement 2"
