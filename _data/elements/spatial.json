@@ -6,8 +6,12 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/spatial",
 	"same_as_uri": "http://purl.org/dc/terms/spatial",
 	"definition": "Spatial characteristics of the resource.",
-	"range_label": "Place",
-	"range_uri": "https://id.lib.uh.edu/ark:/84475/au9146r1446",
+	"range": [
+		{
+			"label": "Place",
+			"uri": "https://id.lib.uh.edu/ark:/84475/au9146r1446"
+		}
+	],
 	"obligation": "optional",
 	"type": "descriptive",
 	"input": "single",

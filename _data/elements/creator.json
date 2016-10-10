@@ -6,8 +6,12 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/creator",
 	"same_as_uri": "http://purl.org/dc/terms/creator",
 	"definition": "An entity primarily responsible for making the resource.",
-	"range_label": "Agent",
-	"range_uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f",
+	"range": [
+		{
+			"label": "Agent",
+			"uri": "https://id.lib.uh.edu/ark:/84475/au58708x76f"
+		}
+	],
 	"obligation": "recommended",
 	"type": "descriptive",
 	"input": "single",

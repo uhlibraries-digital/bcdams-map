@@ -6,7 +6,11 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/identifier",
 	"same_as_uri": "http://purl.org/dc/terms/identifier",
 	"definition": "An unambiguous reference to the resource within a given context.",
-	"range_label": "String",
+	"range": [
+		{
+			"label": "String"
+		}
+	],
 	"obligation": "requireWhenAvailable",
 	"type": "administrative",
 	"input": "single",

@@ -6,7 +6,11 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/alternative",
 	"same_as_uri": "http://purl.org/dc/terms/alternative",
 	"definition": "An alternative name for the resource.",
-	"range_label": "String",
+	"range": [
+		{
+			"label": "String"
+		}
+	],
 	"obligation": "optional",
 	"type": "descriptive",
 	"input": "single",

@@ -6,7 +6,11 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/series",
 	"same_as_uri": "http://bibframe.org/vocab/series",
 	"definition": "Work in which the part has been issued; the title of the larger work appears on the part.",
-	"range_label": "String",
+	"range": [
+		{
+			"label": "String"
+		}
+	],
 	"obligation": "optional",
 	"type": "descriptive",
 	"input": "single",

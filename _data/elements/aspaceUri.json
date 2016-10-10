@@ -5,7 +5,11 @@
 	"uri": "https://uhlibraries-digital.github.io/bcdams-map/#aspaceUri",
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/aspaceUri",
 	"definition": "The URI in ArchivesSpace that identifies the archival object in which the resource is contained.",
-	"range_label": "ArchivesSpace Object URI",
+	"range": [
+		{
+			"label": "ArchivesSpace Object URI"
+		}
+	],
 	"obligation": "requiredWhenAvailable",
 	"type": "administrative",
 	"input": "single",

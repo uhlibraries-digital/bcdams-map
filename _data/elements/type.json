@@ -6,8 +6,17 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/type",
 	"same_as_uri": "http://purl.org/dc/terms/type",
 	"definition": "The nature or genre of the resource.",
-	"range_label": "DCMI Type",
-	"range_uri": "http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=dcmitype#H7",
+	"range": [
+		{
+			"label": "DCMI Type",
+			"values": [
+				"Image",
+				"Moving Image",
+				"Sound",
+				"Text"
+			]
+		}
+	],
 	"obligation": "requiredWhenAvailable",
 	"type": "descriptive",
 	"input": "single",

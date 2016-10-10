@@ -6,7 +6,11 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/isPartOf",
 	"same_as_uri": "http://purl.org/dc/terms/isPartOf",
 	"definition": "A related resource in which the described resource is physically or logically included.",
-	"range_label": "Collection",
+	"range": [
+		{
+			"label": "Collection"
+		}
+	],
 	"obligation": "requiredWhenAvailable",
 	"type": "administrative",
 	"input": "single",

@@ -6,11 +6,21 @@
 	"guidelines_uri": "",
 	"same_as_uri": "",
 	"definition": "",
-	"range_label": "",
-	"range_uri": "",
+	"range": [
+		{
+			"label": "",
+		 	"uri": ""
+		},
+		{
+			"label": "",
+		 	"values": [
+				"",
+				""]
+		}
+	],
 	"obligation": "",
 	"type": "",
 	"input": "",
-	"repeatable": "",
-	"hidden": ""
+	"repeatable": boolean,
+	"hidden": boolean
 }

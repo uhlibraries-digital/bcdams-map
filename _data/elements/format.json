@@ -6,7 +6,11 @@
 	"guidelines_uri": "https://uhlibraries-digital.github.io/bcdams-map/guidelines/format",
 	"same_as_uri": "http://purl.org/dc/elements/1.1/format",
 	"definition": "The file format, physical medium, or dimensions of the resource.",
-	"range_label": "String",
+	"range": [
+		{
+			"label": "String"
+		}
+	],
 	"obligation": "recommended",
 	"type": "descriptive",
 	"input": "single",
