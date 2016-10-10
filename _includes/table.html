@@ -43,13 +43,6 @@
 		{% for r in element.range %}
 			{% if r.uri %}
 				<a href="{{ r.uri }}">{{ r.label }}  </a>
-			{% elsif r.values %}
-				{{ r.label }}:<br>
-				<ul>
-				{% for value in r.values %}
-					<li>{{ value }}</li>
-				{% endfor %}
-				</ul>
 			{% else %}
 				{{ r.label }}
 			{% endif %}
