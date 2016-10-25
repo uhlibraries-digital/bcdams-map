@@ -7,7 +7,7 @@ comments: false
 
 {% include guidelines.md %}
 
-## Access Guidelines
+### Access Guidelines
 
 Preferably this title comes from the item itself or uses some text that appears on the item. Write out the title or text from the item as it appears on the item.
 
@@ -35,4 +35,4 @@ __EXAMPLES__
 - Receipt from Annin & Co.
 - General Emiliano Zapata and his staff
 
-## Preservation Guidelines
+### Preservation Guidelines
