@@ -36,3 +36,9 @@ __EXAMPLES__
 - General Emiliano Zapata and his staff
 
 ### Preservation Guidelines
+
+A description of the contents of the preservation package.
+
+__EXAMPLES__
+
+- Samplified Digital Recording Studios Records, digitized ADAT recordings
