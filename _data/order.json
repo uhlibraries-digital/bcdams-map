@@ -20,7 +20,7 @@
 	"administrative": [
 		"identifier",
 		"isPartOf",
-		"aspaceUri",
+		"aSpaceUri",
 		"provenance",
 		"rights",
 		"accessRights",
