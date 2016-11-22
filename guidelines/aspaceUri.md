@@ -1,7 +1,7 @@
 ---
 layout: template1
 title: ArchivesSpace URI
-data: aspaceUri
+data: aSpaceUri
 comments: false
 ---
 
