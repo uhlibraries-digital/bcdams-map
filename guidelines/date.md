@@ -7,6 +7,8 @@ comments: false
 
 {% include guidelines.md %}
 
+**DPLA MAP v4 Usage:** Date value as supplied by Data Provider.
+
 ### Access Guidelines
 
 Enter the date of creation at the most specific level available.
