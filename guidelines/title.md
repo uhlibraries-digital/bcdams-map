@@ -7,6 +7,8 @@ comments: false
 
 {% include guidelines.md %}
 
+**DPLA MAP v4 Usage:** Primary name given to the described resource.
+
 ### Access Guidelines
 
 Preferably this title comes from the item itself or uses some text that appears on the item. Write out the title or text from the item as it appears on the item.
