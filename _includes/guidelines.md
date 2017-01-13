@@ -2,7 +2,7 @@
 
 # {{ element.label }}
 
-__URI:__ <{{ element.uri }}>
+__URI:__ <{{ site.url }}#{{ element.name }}>
 
 __Definition:__ {{ element.definition }}
 
