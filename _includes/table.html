@@ -20,7 +20,7 @@
 <tr>
 	<td><b>URI</b></td>
 	<td>
-		<a href="{{ element.uri }}">{{ element.uri }}</a>
+		<a href="{{ site.url }}#{{ element.name }}">{{ site.url }}#{{ element.name }}</a>
 	</td>
 </tr>
 {% if element.same_as_uri %}
@@ -34,7 +34,7 @@
 <tr>
 	<td><b>Definition</b></td>
 	<td>{{ element.definition }}<br>
-		<a href="{{ element.guidelines_uri }}">Input Guidelines</a>
+		<a href="{{ site.url }}/guidelines/{{ element.name }}">Input Guidelines</a>
 	</td>
 </tr>
 <tr>
