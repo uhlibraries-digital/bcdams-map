@@ -1,0 +1,12 @@
+label: "Collection"
+namespace: "dcterms"
+name: "isPartOf"
+definition: "A related resource in which the described resource is physically or logically included."
+source: "http://purl.org/dc/terms/isPartOf"
+obligation: "requiredWhenAvailable"
+type: "administrative"
+input: "single"
+repeatable: true
+hidden: false
+range:
+  - label: "Collection"
