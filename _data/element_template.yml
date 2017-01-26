@@ -1,0 +1,18 @@
+label: ""
+namespace: ""
+name: ""
+definition: ""
+guidelines: ""
+source: ""
+obligation: ""
+type: ""
+input: ""
+repeatable: TRUE/FALSE
+hidden: TRUE/FALSE
+range:
+  - label: ""
+    uri: ""
+  - label: ""
+    values:
+      - ""
+      - ""
