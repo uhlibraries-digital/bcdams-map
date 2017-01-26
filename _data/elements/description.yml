@@ -9,4 +9,4 @@ input: "multi"
 repeatable: false
 hidden: false
 range:
-  - label: "String""
+  - label: "String"
