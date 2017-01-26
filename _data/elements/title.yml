@@ -1,0 +1,12 @@
+label: "Title"
+namespace: "dcterms"
+name: "title"
+definition: "A name given to the resource."
+source: "http://purl.org/dc/terms/title"
+obligation: "required"
+type: "descriptive"
+input: "single"
+repeatable: false
+hidden: false
+range:
+  - label: "String"
