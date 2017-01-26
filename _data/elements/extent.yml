@@ -1,0 +1,12 @@
+label: "Extent"
+namespace: "dcterms"
+name: "extent"
+definition: "The size or duration of the resource."
+source: "http://purl.org/dc/terms/extent"
+obligation: "optional"
+type: "descriptive"
+input: "single"
+repeatable: true
+hidden: false
+range:
+  - label: "String"
