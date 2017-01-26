@@ -1,0 +1,12 @@
+label: "Time Period"
+namespace: "dcterms"
+name: "temporal"
+definition: "Temporal characteristics of the resource."
+source: "http://purl.org/dc/terms/temporal"
+obligation: "optional"
+type: "descriptive"
+input: "single"
+repeatable: true
+hidden: false
+range:
+  - label: "Time Period"
