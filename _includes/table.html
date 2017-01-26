@@ -40,12 +40,21 @@
 <tr>
 	<td><b>Range</b></td>
 	<td>
-		{% for r in element.range %}
-			{% if r.uri %}
-				<a href="{{ r.uri }}">{{ r.label }}  </a>
+	{% for r in element.range %}
+		{% if r.uri %}
+			<a href="{{ r.uri }}">{{ r.label }}</a>
+		{% else %}
+			{% if r.values %}
+				{{ r.label }}</br>
+				<li>
+				{% for value in r.values %}
+					<ul>{{ value }}</ul>
+				{% endfor %}
+				</li>
 			{% else %}
 				{{ r.label }}
 			{% endif %}
-		{% endfor %}
+		{% endif %}
+	{% endfor %}
 	</td>
 </tr>
