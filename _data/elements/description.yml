@@ -1,0 +1,12 @@
+label: "Description"
+namespace: "dcterms"
+name: "description"
+definition: "An account of the resource."
+source: "http://purl.org/dc/terms/description"
+obligation: "optional"
+type: "descriptive"
+input: "multi"
+repeatable: false
+hidden: false
+range:
+  - label: "String""
