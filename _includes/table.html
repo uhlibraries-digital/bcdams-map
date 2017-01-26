@@ -46,11 +46,11 @@
 		{% else %}
 			{% if r.values %}
 				{{ r.label }}</br>
-				<li>
+				<ul>
 				{% for value in r.values %}
-					<ul>{{ value }}</ul>
+					<li>{{ value }}</li>
 				{% endfor %}
-				</li>
+				</ul>
 			{% else %}
 				{{ r.label }}
 			{% endif %}
