@@ -1,0 +1,11 @@
+label: "Note"
+namespace: "uhlib"
+name: "note"
+definition: "Additional information about the described resource."
+obligation: "optional"
+type: "administrative"
+input: "multi"
+repeatable: false
+hidden: false
+range:
+  - label: "String"
