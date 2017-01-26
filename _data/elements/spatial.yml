@@ -1,0 +1,13 @@
+label: "Place"
+namespace: "dcterms"
+name: "spatial"
+definition: "Spatial characteristics of the resource."
+source: "http://purl.org/dc/terms/spatial"
+obligation: "optional"
+type: "descriptive"
+input: "single"
+repeatable: true
+hidden: false
+range:
+  - label: "Place"
+    uri: "https://id.lib.uh.edu/ark:/84475/au9146r1446"
