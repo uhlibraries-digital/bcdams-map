@@ -1,0 +1,16 @@
+label: "Rights"
+namespace: "dc"
+name: "rights"
+definition: "Information about rights held in and over the resource."
+source: "http://purl.org/dc/elements/1.1/rights"
+obligation: "required"
+type: "administrative"
+input: "single"
+repeatable: false
+hidden: false
+range:
+  - label: "Rights Statement"
+    values:
+      - "Copyright"
+      - "Educational Use"
+      - "Public Domain"
