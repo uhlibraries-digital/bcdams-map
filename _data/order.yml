@@ -1,0 +1,35 @@
+descriptive:
+  - title
+  - alternative
+  - series
+  - creator
+  - contributor
+  - publisher
+  - date
+  - language
+  - description
+  - subject
+  - spatial
+  - temporal
+  - hasType
+  - format
+  - type
+  - extent
+administrative:
+  - identifier
+  - isPartOf
+  - aSpaceUri
+  - provenance
+  - rights
+  - accessRights
+  - note
+archival:
+  - title
+  - creator
+  - date
+  - description
+  - publisher
+  - isPartOf
+  - rights
+  - accessRights
+  - identifier
