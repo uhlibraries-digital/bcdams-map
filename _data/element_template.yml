@@ -2,13 +2,12 @@ label: ""
 namespace: ""
 name: ""
 definition: ""
-guidelines: ""
 source: ""
 obligation: ""
 type: ""
 input: ""
-repeatable: TRUE/FALSE
-hidden: TRUE/FALSE
+repeatable: true/false
+hidden: true/false
 range:
   - label: ""
     uri: ""
