@@ -1,0 +1,12 @@
+label: "Genre"
+namespace: "edm"
+name: "hasType"
+definition: "The identifier of a concept, or a word or phrase from a controlled vocabulary (thesaurus etc) giving the type of the CHO."
+source: "http://www.europeana.eu/schemas/edm/hasType"
+obligation: "optional"
+type: "descriptive"
+input: "single"
+repeatable: true
+hidden: false
+range:
+  - label: "AAT Genre Term"
