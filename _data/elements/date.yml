@@ -1,0 +1,12 @@
+label: "Date"
+namespace: "dc"
+name: "date"
+definition: "A point or period of time associated with an event in the lifecycle of the resource."
+source: "http://purl.org/dc/elements/1.1/date"
+obligation: "stronglyRecommended"
+type: "descriptive"
+input: "single"
+repeatable: true
+hidden: false
+range:
+  - label: "EDTF Date"
