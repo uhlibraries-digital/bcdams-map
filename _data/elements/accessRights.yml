@@ -1,0 +1,12 @@
+label: "Access Rights"
+namespace: "dcterms"
+name: "accessRights"
+definition: "Information about who can access the resource or an indication of its security status."
+source: "http://purl.org/dc/terms/accessRights"
+obligation: "required"
+type: "administrative"
+input: "single"
+repeatable: false
+hidden: false
+range:
+  - label: "Access Rights Statement"
