@@ -2,6 +2,6 @@
   "@type": "Property",
   "@id": "{{ site.url }}#{{ element.name }}",
   "label": "{{ element.label }}",
-  "comment": "{{ element.definition }}",
-  "sameAs": "{{ element.source }}"
+  "comment": "{{ element.definition }}"
+  {% if element.source %},"sameAs": "{{ element.source }}"{% endif %}
 }
