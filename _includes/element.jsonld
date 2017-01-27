@@ -1,7 +1,7 @@
 {
   "@type": "Property",
-  "@id": "{{ element.uri }}",
+  "@id": "{{ site.url }}#{{ element.name }}",
   "label": "{{ element.label }}",
   "comment": "{{ element.definition }}",
-  "sameAs": "{{ element.same_as_uri }}"
+  "sameAs": "{{ element.source }}"
 }
