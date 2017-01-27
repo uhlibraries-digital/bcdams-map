@@ -23,6 +23,16 @@ administrative:
   - rights
   - accessRights
   - note
+carpenters:
+  - title
+  - creator
+  - date
+  - description
+  - publisher
+  - isPartOf
+  - rights
+  - accessRights
+  - identifier
 archival:
   - title
   - creator
