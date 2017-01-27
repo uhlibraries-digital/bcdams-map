@@ -1,0 +1,69 @@
+title:
+    input: "single"
+    visible: true
+alternative:
+    input: "single"
+    visible: true
+series:
+    input: "single"
+    visible: true
+creator:
+    input: "single"
+    visible: true
+contributor:
+    input: "single"
+    visible: true
+publisher:
+    input: "single"
+    visible: true
+date:
+    input: "single"
+    visible: true
+language:
+    input: "single"
+    visible: true
+description:
+    input: "multi"
+    visible: true
+subject:
+    input: "single"
+    visible: true
+spatial:
+    input: "single"
+    visible: true
+temporal:
+    input: "single"
+    visible: true
+hasType:
+    input: "single"
+    visible: true
+format:
+    input: "single"
+    visible: true
+type:
+    input: "single"
+    visible: true
+extent:
+    input: "single"
+    visible: true
+identifier:
+    input: "single"
+    visible: true
+isPartOf:
+    input: "single"
+    visible: true
+aSpaceUri:
+    input: "single"
+    visible: false
+provenance:
+    input: "single"
+    visible: true
+rights:
+    input: "single"
+    visible: true
+accessRights:
+    input: "single"
+    visible: true
+note:
+    input: "multi"
+    visible: true

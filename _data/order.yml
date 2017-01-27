@@ -23,6 +23,30 @@ administrative:
   - rights
   - accessRights
   - note
+brays:
+  - title
+  - alternative
+  - series
+  - creator
+  - contributor
+  - publisher
+  - date
+  - language
+  - description
+  - subject
+  - spatial
+  - temporal
+  - hasType
+  - format
+  - type
+  - extent
+  - identifier
+  - isPartOf
+  - aSpaceUri
+  - provenance
+  - rights
+  - accessRights
+  - note
 carpenters:
   - title
   - creator
