@@ -1,28 +1,28 @@
 descriptive:
-  - title
   - alternative
-  - series
-  - creator
   - contributor
-  - publisher
+  - creator
   - date
-  - language
   - description
-  - subject
-  - spatial
-  - temporal
-  - hasType
-  - format
-  - type
   - extent
+  - format
+  - hasType
+  - language
+  - publisher
+  - series
+  - spatial
+  - subject
+  - temporal
+  - title
+  - type
 administrative:
-  - identifier
-  - isPartOf
+  - accessRights
   - aSpaceUri
+  - isPartOf
+  - identifier
+  - note
   - provenance
   - rights
-  - accessRights
-  - note
 brays:
   - title
   - alternative
