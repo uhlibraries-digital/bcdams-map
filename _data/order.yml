@@ -8,9 +8,9 @@ descriptive:
   - format
   - hasType
   - language
+  - spatial
   - publisher
   - series
-  - spatial
   - subject
   - temporal
   - title
@@ -19,9 +19,9 @@ administrative:
   - accessRights
   - aSpaceUri
   - isPartOf
+  - provenance
   - identifier
   - note
-  - provenance
   - rights
 brays:
   - title
