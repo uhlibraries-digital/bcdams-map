@@ -31,8 +31,8 @@ avatar: "/img/uh.jpg"
 # List of links in the navigation bar
 nav-links:
   Home: ""
-  Guidelines: "guidelines"
   About: "about"
+  Guidelines: "guidelines"
   Contact: "contact"
 
 # --- Footer options --- #
