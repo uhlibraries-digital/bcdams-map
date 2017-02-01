@@ -9354,7 +9354,7 @@ comments: false
 <td>September 7, 1929; 1927-09-07</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth;Williams, Charlotte</td>
+<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9432,7 +9432,7 @@ comments: false
 <td>September 7, 1929; 1927-09-07</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth;Williams, Charlotte</td>
+<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9536,7 +9536,7 @@ comments: false
 <td>September 7, 1929; 1927-09-07</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth;Williams, Charlotte</td>
+<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9614,7 +9614,7 @@ comments: false
 <td>September 7, 1929; 1927-09-07</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth;Williams, Charlotte</td>
+<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
