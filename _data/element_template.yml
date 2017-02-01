@@ -5,9 +5,7 @@ definition: ""
 source: ""
 obligation: ""
 type: ""
-input: ""
 repeatable: true/false
-hidden: true/false
 range:
   - label: ""
     uri: ""

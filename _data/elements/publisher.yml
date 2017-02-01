@@ -5,9 +5,7 @@ definition: "An entity responsible for making the resource available."
 source: "http://purl.org/dc/terms/publisher"
 obligation: "recommended"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "Agent"
     uri: "https://id.lib.uh.edu/ark:/84475/au58708x76f"

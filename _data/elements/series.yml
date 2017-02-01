@@ -5,8 +5,6 @@ definition: "Work in which the part has been issued; the title of the larger wor
 source: "http://bibframe.org/vocab/series"
 obligation: "optional"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "String"

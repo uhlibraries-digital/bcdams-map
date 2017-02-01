@@ -5,8 +5,6 @@ definition: "The identifier of a concept, or a word or phrase from a controlled 
 source: "http://www.europeana.eu/schemas/edm/hasType"
 obligation: "optional"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "AAT Genre Term"

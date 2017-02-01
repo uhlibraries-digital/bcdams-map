@@ -5,12 +5,10 @@ definition: "A language of the resource."
 source: "http://purl.org/dc/terms/language"
 obligation: "requiredWhenAvailable"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "Lexvo Code"
     values:
       - eng
-      - spa
       - fre
+      - spa

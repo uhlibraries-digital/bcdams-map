@@ -5,9 +5,7 @@ definition: "A statement of any changes in ownership and custody of the resource
 source: "http://purl.org/dc/terms/provenance"
 obligation: "optional"
 type: "administrative"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "Agent"
     uri: "https://id.lib.uh.edu/ark:/84475/au58708x76f"

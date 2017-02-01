@@ -5,9 +5,7 @@ definition: "The topic of the resource."
 source: "http://purl.org/dc/terms/subject"
 obligation: "stronglyRecommended"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "Agent"
     uri: "https://id.lib.uh.edu/ark:/84475/au58708x76f"

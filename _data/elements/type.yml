@@ -5,9 +5,7 @@ definition: "The nature or genre of the resource."
 source: "http://purl.org/dc/terms/type"
 obligation: "requiredWhenAvailable"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "DCMI Type"
     values:

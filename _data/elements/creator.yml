@@ -5,9 +5,7 @@ definition: "An entity primarily responsible for making the resource."
 source: "http://purl.org/dc/terms/creator"
 obligation: "recommended"
 type: "descriptive"
-input: "single"
 repeatable: true
-hidden: false
 range:
   - label: "Agent"
     uri: "https://id.lib.uh.edu/ark:/84475/au58708x76f"

@@ -4,8 +4,6 @@ name: "aSpaceUri"
 definition: "The URI in ArchivesSpace that identifies the archival object in which the resource is contained."
 obligation: "requiredWhenAvailable"
 type: "administrative"
-input: "single"
 repeatable: false
-hidden: true
 range:
   - label: "ArchivesSpace Object URI"
