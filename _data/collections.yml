@@ -1,5 +1,23 @@
-- name: HCA 30
-  alias: hca30
-
 - name: Galveston Hurricane Photos
   alias: p15195coll5
+
+- name: Harry Walker Photographs
+  alias: p15195coll17
+
+- name: Historic Houston Photographs
+  alias: p15195coll2
+
+- name: Marine Bombing Squadron (VMB-613) Photographs
+  alias: p15195coll10
+
+- name: Student Art Exhibits
+  alias: p15195coll26
+
+- name: Texas City Disaster Photographs
+  alias: p15195coll4
+
+- name: Photographs from the Leonor Villegas de Magnón Papers
+  alias: ville
+
+- name: USS Houston (CA-30) Photographs
+  alias: hca30
