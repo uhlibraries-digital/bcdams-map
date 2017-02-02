@@ -1,0 +1,92 @@
+# Build settings
+# Gems
+gems:
+- jekyll-paginate
+- jekyll-feed
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+# If you are hosting it on Github for some project with name 'projectname', then the url and baseurl should look like:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+url: "https://uhlibraries-digital.github.io/bcdams-map"
+enforce_ssl: ""
+baseurl: "/bcdams-map"
+
+# Title of website
+title: BCDAMS MAP
+
+#Default keywords (used if no keywords are specified on a page basis)
+keywords: digital asset management, university of houston, metadata application profile
+
+# Short description of your site
+desc: "This is the metadata application profile for the University of Houston Library's digital asset management system based on Hydra in a Box: the Bayou City DAMS."
+
+# --- Navigation bar options --- #
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/uh.jpg"
+
+# List of links in the navigation bar
+nav-links:
+  Home: ""
+  Guidelines: "guidelines"
+  About: "about"
+  Contact: "contact"
+
+# --- Footer options --- #
+
+# If the values are empty, they are ignored
+profile:
+  name: Andrew Weidner
+  email: ajweidner@uh.edu
+  # facebook: your-fb-id
+  github: uhlibraries-digital
+  # twitter: your-twitter-id
+  # linkedin: your-linkedin-id
+  # stackoverflow: your-stackoverflow-id
+
+# To display link in the footer section
+# pretty-url: "bchetty.com"
+
+# --- Misc --- #
+
+# Your Disqus profile (shortname) settings
+# disqus: "Your-Disqus-Id"
+
+# Google Analytics Settings
+# google_analytics: "Your-GA-Id"
+
+# Set these options as you need (For more information, check Jekyll's site)
+timezone: "America/Chicago"
+markdown: kramdown
+highlighter: rouge
+permalink: /blog/:title
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+
+created-by: Weidner, Andrew
+creator-url: https://id.lib.uh.edu/ark:/84475/au2798md59p
