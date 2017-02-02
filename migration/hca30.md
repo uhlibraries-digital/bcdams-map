@@ -43,18 +43,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 30, 1942; 1942-05-30</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>May 30, 1942</li>
+<li>1942-05-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Parade formation 1000 USS Houston volunteers, May 30, 1942"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Houston, Texas; Houston, Texas</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Houston, Texas</li>
+<li>Houston, Texas</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -121,18 +150,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 30, 1942; 1942-05-30</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>May 30, 1942</li>
+<li>1942-05-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "1000 USS Houston volunteers in parade formation to entrain at Grand Central Station, for San Diego Naval Training Station, May 30, 1942"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Houston, Texas; Houston, Texas</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Houston, Texas</li>
+<li>Houston, Texas</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -199,18 +257,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 30, 1942; 1942-05-30</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>May 30, 1942</li>
+<li>1942-05-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston 1000 volunteers shaping up for parade to Grand Central Station, May 30, 1942"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Houston, Texas; Houston, Texas</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Houston, Texas</li>
+<li>Houston, Texas</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -277,18 +364,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 30, 1942; 1942-05-30</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>May 30, 1942</li>
+<li>1942-05-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption: "1000 men of Houston, Texas are sworn into U.S. Navy in a mass enlistment ceremony to replace 1,000 lost on cruiser 'Houston'."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Houston, Texas; Houston, Texas</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Houston, Texas</li>
+<li>Houston, Texas</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -304,17 +420,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "L- [Alread], Lanai"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Lanai, Hawaii; Hawaiian Territory; Lanai, Hawaii; Hawaiian Territory</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Lanai, Hawaii</li>
+<li>Hawaiian Territory</li>
+<li>Lanai, Hawaii</li>
+<li>Hawaiian Territory</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -381,18 +523,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is a []. It was in a park at Iloilo, 1941"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Iloilo, Philippines; Iloilo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Iloilo, Philippines</li>
+<li>Iloilo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -460,9 +631,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Simpson, A.D. - Chairman, Cruiser Houston Committee."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Simpson, A. D.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Simpson, A. D.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -470,7 +655,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -537,10 +728,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1930s; 193x</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>approximately 1930s</li>
+<li>193x</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "A.G. Kirchner joined navy in Houston, Tex, born in Uvalde, Tex"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Kirchner, A. G.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Kirchner, A. G.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -548,7 +758,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -563,10 +779,29 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Oldendorf, Jesse B., Admiral, Commanding (in rank of Capt.) USS Houston 16 Oct. 1939 - 30 Aug. 1941"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Oldendorf, Jesse B. (Jesse Barrett), 1887-1974</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Oldendorf, Jesse B. (Jesse Barrett), 1887-1974</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -574,7 +809,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -641,18 +882,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is a picture of Admiral Thomas Hart as he presented us with our Asiatic Fleet belts, 1941, Manila, P.I. 'Butch'"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Hart, Thomas Charles</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Hart, Thomas Charles</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -719,18 +990,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -748,15 +1044,35 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -771,10 +1087,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -782,7 +1112,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -797,18 +1133,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -823,10 +1184,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>drawings (visual works)</td>
@@ -834,7 +1209,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -849,10 +1230,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1934; 1934</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1934</li>
+<li>1934</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "A.A. Control Groups, 1934"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -860,7 +1259,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -927,18 +1332,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Bangkok"</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Bangkok, Thailand; Bangkok, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Bangkok, Thailand</li>
+<li>Bangkok, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1006,17 +1441,42 @@ comments: false
 <td></td>
 <td></td>
 <td>[1945]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *Bangkok*</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Bangkok, Thailand; Bangkok, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Bangkok, Thailand</li>
+<li>Bangkok, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1083,18 +1543,42 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1940]; 1940~</td>
+<td>
+<ul>
+<li>[approximately 1940]</li>
+<li>1940~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1112,7 +1596,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1120,7 +1612,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1135,18 +1633,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is how they travel around the islands in there "outriggers". Olongapo, P.I. Looks just like it."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Olongapo, Philippines; Olongapo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Olongapo, Philippines</li>
+<li>Olongapo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1213,18 +1740,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1945]; 1945~</td>
+<td>
+<ul>
+<li>[approximately 1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1239,10 +1791,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1941]; 1941~</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1941]</li>
+<li>1941~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Frank Pistole, Asiatic Fleet Champion [illegible words]"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1250,7 +1821,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1318,9 +1895,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: ""This is me - [Mac Chainer] and Lewdanski, heavy wt. [Lane W. Mather] Fr [lost words] Pistole, [illegible words] wt champ of Asiatic Fleet, Manila P.I.""</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"; Lewdanski, Joe</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+<li>Lewdanski, Joe</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1328,7 +1920,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1396,9 +1994,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Me - & former sparring partner for Jack Demsey and the middle wt champ of the Marines out here."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1406,7 +2018,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1473,10 +2091,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1484,7 +2116,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1502,7 +2140,16 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1510,7 +2157,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1525,10 +2178,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1941]; 1941~</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1941]</li>
+<li>1941~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Here is a picture of me with my Asiatic Fleet Championship belt. I'll send you a better one later. Love to mother & dad."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1536,7 +2208,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1603,18 +2281,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "To his uncle and aunt, From Frankie Pistole, U.S. Navy Asiatic Light Heavy Wt. Champion, 1941 Manila, P.I."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1681,18 +2389,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "To Mother & Dad from Frank, Asiatic Fleet Champion, Light - Heavyweight. 1941, Manila, P.I. How do you like this sun tan"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Pistole, Frank L.H. "Butch"</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Pistole, Frank L.H. "Butch"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1759,18 +2497,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1945]; 1945~</td>
+<td>
+<ul>
+<li>[approximately 1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Kanchanaburi, Thailand; Kanchanaburi, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Kanchanaburi, Thailand</li>
+<li>Kanchanaburi, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1785,10 +2548,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1796,7 +2573,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1814,7 +2597,16 @@ comments: false
 <td>[1942-1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1822,7 +2614,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1837,18 +2635,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1864,9 +2687,22 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *Believe it or not this is a business house. Iloilo, PI, 1941*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Iloilo, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1874,7 +2710,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -1942,9 +2784,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
-<td>Caption on back: "C.B. Gillespie, Editor of Houston Chronicle--Member of original Cruiser Houston Committee"; Inscription on white card: "Gillespie, C.B., Member, original Cruiser Houston Committee"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Gillespie, C. B</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on back: "C.B. Gillespie, Editor of Houston Chronicle--Member of original Cruiser Houston Committee"</li>
+<li>Inscription on white card: "Gillespie, C.B., Member, original Cruiser Houston Committee"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Gillespie, C. B</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1952,7 +2813,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2019,10 +2886,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Rooks, Albert H.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Rooks, Albert H.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2030,7 +2911,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2097,10 +2984,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Capt. Rooks assuming command of the Houston, 1941"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2108,7 +3013,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2175,10 +3086,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1940; 1940~</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>approximately 1940</li>
+<li>1940~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Captain Albert H. Rooks, USN. Photograph taken circa 1940. This view was released by the Bureau of Personnel on 14 October 1966."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Rooks, Albert H.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Rooks, Albert H.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2186,7 +3116,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2254,9 +3190,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on front, attached card: *Albert Harold Rooks, was born in Colton, Washington on December 29, 1891. He graduated from the United States Naval Academy  and was commissioned Ensign on June 5, 1914. Captain Rooks assumed command of the USS Houston, flagship of the Asiatic Fleet, on August 28, 1941. Six months later, to the day, Captain Rooks was killed in action during Houston's last battle. Posthumously, Captain Albert Harold Rooks, USN was awarded the Congressional Medal of Honor, the citation for which reads in part, 'For extraordinary heroism, outstanding courage, gallantry in action and distinguished service in the line of his profession, etc...'*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2264,7 +3213,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2334,7 +3289,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2342,7 +3305,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2412,7 +3381,16 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Rooks, Albert H.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Rooks, Albert H.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2420,7 +3398,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2435,10 +3419,34 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 1939; 1939-09</td>
-<td>English; eng</td>
-<td>Caption on white card: "Cogswell, Francis, Capt. Commanding USS Houston (CA 30) 24 May-22 Sept. 1939."; Inscription on back: "Francis Cogswell, Captain, U.S.N. Commanding U.S.S. Houston at the time of his death, Sept 1939. The USS Cogswell, destroyer 651 is building to be named for James K. Cogswell and his son Francis Cogswell."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Cogswell, Francis</td>
+<td>
+<ul>
+<li>September 1939</li>
+<li>1939-09</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: "Cogswell, Francis, Capt. Commanding USS Houston (CA 30) 24 May-22 Sept. 1939."</li>
+<li>Inscription on back: "Francis Cogswell, Captain, U.S.N. Commanding U.S.S. Houston at the time of his death, Sept 1939. The USS Cogswell, destroyer 651 is building to be named for James K. Cogswell and his son Francis Cogswell."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Cogswell, Francis</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2446,7 +3454,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2514,9 +3528,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
-<td>Caption on white card: "Baker, Guy E., Capt., Commanding USS Houston (CA 30) 25 June 1935 - 16 July 1937."; Inscription on front: " All best wishes to the Cruiser Houston Committee, Houston, Tx.  Guy Baker Capt. U S N Comdg USS Houston."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Baker, Guy</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: "Baker, Guy E., Capt., Commanding USS Houston (CA 30) 25 June 1935 - 16 July 1937."</li>
+<li>Inscription on front: " All best wishes to the Cruiser Houston Committee, Houston, Tx.  Guy Baker Capt. U S N Comdg USS Houston."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Baker, Guy</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2524,7 +3557,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2591,10 +3630,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Long Beach, Calif - Christmas party for underprivileged children hosted by USS Houston. Capt Guy Baker, USS C.O. at the right. The piano uncrated was given to the crew of the ship by USS Houston Committee and generous citizens who donated to the fund. Handsome scroll marks the occasion also, presented by the USS Houston Comittee, 1936."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Baker, Guy</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Baker, Guy</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2602,7 +3660,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2669,10 +3733,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Captain Baker accepts the piano for the ship with thanks to the City of Houston."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Baker, Guy</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Baker, Guy</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2680,7 +3763,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2750,7 +3839,16 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Gay, Jesse B.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Gay, Jesse B.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2758,7 +3856,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2826,9 +3930,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "R.A. Dawes, Captain. U.S. Navy, Comdg. U.S.S. Houston"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Dawes, R. A.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Dawes, R. A.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2836,7 +3954,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2851,10 +3975,35 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1936; 1936</td>
-<td>English; eng</td>
-<td>Caption on white card: "Baggaley, William, Capt., Commanding USS Houston (CA 30) 3 Jan. 1933 - 6 June 1934."; Inscription on front: "The Cruiser Houston Committee with best wishes for the continuing success of the U.S.S. Houston, W. Baggaley Capt. U.S.U Coudy, Officer W.S.S. Houston from 3 Jan 1933 to 6 June 1934"; Inscription on front: "The Cruiser Houston Committee with best wishes for the continuing success of the U.S.S. Houston, W. Baggaley Capt. U.S.U Coudy, Officer W.S.S. Houston from 3 Jan 1933 to 6 June 1934"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Baggaley, William</td>
+<td>
+<ul>
+<li>1936</li>
+<li>1936</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: "Baggaley, William, Capt., Commanding USS Houston (CA 30) 3 Jan. 1933 - 6 June 1934."</li>
+<li>Inscription on front: "The Cruiser Houston Committee with best wishes for the continuing success of the U.S.S. Houston, W. Baggaley Capt. U.S.U Coudy, Officer W.S.S. Houston from 3 Jan 1933 to 6 June 1934"</li>
+<li>Inscription on front: "The Cruiser Houston Committee with best wishes for the continuing success of the U.S.S. Houston, W. Baggaley Capt. U.S.U Coudy, Officer W.S.S. Houston from 3 Jan 1933 to 6 June 1934"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Baggaley, William</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2862,7 +4011,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2877,18 +4032,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Hattie, 1939 - Houston, Cardinellie"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Haiti; Haiti</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Haiti</li>
+<li>Haiti</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -2955,18 +4139,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Hattie - 1939 - Houston, Cardinellie"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Haiti; Haiti</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Haiti</li>
+<li>Haiti</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3033,18 +4246,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Hattie - 1939, Cardinellie"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Haiti; Haiti</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Haiti</li>
+<li>Haiti</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3111,10 +4353,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day 1936. Carolyn Londahl entertains with a tap dance."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Londahl, Carolyn</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Londahl, Carolyn</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3122,7 +4383,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3189,10 +4456,54 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 30, 1941; 1941-08-30</td>
-<td>English; eng</td>
-<td>Standing by microphone: Capt. Albert Harold Rooks. Standing in front of group, saluting: Capt. Jesse Olderdorf. First row, left to right: Cmdr. Homer Louis Grosskopf, Cmdr. (MC) William A. Epstein, unknown, unknown, unknown, Cmdr. Arthur Laurence Maher, Lt. Cmdr. Richard Hermus Gingras, unknown. Second row, left to right: Unknown, unknown, unknown, Lt. Thomas Benjamin Payne, Lt. Ernest Debbes Hodge, Lt. Robert Burwell Fulton, Lt. John Dietrick Lamade, unknown, unknown. Third row, left to right: Unknown, unknown, Lt. Joseph Francis Dalton, unknown, Lt. Harold Sherwin Hamlin, Jr., unknown, unknown, unknown, Lt. (j.g.) Francis Brooks Weiler, Lt. (j.g.) Kenneth Leon Kollmyer. Fourth row, left to right: Unknown, Ensign Fred Ferguson Mallory, Ensign John Marshall Hamill, unknown, Ensign John Blount Nelson, Ensign Alva Freeman Nethken, Ensign Charles Donovan Smith II, unknown, unknown, unknown, unknown, unknown. Fifth row, far left: 2nd Lt. Frank E. Gallagher. Standing  at rear of group in khaki: Warrant Officer Louis E. Biechlin.; Inscription on back: "Here's where the new command changes from Captain Oldendorf to Capt Rooks"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Olderdorf, Jessie B.; Rooks, Albert H.; Grosskopf, Homer Louis; Epstein, William A.; Maher, Arthur Laurence; Gingras, Richard Hermus; Payne, Thomas Benjamin; Hodge, Ernest Debbes; Fulton, Robert Burwell; Lamade, John Dietrick; Dalton, Joseph Francis; Hamlin, Harold Sherwin, Jr.; Weiler, Francis Brooks; Kollmyer, Kenneth Leon; Mallory, Fred Ferguson; Hamill, John Marshall; Nelson, John Blount; Nethken, Alva Freeman; Smith, Charles Donovan, II; Gallagher, Frank E.; Biechlin</td>
+<td>
+<ul>
+<li>August 30, 1941</li>
+<li>1941-08-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Standing by microphone: Capt. Albert Harold Rooks. Standing in front of group, saluting: Capt. Jesse Olderdorf. First row, left to right: Cmdr. Homer Louis Grosskopf, Cmdr. (MC) William A. Epstein, unknown, unknown, unknown, Cmdr. Arthur Laurence Maher, Lt. Cmdr. Richard Hermus Gingras, unknown. Second row, left to right: Unknown, unknown, unknown, Lt. Thomas Benjamin Payne, Lt. Ernest Debbes Hodge, Lt. Robert Burwell Fulton, Lt. John Dietrick Lamade, unknown, unknown. Third row, left to right: Unknown, unknown, Lt. Joseph Francis Dalton, unknown, Lt. Harold Sherwin Hamlin, Jr., unknown, unknown, unknown, Lt. (j.g.) Francis Brooks Weiler, Lt. (j.g.) Kenneth Leon Kollmyer. Fourth row, left to right: Unknown, Ensign Fred Ferguson Mallory, Ensign John Marshall Hamill, unknown, Ensign John Blount Nelson, Ensign Alva Freeman Nethken, Ensign Charles Donovan Smith II, unknown, unknown, unknown, unknown, unknown. Fifth row, far left: 2nd Lt. Frank E. Gallagher. Standing  at rear of group in khaki: Warrant Officer Louis E. Biechlin.</li>
+<li>Inscription on back: "Here's where the new command changes from Captain Oldendorf to Capt Rooks"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Olderdorf, Jessie B.</li>
+<li>Rooks, Albert H.</li>
+<li>Grosskopf, Homer Louis</li>
+<li>Epstein, William A.</li>
+<li>Maher, Arthur Laurence</li>
+<li>Gingras, Richard Hermus</li>
+<li>Payne, Thomas Benjamin</li>
+<li>Hodge, Ernest Debbes</li>
+<li>Fulton, Robert Burwell</li>
+<li>Lamade, John Dietrick</li>
+<li>Dalton, Joseph Francis</li>
+<li>Hamlin, Harold Sherwin, Jr.</li>
+<li>Weiler, Francis Brooks</li>
+<li>Kollmyer, Kenneth Leon</li>
+<li>Mallory, Fred Ferguson</li>
+<li>Hamill, John Marshall</li>
+<li>Nelson, John Blount</li>
+<li>Nethken, Alva Freeman</li>
+<li>Smith, Charles Donovan, II</li>
+<li>Gallagher, Frank E.</li>
+<li>Biechlin</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3200,7 +4511,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3267,10 +4584,54 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 30, 1941; 1941-08-30</td>
-<td>English; eng</td>
-<td>Standing by microphone: Capt. Albert Harold Rooks. Standing in front of group, saluting: Capt. Jesse Olderdorf. First row, left to right: Cmdr. Homer Louis Grosskopf, Cmdr. (MC) William A. Epstein, unknown, unknown, unknown, Cmdr. Arthur Laurence Maher, Lt. Cmdr. Richard Hermus Gingras, unknown. Second row, left to right: Unknown, unknown, unknown, Lt. Thomas Benjamin Payne, Lt. Ernest Debbes Hodge, Lt. Robert Burwell Fulton, Lt. John Dietrick Lamade, unknown, unknown. Third row, left to right: Unknown, unknown, Lt. Joseph Francis Dalton, unknown, Lt. Harold Sherwin Hamlin, Jr., unknown, unknown, unknown, Lt. (j.g.) Francis Brooks Weiler, Lt. (j.g.) Kenneth Leon Kollmyer. Fourth row, left to right: Unknown, Ensign Fred Ferguson Mallory, Ensign John Marshall Hamill, unknown, Ensign John Blount Nelson, Ensign Alva Freeman Nethken, Ensign Charles Donovan Smith II, unknown, unknown, unknown, unknown, unknown. Fifth row, far left: 2nd Lt. Frank E. Gallagher. Standing  at rear of group in khaki: Warrant Officer Louis E. Biechlin; Inscription on front: "Officers on the Houston"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Olderdorf, Jessie B.; Rooks, Albert H.; Grosskopf, Homer Louis; Epstein, William A.; Maher, Arthur Laurence; Gingras, Richard Hermus; Payne, Thomas Benjamin; Hodge, Ernest Debbes; Fulton, Robert Burwell; Lamade, John Dietrick; Dalton, Joseph Francis; Hamlin, Harold Sherwin, Jr.; Weiler, Francis Brooks; Kollmyer, Kenneth Leon; Mallory, Fred Ferguson; Hamill, John Marshall; Nelson, John Blount; Nethken, Alva Freeman; Smith, Charles Donovan, II; Gallagher, Frank E.; Biechlin</td>
+<td>
+<ul>
+<li>August 30, 1941</li>
+<li>1941-08-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Standing by microphone: Capt. Albert Harold Rooks. Standing in front of group, saluting: Capt. Jesse Olderdorf. First row, left to right: Cmdr. Homer Louis Grosskopf, Cmdr. (MC) William A. Epstein, unknown, unknown, unknown, Cmdr. Arthur Laurence Maher, Lt. Cmdr. Richard Hermus Gingras, unknown. Second row, left to right: Unknown, unknown, unknown, Lt. Thomas Benjamin Payne, Lt. Ernest Debbes Hodge, Lt. Robert Burwell Fulton, Lt. John Dietrick Lamade, unknown, unknown. Third row, left to right: Unknown, unknown, Lt. Joseph Francis Dalton, unknown, Lt. Harold Sherwin Hamlin, Jr., unknown, unknown, unknown, Lt. (j.g.) Francis Brooks Weiler, Lt. (j.g.) Kenneth Leon Kollmyer. Fourth row, left to right: Unknown, Ensign Fred Ferguson Mallory, Ensign John Marshall Hamill, unknown, Ensign John Blount Nelson, Ensign Alva Freeman Nethken, Ensign Charles Donovan Smith II, unknown, unknown, unknown, unknown, unknown. Fifth row, far left: 2nd Lt. Frank E. Gallagher. Standing  at rear of group in khaki: Warrant Officer Louis E. Biechlin</li>
+<li>Inscription on front: "Officers on the Houston"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Olderdorf, Jessie B.</li>
+<li>Rooks, Albert H.</li>
+<li>Grosskopf, Homer Louis</li>
+<li>Epstein, William A.</li>
+<li>Maher, Arthur Laurence</li>
+<li>Gingras, Richard Hermus</li>
+<li>Payne, Thomas Benjamin</li>
+<li>Hodge, Ernest Debbes</li>
+<li>Fulton, Robert Burwell</li>
+<li>Lamade, John Dietrick</li>
+<li>Dalton, Joseph Francis</li>
+<li>Hamlin, Harold Sherwin, Jr.</li>
+<li>Weiler, Francis Brooks</li>
+<li>Kollmyer, Kenneth Leon</li>
+<li>Mallory, Fred Ferguson</li>
+<li>Hamill, John Marshall</li>
+<li>Nelson, John Blount</li>
+<li>Nethken, Alva Freeman</li>
+<li>Smith, Charles Donovan, II</li>
+<li>Gallagher, Frank E.</li>
+<li>Biechlin</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3278,7 +4639,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3345,10 +4712,34 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
-<td>Inscription on white card: "Williams, Charlotte. Great granddaughter of Sam Houston; special guest at launching ceremonies for USS Houston (CA 30), 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Williams, Charlotte</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on white card: "Williams, Charlotte. Great granddaughter of Sam Houston</li>
+<li>special guest at launching ceremonies for USS Houston (CA 30), 7 Sept. 1929."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3356,7 +4747,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3371,10 +4768,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 1932; 1932-10</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>October 1932</li>
+<li>1932-10</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Some Chiefs of USS Houston, October, 1932"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3382,7 +4797,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3449,10 +4870,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Our guests arrive aboard."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3460,7 +4899,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3527,10 +4972,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1936; 1936</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1936</li>
+<li>1936</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3538,7 +5001,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3606,9 +5075,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Swanson, Claude A., Secretary of the Navy. Aboard USS Houston (CA 30) 11 - 23 Mar. 1939."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Swanson, Claude Augustus, 1862-1939</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Swanson, Claude Augustus, 1862-1939</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3616,7 +5099,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3683,18 +5172,53 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1943; 1943~</td>
-<td>English; eng</td>
-<td>Caption on white card: "Collins (shipfitter). Photograph made in mine repair shop, prisoner of war camp, Ohasi, Japan, ca. 1943."; Inscription on back: "Ohasi, Japan (Approx. 1943), This is Collins (ship fitter) - A very interesting character. I was a member of his group called "Joe-toe" Enterprises. We made gloves out of blankets for trade. Picture is taken in the mine repair shop yard. Collins spent his time welding ore cars. I worked a couple of levels up in the "Din-sha" shop. We slowly helped repair electric mine tractors. "Hank Goonso" H.P. Thew FC 1/C."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Japan; Japan</td>
+<td>
+<ul>
+<li>approximately 1943</li>
+<li>1943~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: "Collins (shipfitter). Photograph made in mine repair shop, prisoner of war camp, Ohasi, Japan, ca. 1943."</li>
+<li>Inscription on back: "Ohasi, Japan (Approx. 1943), This is Collins (ship fitter) - A very interesting character. I was a member of his group called "Joe-toe" Enterprises. We made gloves out of blankets for trade. Picture is taken in the mine repair shop yard. Collins spent his time welding ore cars. I worked a couple of levels up in the "Din-sha" shop. We slowly helped repair electric mine tractors. "Hank Goonso" H.P. Thew FC 1/C."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Japan</li>
+<li>Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3764,7 +5288,16 @@ comments: false
 <td>[1942-1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3772,7 +5305,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3790,7 +5329,16 @@ comments: false
 <td>[1942-1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3798,7 +5346,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3816,7 +5370,15 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription on back: "[Leso?]"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3824,7 +5386,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3891,10 +5459,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1932; 1932</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1932</li>
+<li>1932</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "[Simino] in Cuba, 1932"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3902,7 +5488,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3972,7 +5564,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3980,7 +5580,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -3998,7 +5604,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4006,7 +5620,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4024,7 +5644,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4032,7 +5660,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4050,7 +5684,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4058,7 +5700,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4076,7 +5724,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4084,7 +5740,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4102,7 +5764,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4110,7 +5780,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4178,9 +5854,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Jimmie & [Mac?] Back of barracks"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4188,7 +5877,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4255,18 +5950,54 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>March 1, 1941; 1941-03-01</td>
-<td>English; eng</td>
-<td>First row, seated: Ens. Weiler, Wilker S1/C, Bowlby S1/C, Farnsworth S1/C, McGarvey FC3/C, Rehfeld S2/C, Ewing S2/C, Johnson S2/[C], Smith S 1/C, Racine GM 2/C. Second row, seated: Lt. Adams, Bush FC3/C, Parson S2/C, Cherry FC3/C, Smith S1/C, Dagget S1/C, Giret FC1/C, Drewett S1/C, Jordan FC1/C, Borghetti FC1/C. Third row, standing: Elliot C.F.C., Jones FC3/C, Mahlandt FC2/C, Sass FC3/C, Boyd GM2/C, Werner [illegible]2/C, Barringer FC3/C, May S1/C, Arnett S1/C, Bevel COX. Fourth row, standing: Martwick S1/C, Feldscher GM1/C, Gary FC1/C, Wise FC3/C, Manista CGM, Peters FC2/C, Ens. Mallory. Three men absent: H.P. Thew FC 1/C, G.C. Smith FC 2/C, W. Wallace Cox; Inscription on back: "F. - Division, U.S.S. Houston, Mar. 1, 1941, Manila, P.I."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Weiler, Wilker; Cox, Wallace</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>March 1, 1941</li>
+<li>1941-03-01</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>First row, seated: Ens. Weiler, Wilker S1/C, Bowlby S1/C, Farnsworth S1/C, McGarvey FC3/C, Rehfeld S2/C, Ewing S2/C, Johnson S2/[C], Smith S 1/C, Racine GM 2/C. Second row, seated: Lt. Adams, Bush FC3/C, Parson S2/C, Cherry FC3/C, Smith S1/C, Dagget S1/C, Giret FC1/C, Drewett S1/C, Jordan FC1/C, Borghetti FC1/C. Third row, standing: Elliot C.F.C., Jones FC3/C, Mahlandt FC2/C, Sass FC3/C, Boyd GM2/C, Werner [illegible]2/C, Barringer FC3/C, May S1/C, Arnett S1/C, Bevel COX. Fourth row, standing: Martwick S1/C, Feldscher GM1/C, Gary FC1/C, Wise FC3/C, Manista CGM, Peters FC2/C, Ens. Mallory. Three men absent: H.P. Thew FC 1/C, G.C. Smith FC 2/C, W. Wallace Cox</li>
+<li>Inscription on back: "F. - Division, U.S.S. Houston, Mar. 1, 1941, Manila, P.I."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Weiler, Wilker</li>
+<li>Cox, Wallace</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4336,7 +6067,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4344,7 +6083,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4359,18 +6104,52 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
-<td>Inscription on back: "[Hatti] 1939; Crew Mateo - Houston"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Haiti; Haiti</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: "[Hatti] 1939</li>
+<li>Crew Mateo - Houston"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Haiti</li>
+<li>Haiti</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4437,10 +6216,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1935; 1935</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1935</li>
+<li>1935</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Christmas party, 1935, U.S.S. Houston. 600 lbs Texas fruit cake given to officers and men by the U.S.S. Houston Committee with scroll."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4448,7 +6245,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4518,7 +6321,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4526,7 +6337,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4541,10 +6358,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "U.S.S. Houston - [Hatti] 1939, L - [Hanie] R - Malone"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4552,7 +6387,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4619,10 +6460,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1932?]; 1932?</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1932?]</li>
+<li>1932?</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "Crew of U.S.S. Houston, China"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4630,7 +6489,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4697,18 +6562,47 @@ comments: false
 <td>Joseffa Photo Studio</td>
 <td></td>
 <td></td>
-<td>[1930s]; 193x</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1930s]</li>
+<li>193x</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Crew - U.S.S Houston, period: 1930's, Gift: Mr. Norrie Gardiner, Fairfield, Ca (survivor)"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>China; China</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>China</li>
+<li>China</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4775,10 +6669,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1930s]; 193x</td>
+<td>
+<ul>
+<li>[1930s]</li>
+<li>193x</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4786,7 +6693,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4801,18 +6714,47 @@ comments: false
 <td>O.A. Tunnell, Photo</td>
 <td></td>
 <td></td>
-<td>August 18, 1934; 1934-08-18</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>August 18, 1934</li>
+<li>1934-08-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on front: "Officers and Crew of the U.S.S. Houston, August 18, 1934, San Diego, California, (The Presidential Ship), O.A. Tunnell, Photo., 319 Commonwealth Bldg."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>San Diego, California; San Diego, California</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>San Diego, California</li>
+<li>San Diego, California</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4827,18 +6769,52 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1941]; 1941~</td>
-<td>English; eng</td>
-<td>This photograph was taken prior to leaving for Asiatic Station.; Inscription on back: "USS Houston crew, Pearl Harbor 1942, [1941?], taken prior to leaving for Asiatic Station"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Hawaii; Hawaii</td>
+<td>
+<ul>
+<li>[approximately 1941]</li>
+<li>1941~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>This photograph was taken prior to leaving for Asiatic Station.</li>
+<li>Inscription on back: "USS Houston crew, Pearl Harbor 1942, [1941?], taken prior to leaving for Asiatic Station"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Hawaii</li>
+<li>Hawaii</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4905,18 +6881,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is the customs house in Iloilo. [Illegible words] took some time ago."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Iloilo, Philippines; Iloilo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Iloilo, Philippines</li>
+<li>Iloilo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -4983,18 +6988,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5010,9 +7040,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
-<td>Caption on white card: *Moody, Dan--Governor of Texas during launching of USS Houston (CA 30), 7 Sept. 1929*; Caption on back: *Dan Moody, Governor of Texas, Head of Delegation. Jensen Studio, photographers, Austin, Texas.*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Moody, Daniel James, 1893-1966</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: *Moody, Dan--Governor of Texas during launching of USS Houston (CA 30), 7 Sept. 1929*</li>
+<li>Caption on back: *Dan Moody, Governor of Texas, Head of Delegation. Jensen Studio, photographers, Austin, Texas.*</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Moody, Daniel James, 1893-1966</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5020,7 +7069,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5087,10 +7142,33 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1920s]; [1920..1929]</td>
-<td>English; eng</td>
-<td>Inscription on back: "Navy Dept model of U.S.S. Houston"; Inscription on front: "USS Houston"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>[1920s]</li>
+<li>[1920..1929]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: "Navy Dept model of U.S.S. Houston"</li>
+<li>Inscription on front: "USS Houston"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5098,7 +7176,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5165,10 +7249,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1934; 1934</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1934</li>
+<li>1934</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Director Crew"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5176,7 +7278,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5243,10 +7351,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1939; 1939~</td>
+<td>
+<ul>
+<li>approximately 1939</li>
+<li>1939~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Hoofer, Edwin F.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Hoofer, Edwin F.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5254,7 +7376,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5321,10 +7449,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1939; 1939~</td>
+<td>
+<ul>
+<li>approximately 1939</li>
+<li>1939~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Hooper, Edwin F.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Hooper, Edwin F.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5332,7 +7474,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5399,10 +7547,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "USS Houston (CA 30)-- Ship's sponsor Elisabeth Holcombe and a group of U.S. Navy officers on stand at launching ceremonies, 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Holcombe, Elisabeth</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Holcombe, Elisabeth</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5410,7 +7577,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5477,10 +7650,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Holcombe, Elisabeth</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Holcombe, Elisabeth</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5488,7 +7675,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5555,10 +7748,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Holcombe, Elisabeth--Ship's sponsor at launching ceremonies for USS Houston (CA 30), 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Holcombe, Elisabeth</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Holcombe, Elisabeth</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5566,7 +7778,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5584,7 +7802,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Rat Buri, Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5592,7 +7819,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5610,7 +7843,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Rat Buri, Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5618,7 +7860,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5636,7 +7884,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Rat Buri, Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5644,7 +7901,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5662,7 +7925,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Rat Buri, Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5670,7 +7942,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5688,7 +7966,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Rat Buri, Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5696,7 +7983,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5714,7 +8007,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Rat Buri, Thailand</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5722,7 +8024,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5737,18 +8045,54 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 1945; 1945-09</td>
-<td>English; eng</td>
-<td>The aircraft carrier USS Chenango evacuated approximately 1,900 Allied POWs from Japan.; Caption on white card: "Group photo of Navy and Marine personnel aboard jeep carrier USS Chenango in Nagasaki, Japan, Sept., 1945."; Inscription on back: 1st Row: 1) McFarland MC, 2) Voght, 3) Castro, 4) Fergeson, 5) Benel, 2nd Row: 1) Quick MC, 2) Weeks, 3) Krekan, 4) Wilker, 5) Wampler, 6) Warkin, 3rd Row: 1) Battles MC, 2) Detre, 3) Hurd, 4) Bukowsky MC "</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Nagasaki, Japan; Nagasaki, Japan</td>
+<td>
+<ul>
+<li>September 1945</li>
+<li>1945-09</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>The aircraft carrier USS Chenango evacuated approximately 1,900 Allied POWs from Japan.</li>
+<li>Caption on white card: "Group photo of Navy and Marine personnel aboard jeep carrier USS Chenango in Nagasaki, Japan, Sept., 1945."</li>
+<li>Inscription on back: 1st Row: 1) McFarland MC, 2) Voght, 3) Castro, 4) Fergeson, 5) Benel, 2nd Row: 1) Quick MC, 2) Weeks, 3) Krekan, 4) Wilker, 5) Wampler, 6) Warkin, 3rd Row: 1) Battles MC, 2) Detre, 3) Hurd, 4) Bukowsky MC "</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Nagasaki, Japan</li>
+<li>Nagasaki, Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5815,18 +8159,49 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "F.G. Polk, W. J 1/c. USS Houston, F.D. Ellis, C.W.J. USS Houston in front of Elks Club. Manila, P.I., 1941"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Ellis, Frank D.; Polk, F. G.</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Ellis, Frank D.</li>
+<li>Polk, F. G.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5893,18 +8268,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>June 11, 1937; 1937-06-11</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 11, 1937</li>
+<li>1937-06-11</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "U.S.S. Houston. Farewell Dance. Biltmore Hotel Los Angeles June 11, 1937."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Los Angeles, California; Los Angeles, California</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Los Angeles, California</li>
+<li>Los Angeles, California</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5919,18 +8323,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is a common sight - I've seen so many I don't even look any more. Olongapo - P.I."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Olongapo, Philippines; Olongapo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Olongapo, Philippines</li>
+<li>Olongapo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -5997,18 +8430,54 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 14, 1938; 1938-05-14</td>
-<td>English; eng</td>
-<td>L-R, Lennart O. Peterson, Thomas A. Davidson, Happy, Wilson, Carter; Inscription on back: "Left - Peterson, Davidson, Happy, Wilson, Carter, Hawaii 5/14/1938"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Hawaii; Hawaiian Territory; Hawaii; Hawaiian Territory</td>
+<td>
+<ul>
+<li>May 14, 1938</li>
+<li>1938-05-14</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>L-R, Lennart O. Peterson, Thomas A. Davidson, Happy, Wilson, Carter</li>
+<li>Inscription on back: "Left - Peterson, Davidson, Happy, Wilson, Carter, Hawaii 5/14/1938"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Hawaii</li>
+<li>Hawaiian Territory</li>
+<li>Hawaii</li>
+<li>Hawaiian Territory</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6075,18 +8544,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 1945; 1945-08</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>August 1945</li>
+<li>1945-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Group photo made at prisoner of war camp, Ohasi, Japan, Aug., 1945. Thew is second from right."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Japan; Japan</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Japan</li>
+<li>Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6101,18 +8600,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 1945; 1945-08</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>August 1945</li>
+<li>1945-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Group photo made at prisoner of war camp, Ohasi, Japan, Aug., 1945. Thew is second from right."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Japan; Japan</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Japan</li>
+<li>Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6127,10 +8656,33 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
-<td>L-R, Charles, Carter, Gilmore, Henry A. English; Inscription on back: "U.S.S. Houston - [Hatti] - 1939, Left - Charles, Carter, Gilmore, English"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>L-R, Charles, Carter, Gilmore, Henry A. English</li>
+<li>Inscription on back: "U.S.S. Houston - [Hatti] - 1939, Left - Charles, Carter, Gilmore, English"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6138,7 +8690,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6206,9 +8764,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "Mai Poina Oe Lau, Frank, CWT Frank Ellis, USS Houston (CA 30)"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Ellis, Frank D.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Ellis, Frank D.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6216,7 +8788,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6231,18 +8809,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 13, 1941; 1941-09-13</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 13, 1941</li>
+<li>1941-09-13</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "F.D. Ellis in patio of Aida apt. 340 Gral. Luna, W.C., Manila, P.I., Sept. 13, 1941"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Ellis, Frank D.</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Ellis, Frank D.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6309,10 +8917,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1930s; [1930..1939]</td>
+<td>
+<ul>
+<li>approximately 1930s</li>
+<li>[1930..1939]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6320,7 +8942,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6335,10 +8963,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1935; 1935</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1935</li>
+<li>1935</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "Roosevelt, 1935"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6346,7 +8992,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6361,10 +9013,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1930s; [1930..1939]</td>
+<td>
+<ul>
+<li>approximately 1930s</li>
+<li>[1930..1939]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6372,7 +9038,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6387,10 +9059,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1930s; [1930..1939]</td>
+<td>
+<ul>
+<li>approximately 1930s</li>
+<li>[1930..1939]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6398,7 +9084,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6416,7 +9108,16 @@ comments: false
 <td>approximately 1930s</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6424,7 +9125,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6439,10 +9146,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1930s; [1930..1939]</td>
+<td>
+<ul>
+<li>approximately 1930s</li>
+<li>[1930..1939]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6450,7 +9171,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6466,9 +9193,22 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *This is a picture of the gardens in a section of Iloilo. See the girls blushing!*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Iloilo, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6476,7 +9216,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6543,18 +9289,54 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>March 1945; 1945-03</td>
-<td>English; eng</td>
-<td>Inscription on back: "No. 24 Camp, Japan, 1945-March; 125; Detre"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Detre, George E.</td>
-<td>Japan; Japan</td>
+<td>
+<ul>
+<li>March 1945</li>
+<li>1945-03</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: "No. 24 Camp, Japan, 1945-March</li>
+<li>125</li>
+<li>Detre"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Detre, George E.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Japan</li>
+<li>Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6621,10 +9403,34 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1938; 1938~</td>
-<td>English; eng</td>
-<td>Inscription on front: "Between the two 8" guns"; Inscription on back: "Send more Japs!!!"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Hayes, Gilbert W.</td>
+<td>
+<ul>
+<li>approximately 1938</li>
+<li>1938~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on front: "Between the two 8" guns"</li>
+<li>Inscription on back: "Send more Japs!!!"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Hayes, Gilbert W.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6632,7 +9438,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6699,18 +9511,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "How do you like this goat? Iloilo, PI, 1941"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Iloilo, Philippines; Iloilo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Iloilo, Philippines</li>
+<li>Iloilo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6777,10 +9618,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1936; 1936</td>
+<td>
+<ul>
+<li>1936</li>
+<li>1936</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6788,7 +9642,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6803,10 +9663,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 1945; 1945-10</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>October 1945</li>
+<li>1945-10</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Oct 1945, Jap POW camp after war. Detre. Senju [illegible words] 40 miles NW Nag[asaki?]."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6814,7 +9693,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6881,10 +9766,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6892,7 +9791,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6907,10 +9812,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6918,7 +9837,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6933,18 +9858,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 1945; 1945-08</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>August 1945</li>
+<li>1945-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Overview of Hakodate P.O.W. Camp 3, Ohasi, Japan, Aug., 1945."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Japan; Japan</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Japan</li>
+<li>Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -6959,10 +9914,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1945]; 1945~</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[approximately 1945]</li>
+<li>1945~</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "From left to right - Harold McManus - (Harry Stone died in 1962) unknown caption 'Aussie.' Dead - Col. Suga, head of POW camp where Harold was on Borneo. This picture was taken on a small island off Borneo--where they were guarding Suga."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30); McManus, Harold; Stone, Harry</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>McManus, Harold</li>
+<li>Stone, Harry</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6970,7 +9946,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7037,10 +10019,34 @@ comments: false
 <td>Dementi Studio</td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
-<td>Inscription on back: "Byrd, Harry F.--Governor of Virginia; master of cermonies at launching of USS Houston (CA 30), 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Byrd, Harry F. (Harry Flood), 1887-1966</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: "Byrd, Harry F.--Governor of Virginia</li>
+<li>master of cermonies at launching of USS Houston (CA 30), 7 Sept. 1929."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Byrd, Harry F. (Harry Flood), 1887-1966</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7048,7 +10054,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7118,7 +10130,16 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Henry L.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Henry L.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7126,7 +10147,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7141,10 +10168,23 @@ comments: false
 <td>Harris & Ewing</td>
 <td></td>
 <td></td>
-<td>1935; 1935</td>
+<td>
+<ul>
+<li>1935</li>
+<li>1935</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7152,7 +10192,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7219,10 +10265,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1930s; [1930..1939]</td>
+<td>
+<ul>
+<li>approximately 1930s</li>
+<li>[1930..1939]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Nickel, Henry</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Nickel, Henry</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7230,7 +10290,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7246,9 +10312,24 @@ comments: false
 <td></td>
 <td></td>
 <td>1947.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *Capt. A.C. Olney , USN presents Bronze Star with Combat V to Nichels, H. CBM.*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Nickey, Henry; Olney, A. C.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Nickey, Henry</li>
+<li>Olney, A. C.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7256,7 +10337,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7326,7 +10413,16 @@ comments: false
 <td>1946.0</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Levitt, Herbert A.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Levitt, Herbert A.</li>
+</ul>
+</td>
 <td>New York City, New York</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7334,7 +10430,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7350,9 +10452,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M. De Ruyter, Keel layed on September 16, 1933. Serviced on October 3, 1936. It was the ship of the commander of the Combined Striking Force, Rear Admiral Karel Doorman. Torpedoed on Feb. 27, 1942 by cruiser 'Haguro' and sunk on Feb. 28, 1942 near Bawean."</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; HM de Ruyter</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>HM de Ruyter</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7360,7 +10473,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7428,9 +10547,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M. De Ruyter"</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; HM de Ruyter</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>HM de Ruyter</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7438,7 +10568,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7506,9 +10642,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M. Evertsen: Built on Aug. 5, 1925. Serviced on Apr. 12, 1928. Grounded on March 1, 1942 near isle of Sebuku Besar in a battle, together with USS Houston and HMAS Perth in Sunda Straight"</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; HM Evertsen</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>HM Evertsen</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7516,7 +10663,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7584,9 +10737,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M. Java, Keel layed on May 31, 1916. Serviced on May 1, 1925. Participated in Battle of Bandung Strait (Feb. 19, 1942). Torpedoed by Japanese Heavy Cruiser, Nachi. Sunk 35 miles S.W. of Isle of Bawean."</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; HM Java</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>HM Java</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7594,7 +10758,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7662,9 +10832,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M. Kortenaer, Keel layed down on Aug. 24, 1925. Serviced on September 3, 1928. Torpedoed by Japanese Cruiser, Haguro on Feb. 27, 1942 in Battle of Java Sea and sunk about 43 miles S.W. of Isle of Bawean."</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; HM Kortenaer</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>HM Kortenaer</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7672,7 +10853,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7740,9 +10927,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M. Witte de With, Keel layed on May 27, 1927. Serviced on Feb. 20, 1930. This ship escorted on Feb. 27, 1942, the damaged British cruiser HMS Exeter to Surabaia docks. On March 2, 1942 this ship was destroyed by its own crew, after damages by a Japanese air raid on Surabaia Navy docks"</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; HM Witte de With</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>HM Witte de With</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7750,7 +10948,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7818,9 +11022,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "H.M.A.S. Perth"</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; HMAS Perth (Cruiser)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>HMAS Perth (Cruiser)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7828,7 +11044,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7896,9 +11118,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "HMAS Perth"</td>
-<td>World War, 1939-1945 -- Naval operations; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; HMAS Perth (Cruiser)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>HMAS Perth (Cruiser)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7906,7 +11140,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -7973,18 +11213,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "Houston Ball, Canidrome, Shanghai"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Shangai; Shangai</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Shangai</li>
+<li>Shangai</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8051,10 +11320,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 30, 1942; 1942-05-30</td>
+<td>
+<ul>
+<li>May 30, 1942</li>
+<li>1942-05-30</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8062,7 +11344,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8080,7 +11368,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8088,7 +11384,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8103,10 +11405,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 1934; 1934-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>July 1934</li>
+<li>1934-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "A proud sailor on the USS Houston - my home for 4 years - I had to put on my dress whites and have my picture taken to send home to my folks, July 1934, I.R. Coates, MM2C, South Pacific 1934."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Coates, I. Roy</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Coates, I. Roy</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8114,7 +11435,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8184,7 +11511,16 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Smith, Jack L.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Smith, Jack L.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8192,7 +11528,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8207,18 +11549,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately August 1941]; 1955-08~</td>
+<td>
+<ul>
+<li>[approximately August 1941]</li>
+<li>1955-08~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Wilson, James Raydell</td>
-<td>Camp Pendleton Marine Corps Base (defense installation); Camp Pendleton Marine Corps Base (defense installation)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Wilson, James Raydell</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Camp Pendleton Marine Corps Base (defense installation)</li>
+<li>Camp Pendleton Marine Corps Base (defense installation)</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8233,18 +11600,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 1945; 1945-08</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>August 1945</li>
+<li>1945-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Japanese soldiers in formation at prisoner of war camp, Ohasi, Japan, Aug., 1945."</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Japan; Japan</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Japan</li>
+<li>Japan</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8259,18 +11656,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Phillippines - Manila, early - 1940, John B. Stefanek"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Stefanek, John B.</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Stefanek, John B.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8340,7 +11767,16 @@ comments: false
 <td>approximately 1947</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Reas, John</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Reas, John</li>
+</ul>
+</td>
 <td>Dallas, Texas</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8348,7 +11784,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8363,18 +11805,49 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 15, 1945; 1945-09-15</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 15, 1945</li>
+<li>1945-09-15</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Suho W. Suomi, Sea 1/C., Calcutta, India, Sept. 15th 1945, John B. Stefanek (right of picture)"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Stefanek, John B.; Suomi, Suho</td>
-<td>Calcutta, India; Calcutta, India</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Stefanek, John B.</li>
+<li>Suomi, Suho</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Calcutta, India</li>
+<li>Calcutta, India</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8441,18 +11914,49 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Manila - P.I., early - 1940. John Wisecup - on left. John B. Stefanek (in front)."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Stefanek, John B.; Wisecup, John</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Stefanek, John B.</li>
+<li>Wisecup, John</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8519,10 +12023,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1940s]; [1940..1949]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[approximately 1940s]</li>
+<li>[1940..1949]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on front: "S 1/c Lawrence F. Kondzela"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8530,7 +12052,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8545,10 +12073,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 14, 1938; 1938-05-14</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>May 14, 1938</li>
+<li>1938-05-14</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "5/14/1938, Peterson - gunnermate, lost life in prison war camp - after ship sank"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Peterson, Lennart O.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Peterson, Lennart O.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8556,7 +12103,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8623,18 +12176,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 1940; 1940-09</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 1940</li>
+<li>1940-09</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "On boot leave, Sept. 1940 - in Freeport at folks home"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Rehfeld, Lester W.</td>
-<td>Freeport, Illinois; Freeport, Illinois</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Rehfeld, Lester W.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Freeport, Illinois</li>
+<li>Freeport, Illinois</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8702,9 +12285,23 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *Lester 'Les' Rehfeld at the sea shore by the crater at Tawi Tawi*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Rehfeld, Lester W.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Rehfeld, Lester W.</li>
+</ul>
+</td>
 <td>Tawitawi Island, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8712,7 +12309,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8779,18 +12382,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Bongato, Tobatto, Tawi Tawi, Philippine Islands. Fall of 1941 -"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Rehfeld, Lester W.</td>
-<td>Tawitawi Island, Philippines; Tawitawi Island, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Rehfeld, Lester W.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Tawitawi Island, Philippines</li>
+<li>Tawitawi Island, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8858,9 +12491,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "A plane crash at sea 1934"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8868,7 +12514,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8935,10 +12587,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>approximately 1942; 1942~</td>
+<td>
+<ul>
+<li>approximately 1942</li>
+<li>1942~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Keith, Farrel W.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Keith, Farrel W.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8946,7 +12612,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -8961,10 +12633,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Lt Comdr Inglis, the Chairman, welcomes the guests"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8972,7 +12662,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9039,18 +12735,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 1941; 1941-10</td>
+<td>
+<ul>
+<li>October 1941</li>
+<li>1941-10</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Fulton, Robert B.</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Fulton, Robert B.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9065,10 +12786,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Lieut Vanzant, a native of Houston, presenting the city's gift to the ship."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9076,7 +12815,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td></td>
@@ -9144,9 +12889,22 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *I walked down this street. I got these cards at this drug store on the front--see the buggy--that’s the taxies!*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Olongapo, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9154,7 +12912,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9224,7 +12988,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9232,7 +13005,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9250,7 +13029,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9258,7 +13045,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9273,10 +13066,33 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>March 14, 1932; 1932-03-14</td>
-<td>English; eng</td>
-<td>This photograph was taken during the Shanghai War of 1932.; Caption on back: "The Marine detachment from the USS Houston at the Dong Shing mill (Japanese) where they are billeted during the disturbance in Shanghai. Commanded by Capt. Donald Curtis. Picture taken just before Company departed for duty on the front line along Soochow Creek" [3/14/32]</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>March 14, 1932</li>
+<li>1932-03-14</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>This photograph was taken during the Shanghai War of 1932.</li>
+<li>Caption on back: "The Marine detachment from the USS Houston at the Dong Shing mill (Japanese) where they are billeted during the disturbance in Shanghai. Commanded by Capt. Donald Curtis. Picture taken just before Company departed for duty on the front line along Soochow Creek" [3/14/32]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9284,7 +13100,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9351,10 +13173,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+<li>Holcombe, Elisabeth</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9362,7 +13200,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9429,10 +13273,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+<li>Holcombe, Elisabeth</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9440,7 +13300,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9507,10 +13373,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "USS Houston (CA-30) Mary Ellen Bute [maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform at launching ceremony, 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+<li>Holcombe, Elisabeth</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9518,7 +13405,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9533,10 +13426,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+<li>Holcombe, Elisabeth</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9544,7 +13453,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9611,10 +13526,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Holcombe, Elisabeth; Williams, Charlotte</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+<li>Holcombe, Elisabeth</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9622,7 +13553,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9689,10 +13626,27 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td>Caption on white card: "USS Houston (CA 30)-- Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform with Va. Gov. Harry F. Bird at ship's launching ceremony, 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen; Byrd, Harry F. (Harry Flood), 1887-1966; Holcombe, Elisabeth; Williams, Charlotte</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+<li>Byrd, Harry F. (Harry Flood), 1887-1966</li>
+<li>Holcombe, Elisabeth</li>
+<li>Williams, Charlotte</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9700,7 +13654,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9767,10 +13727,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Bute, Mary Ellen--Maid of honor at launching ceremonies for USS Houston (CA 30), 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Bute, Mary Ellen</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Bute, Mary Ellen</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9778,7 +13757,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9796,7 +13781,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9804,7 +13797,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9822,7 +13821,16 @@ comments: false
 <td>[1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9830,7 +13838,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9845,10 +13859,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9856,7 +13884,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9871,10 +13905,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9882,7 +13930,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9897,10 +13951,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9908,7 +13976,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9923,10 +13997,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9934,7 +14022,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9949,10 +14043,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9960,7 +14068,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -9975,10 +14089,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9986,7 +14114,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10001,10 +14135,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10012,7 +14160,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10027,10 +14181,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10038,7 +14206,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10053,18 +14227,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 17, 1941; 1941-02-17</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>February 17, 1941</li>
+<li>1941-02-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "How would you like to have this as a pet? It was caught in the port we were in about 2 wks ago. F. Pistole, Olongapo, P.I., Feb. 17, 1941"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Olongapo, Philippines; Olongapo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Olongapo, Philippines</li>
+<li>Olongapo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10131,10 +14334,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1958; 1958</td>
+<td>
+<ul>
+<li>1958</li>
+<li>1958</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Crosswell, Elizabeth Holcombe; Simpson, A. D.; Bernreider, William</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Crosswell, Elizabeth Holcombe</li>
+<li>Simpson, A. D.</li>
+<li>Bernreider, William</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10142,7 +14361,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10209,10 +14434,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1958; 1958</td>
+<td>
+<ul>
+<li>1958</li>
+<li>1958</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Crosswell, Elizabeth Holcombe; Simpson, A. D.; Bernreider, William</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Crosswell, Elizabeth Holcombe</li>
+<li>Simpson, A. D.</li>
+<li>Bernreider, William</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10220,7 +14461,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10287,10 +14534,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1958; 1958</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1958</li>
+<li>1958</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on white card: "For Mr. Simpson to send to Mr. Ewing and Mr. Brochstein - Left to right, Mr. Ewing, Mr. L. B. Christenson who repaired, repainted the model for the Cruiser Houston Committee"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Christenson, L. B.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Christenson, L. B.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10298,7 +14564,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10365,10 +14637,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1958; 1958</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1958</li>
+<li>1958</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Oscar Holcombe, Elisabeth Holcombe Crosswell, A.D. Simpson"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Holcombe, Oscar, 1888-1968; Crosswell, Elizabeth Holcombe; Simpson, A. D.</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Holcombe, Oscar, 1888-1968</li>
+<li>Crosswell, Elizabeth Holcombe</li>
+<li>Simpson, A. D.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10376,7 +14669,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10444,9 +14743,22 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *This is a Moro fisherman fixing his fishing gear. Iloilo, P.I., 1941. Looks like you Pop. Notice the carving he has done on his bonka or boat.*</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Iloilo, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10454,7 +14766,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10521,18 +14839,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 13, 1941; 1941-09-13</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 13, 1941</li>
+<li>1941-09-13</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Mr. and Mrs. F.D. Ellis in patio of Aida apt. 340 Gral. Luna, W.C., Manila, P.I., Sept. 13, 1941."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Ellis, Frank D.</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Ellis, Frank D.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10599,18 +14947,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 13, 1941; 1941-09-13</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 13, 1941</li>
+<li>1941-09-13</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Mr. and Mrs. F.D. Ellis in patio of Aida apt. 340 Gral. Luna, W.C., Manila, P.I., Sept. 13, 1941."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Ellis, Frank D.</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Ellis, Frank D.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10677,18 +15055,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Hamill, Mrs. Claud B.</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Hamill, Mrs. Claud B.</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10755,18 +15158,56 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
-<td>Caption on card: "Norfolk, Va., 19 June 1943-- Mrs. Claude Hammill, of Houston, Texas, smashes a bottle of champagne against the bow of the new cruiser, Houston, as the ship starts down the ways at her launching 19 June 1943 at the Newport News Shipbuilding and Dry Dock Co., Newport News, Va. In the picture reading from the extreme left are Senator Tom Connally, of Texas; Governor Coke Stevenson, of Texas; Jesse Jones, Secretary of Commerce; Mayor Otis Massey, of Houston; Lieutenant Commander Wilson Starbuck, Public Relations Officer of the Fifth Naval District, and (front) Rear Admiral O.L. Cox, Supervisor of Shipbuilding at the Yard."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Hammill,Claud</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on card: "Norfolk, Va., 19 June 1943-- Mrs. Claude Hammill, of Houston, Texas, smashes a bottle of champagne against the bow of the new cruiser, Houston, as the ship starts down the ways at her launching 19 June 1943 at the Newport News Shipbuilding and Dry Dock Co., Newport News, Va. In the picture reading from the extreme left are Senator Tom Connally, of Texas</li>
+<li>Governor Coke Stevenson, of Texas</li>
+<li>Jesse Jones, Secretary of Commerce</li>
+<li>Mayor Otis Massey, of Houston</li>
+<li>Lieutenant Commander Wilson Starbuck, Public Relations Officer of the Fifth Naval District, and (front) Rear Admiral O.L. Cox, Supervisor of Shipbuilding at the Yard."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Hammill,Claud</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10859,10 +15300,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. The piano is immediately pressed in to service. Mrs. Pressler plays 'La Paloma.'"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10870,7 +15329,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -10937,10 +15402,29 @@ comments: false
 <td>Thomson, Cecil M.</td>
 <td></td>
 <td></td>
-<td>1927; 1927</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1927</li>
+<li>1927</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Thomson, Cecil M.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Thomson, Cecil M.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10948,7 +15432,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11015,18 +15505,52 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1928; 1928</td>
-<td>English; eng</td>
-<td>Caption on white card: "Newport News Shipyard, marked to show "exact spot where U.S.S. Houston being built." ca. 1928-29."; Inscription on front: "Exact spot where USS Houston being built by Newport News Shipbuilding & Dry Dock Company, Newport News Va"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>1928</li>
+<li>1928</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: "Newport News Shipyard, marked to show "exact spot where U.S.S. Houston being built." ca. 1928-29."</li>
+<li>Inscription on front: "Exact spot where USS Houston being built by Newport News Shipbuilding & Dry Dock Company, Newport News Va"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11093,18 +15617,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Otto Schwarz, age: 17, Manila, P.I., 1940"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Schwarz, Otto</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Schwarz, Otto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11171,18 +15725,53 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 1941; 1941-10</td>
-<td>English; eng</td>
-<td>Inscription on back: "1. Tawi Tawi, Southern Philippines, Oct 1941; Lower right (Otto Schwarz)"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Shwarz, Otto</td>
-<td>Tawitawi Island, Philippines; Tawitawi Island, Philippines</td>
+<td>
+<ul>
+<li>October 1941</li>
+<li>1941-10</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: "1. Tawi Tawi, Southern Philippines, Oct 1941</li>
+<li>Lower right (Otto Schwarz)"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Shwarz, Otto</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Tawitawi Island, Philippines</li>
+<li>Tawitawi Island, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11252,7 +15841,19 @@ comments: false
 <td>[approximately 1955]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Schwarz, Otto; Shwarz, Edward; Shwarz, John; Schwarz, Trudy</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Schwarz, Otto</li>
+<li>Shwarz, Edward</li>
+<li>Shwarz, John</li>
+<li>Schwarz, Trudy</li>
+</ul>
+</td>
 <td>Newark, New Jersey</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11260,7 +15861,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11275,10 +15882,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1938]; 1938~</td>
+<td>
+<ul>
+<li>[approximately 1938]</li>
+<li>1938~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11286,7 +15906,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11301,18 +15927,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "houses they live in out here. Some place huh. "Butch." South Sea Islands, 1941."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>South Sea Islands; South Sea Islands</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>South Sea Islands</li>
+<li>South Sea Islands</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11379,10 +16034,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1930]; 1930~</td>
+<td>
+<ul>
+<li>[approximately 1930]</li>
+<li>1930~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11390,7 +16058,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11405,10 +16079,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day 1936. Popeye, Olive Oil, Wimpie and Toar"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11416,7 +16108,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11483,10 +16181,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Popeye & cast again"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11494,7 +16210,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11561,10 +16283,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11572,7 +16308,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11587,18 +16329,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Prisoner of war camp. (Thailand but typical of all in Burma and Thailand.)"</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11665,18 +16437,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Prisoner of war camp. (Thailand but typical of all in Burma and Thailand.)"</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11743,18 +16545,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Prisoner of war camp. (Thailand but typical of all in Burma and Thailand.)"</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11821,18 +16653,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Prisoner of war camp. (Thailand but typical of all in Burma and Thailand.)"</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11899,18 +16761,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11928,7 +16815,16 @@ comments: false
 <td>[1942-1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11936,7 +16832,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11951,18 +16853,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -11977,18 +16904,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12003,18 +16955,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12029,18 +17006,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12055,18 +17057,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12081,18 +17108,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12107,18 +17159,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12133,18 +17210,45 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Myanmar; Burma; Myanmar; Burma</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Myanmar</li>
+<li>Burma</li>
+<li>Myanmar</li>
+<li>Burma</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12159,10 +17263,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12170,7 +17288,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12188,7 +17312,16 @@ comments: false
 <td>[1942-1945]</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12196,7 +17329,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12211,10 +17350,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12222,7 +17375,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12237,10 +17396,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12248,7 +17421,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12263,10 +17442,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12274,7 +17467,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12289,18 +17488,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12315,18 +17539,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1945]; 1945~</td>
+<td>
+<ul>
+<li>[1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Rat Buri, Thailand; Rat Buri, Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Rat Buri, Thailand</li>
+<li>Rat Buri, Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12342,9 +17591,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "Pres. Roosevelt and Harry Hopkins"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945; Hopkins, Harry L. (Harry Lloyd), 1890-1946</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+<li>Hopkins, Harry L. (Harry Lloyd), 1890-1946</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12352,7 +17616,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12368,9 +17638,22 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *This is the prison in Iloilo. I don't want to get locked up here. Ha. Tell Earl [Deane?] That is a letter Philippines Bay in the picture, 1941.*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Iloilo, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12378,7 +17661,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12446,9 +17735,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *Looking from left- Robert E. Saunders, Andy (no last name), Myers (no last name)*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Saunders, Robert E.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Saunders, Robert E.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12456,7 +17759,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12523,18 +17832,43 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1945]; 1945~</td>
+<td>
+<ul>
+<li>[approximately 1945]</li>
+<li>1945~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12549,10 +17883,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Ray Nantz entertains with harmonica."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Nantz, Ray</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Nantz, Ray</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12560,7 +17913,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12627,10 +17986,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942]; 1942</td>
+<td>
+<ul>
+<li>[1942]</li>
+<li>1942</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Glassford, William A. (William Alexander)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Glassford, William A. (William Alexander)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12638,7 +18011,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12653,18 +18032,51 @@ comments: false
 <td>Chronicle</td>
 <td></td>
 <td></td>
-<td>May 30, 1942; 1942-05-30</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>May 30, 1942</li>
+<li>1942-05-30</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Rear Admiral Glassford U.S.N. (Last Admiral to fly his flag as flagship U.S.S. Houston before the Battle of Sunda Strait) is addressing the 1000 volunteers and citizens of Houston after giving the volunteers their oath as Navy enlisted men, May 30, 1942. To the right in white uniform: Capt. T.A. Thomson, USN Cmdt 8th Naval Dist., Col Wallace Reid, C.O. Ellington Field"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Glassford, William A. (William Alexander); Reid, Wallace; Thomson, Thaddeus Austin; Chronicle</td>
-<td>Houston, Texas; Houston, Texas</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Glassford, William A. (William Alexander)</li>
+<li>Reid, Wallace</li>
+<li>Thomson, Thaddeus Austin</li>
+<li>Chronicle</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Houston, Texas</li>
+<li>Houston, Texas</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12731,10 +18143,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. Santa Claus, assisted by Mickey Mouse, presenting the gifts."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12742,7 +18172,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12809,10 +18245,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day 1936. Santa Claus arrives! (Note 12 side boys)"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12820,7 +18274,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12888,9 +18348,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "The Houston had 4 seaplanes. A.G. took first 'catapult shot' off this catapult. He almost lost life during recovery."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12898,7 +18371,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12916,7 +18395,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12924,7 +18411,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12942,7 +18435,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12950,7 +18451,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12968,7 +18475,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -12976,7 +18491,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -12994,7 +18515,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13002,7 +18531,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13020,7 +18555,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13028,7 +18571,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13046,7 +18595,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13054,7 +18611,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13070,9 +18633,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "The old gang, Cuba"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13080,7 +18656,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13147,18 +18729,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is a picture of the famous old Spanish fort San Antonio Abad. We train here. This is the front entrance. Notice the palm tree on the left hand corner and the stone work! My pal took these pictures. Love "B[utch]"."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13225,10 +18836,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day 1936. 'Sparks' Okins entertains with a saw."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Sparks, Owen</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Sparks, Owen</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13236,7 +18866,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13303,10 +18939,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13314,7 +18963,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13382,9 +19037,22 @@ comments: false
 <td></td>
 <td></td>
 <td>1941.0</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: *This is a statue in front of the place where we ate in Iloilo, P.I., 1941, 'Butch'*</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td>Iloilo, Philippines</td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13392,7 +19060,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13459,18 +19133,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1932; 1932</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1932</li>
+<li>1932</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Officer's Landing, Guantanamo Bay Cuba, 1932, Swimming"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Guantanamo Bay, Cuba; Guantanamo Bay, Cuba</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Guantanamo Bay, Cuba</li>
+<li>Guantanamo Bay, Cuba</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13537,18 +19240,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is a tailor with his charcoal pressing iron. Iloilo, P.I., 1941."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Iloilo, Philippines; Iloilo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Iloilo, Philippines</li>
+<li>Iloilo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13615,10 +19347,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day, 1936. The Seagoing Cowboys. (Note Christmas present from City of Houston in red and white bunting on left)"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13626,7 +19376,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13694,9 +19450,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "Ball, Thomas F., original chairman , Cruiser Houston Committee"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Ball, Thomas F.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Ball, Thomas F.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13704,7 +19474,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13771,10 +19547,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13782,7 +19572,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13797,18 +19593,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on front: "The Death Railway at Chong Kai, Thailand"</td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
-<td>Thailand; Thailand</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Thailand</li>
+<li>Thailand</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13823,10 +19649,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13834,7 +19674,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13849,10 +19695,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13860,7 +19720,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13875,10 +19741,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1934; 1934</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1934</li>
+<li>1934</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Plane crashes at sea, 1934"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13886,7 +19770,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13953,10 +19843,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942-1945]; [1942..1945]</td>
+<td>
+<ul>
+<li>[1942-1945]</li>
+<li>[1942..1945]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945; Prisoners of war--Japan; Prisoners of war--United States; World War, 1939-1945--Prisoners and prisons, Japanese; Burma-Siam Railroad; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945</li>
+<li>Prisoners of war--Japan</li>
+<li>Prisoners of war--United States</li>
+<li>World War, 1939-1945--Prisoners and prisons, Japanese</li>
+<li>Burma-Siam Railroad</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -13964,7 +19868,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -13979,18 +19889,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Here is one of the finer homes in Iloilo. 1941. Iloilo. Frank Pistole"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Iloilo, Philippines; Iloilo, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Iloilo, Philippines</li>
+<li>Iloilo, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14058,9 +19997,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
-<td>Inscription on back: "The very first U.S.S. Houston- formerly S/S Liebenfels- German cargo ship taken over at outbreak of World War I- Charleston Harbor. She was sunk by German crew, raised by US Navy and placed into the war transportation service"; Inscription on front: "USS Houston"</td>
-<td>Ships; Our Navy Photos; USS Houston (AK-1)</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: "The very first U.S.S. Houston- formerly S/S Liebenfels- German cargo ship taken over at outbreak of World War I- Charleston Harbor. She was sunk by German crew, raised by US Navy and placed into the war transportation service"</li>
+<li>Inscription on front: "USS Houston"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Ships</li>
+<li>Our Navy Photos</li>
+<li>USS Houston (AK-1)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14068,7 +20023,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14135,10 +20096,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939-1940; 1939/1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939-1940</li>
+<li>1939/1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "After refit, 1939-40"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14146,7 +20125,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14213,18 +20198,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Moored alongside Augusta in Manila Bay, Sept 1940 during relief on station routine"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14292,9 +20306,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption: "U.S.S. Houston"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14302,7 +20329,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14317,10 +20350,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on white slip: "Largest launching party (over 10,000 invited spectators) in history of the Newport yard--just prior to breaking of Houston Ship Channel water by the sponsor. Sept. 7, 1929"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Holcombe, Elisabeth</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Holcombe, Elisabeth</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14328,7 +20380,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14344,9 +20402,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: ""Houston & Augusta""</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14354,7 +20425,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14421,10 +20498,34 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 18, 1942; 1942-02-18</td>
-<td>English; eng</td>
-<td>Inscription on back: ""Probably last photo of Houston, Feb 18, 1942, U.S.S. Peary Astern, sunk next day, Feb 19, 1942.""; Caption on white card: "Photographs of the U.S.S. Houston and the U.S.S. Peary, 18 February 1942 (one photo shows the U.S.S. Peary afire after an explosion. Photos were taken from the nearby H.M.A.S. Deloraine.; Caption on front: "U.S.S. Houston, a cruiser which escorted the Timor Sea convoy, and U.S.S Peary, with part of the convoy they brought back to port on February 18"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>February 18, 1942</li>
+<li>1942-02-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on back: ""Probably last photo of Houston, Feb 18, 1942, U.S.S. Peary Astern, sunk next day, Feb 19, 1942.""</li>
+<li>Caption on white card: "Photographs of the U.S.S. Houston and the U.S.S. Peary, 18 February 1942 (one photo shows the U.S.S. Peary afire after an explosion. Photos were taken from the nearby H.M.A.S. Deloraine.</li>
+<li>Caption on front: "U.S.S. Houston, a cruiser which escorted the Timor Sea convoy, and U.S.S Peary, with part of the convoy they brought back to port on February 18"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14432,7 +20533,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14499,10 +20606,34 @@ comments: false
 <td>Fraser, Douglas</td>
 <td></td>
 <td></td>
-<td>February 18, 1942; 1942-02-18</td>
-<td>English; eng</td>
-<td>Caption on white card: "Photographs of the U.S.S. Houston and the U.S.S. Peary, 18 February 1942 (one photo shows the U.S.S. Peary afire after an explosion. Photos were taken from the nearby H.M.A.S. Deloraine."; Caption on front: "U.S.S. Peary, a destoyer, exploded and sank. This dramatic photograph was taken by Signalman Douglas Fraser from H.M.A.S. Deloraine. H.M.A.S. Katoomba is in the floating dock and the hosptial ship Manunda at right."; Inscription on back: "Darwin, Feb, 19, 1942"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>February 18, 1942</li>
+<li>1942-02-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption on white card: "Photographs of the U.S.S. Houston and the U.S.S. Peary, 18 February 1942 (one photo shows the U.S.S. Peary afire after an explosion. Photos were taken from the nearby H.M.A.S. Deloraine."</li>
+<li>Caption on front: "U.S.S. Peary, a destoyer, exploded and sank. This dramatic photograph was taken by Signalman Douglas Fraser from H.M.A.S. Deloraine. H.M.A.S. Katoomba is in the floating dock and the hosptial ship Manunda at right."</li>
+<li>Inscription on back: "Darwin, Feb, 19, 1942"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14510,7 +20641,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14577,10 +20714,23 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>1935; 1935</td>
+<td>
+<ul>
+<li>1935</li>
+<li>1935</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14588,7 +20738,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14655,10 +20811,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1942; 1942</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1942</li>
+<li>1942</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption: "Entering Tjilatjap, Java, N.E.I., Marblehead passed close aboard Houston, which had already made port following the same action. Damage abaft her mainmast was quite apparent. Houston's colors are half-masted pending return of her funeral party."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14666,7 +20840,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14681,10 +20861,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1931-1936]; [1931..1936]</td>
+<td>
+<ul>
+<li>[approximately 1931-1936]</li>
+<li>[1931..1936]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14692,7 +20885,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14762,7 +20961,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14770,7 +20977,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14785,10 +20998,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1931-1936]; [1931..1936]</td>
+<td>
+<ul>
+<li>[approximately 1931-1936]</li>
+<li>[1931..1936]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14796,7 +21022,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14863,10 +21095,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1931-1936]; [1931..1936]</td>
+<td>
+<ul>
+<li>[approximately 1931-1936]</li>
+<li>[1931..1936]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14874,7 +21119,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -14941,10 +21192,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1931-1936]; [1931..1936]</td>
+<td>
+<ul>
+<li>[approximately 1931-1936]</li>
+<li>[1931..1936]</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -14952,7 +21216,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15019,10 +21289,30 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>March 20, 1939; 1939-03-20</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>March 20, 1939</li>
+<li>1939-03-20</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "USS Houston (CA 30) flying the flags of President Roosevelt and Admiral W. D. Leahy, Chief of Naval Operations, during Fleet Problem 20, March, 1939."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945; Leahy, William D.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+<li>Leahy, William D.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15030,7 +21320,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15046,17 +21342,41 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "The USS Houston in a Chinese Port"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>China; China</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>China</li>
+<li>China</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15126,7 +21446,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15134,7 +21462,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15149,10 +21483,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15160,7 +21507,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15227,10 +21580,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15238,7 +21604,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15305,10 +21677,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1936; 1936</td>
+<td>
+<ul>
+<li>1936</li>
+<li>1936</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15316,7 +21701,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15331,10 +21722,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1936; 1936</td>
+<td>
+<ul>
+<li>1936</li>
+<li>1936</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15342,7 +21746,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15360,7 +21770,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15368,7 +21786,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15435,10 +21859,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15446,7 +21883,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15513,10 +21956,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 20, 1930; 1930-10-20</td>
+<td>
+<ul>
+<li>October 20, 1930</li>
+<li>1930-10-20</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15524,7 +21980,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15591,10 +22053,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 20, 1930; 1930-10-20</td>
+<td>
+<ul>
+<li>October 20, 1930</li>
+<li>1930-10-20</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15602,7 +22077,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15669,10 +22150,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15680,7 +22174,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15747,10 +22247,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 20, 1930; 1930-10-20</td>
+<td>
+<ul>
+<li>October 20, 1930</li>
+<li>1930-10-20</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15758,7 +22271,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15825,10 +22344,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 20, 1930; 1930-10-20</td>
+<td>
+<ul>
+<li>October 20, 1930</li>
+<li>1930-10-20</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15836,7 +22368,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15903,10 +22441,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 20, 1930; 1930-10-20</td>
+<td>
+<ul>
+<li>October 20, 1930</li>
+<li>1930-10-20</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15914,7 +22465,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -15981,10 +22538,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 20, 1930; 1930-10-20</td>
+<td>
+<ul>
+<li>October 20, 1930</li>
+<li>1930-10-20</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -15992,7 +22562,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16059,18 +22635,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Manila Bay, 1941, looks like typhoon weather"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16137,18 +22742,42 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1931]; 1931</td>
+<td>
+<ul>
+<li>[1931]</li>
+<li>1931</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Philippine Islands; Philippine Islands</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Philippine Islands</li>
+<li>Philippine Islands</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16163,18 +22792,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1932; 1932</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1932</li>
+<li>1932</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "San Diego, 1932, Pres Roosevelt on board."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>San Diego, California; San Diego, California</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>San Diego, California</li>
+<li>San Diego, California</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16241,10 +22899,28 @@ comments: false
 <td>Southwest Air Services</td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on Back: "Aerial Photograph by Southwest Air Services, 403 Union National Bank Building, Houston, Texas."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -16252,7 +22928,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16319,10 +23001,28 @@ comments: false
 <td>Southwest Air Services</td>
 <td></td>
 <td></td>
-<td>1930; 1930</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1930</li>
+<li>1930</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on Back: "Aerial Photograph by Southwest Air Services, 403 Union National Bank Building, Houston, Texas."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -16330,7 +23030,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16397,18 +23103,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930s; 193x</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1930s</li>
+<li>193x</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: ""Anchored mid-stream in the Wangpu River, Shanghai""</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Shanghai, China; Shanghai, China</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Shanghai, China</li>
+<li>Shanghai, China</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16475,18 +23210,42 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td>Onlookers watch the USS Houston slide down the ways at its launching ceremony.</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16553,18 +23312,42 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td>Onlookers watch the USS Houston set out to sea at its launching ceremony.</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16631,10 +23414,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
 <td></td>
 <td>This is a deck-level photo of the USS Houston (CA-30) sliding down the ways during the launching ceremony.</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -16642,7 +23438,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16709,18 +23511,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1930s; 193x</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1930s</li>
+<li>193x</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Houston - China, Yantze River, 1930's?"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>China; China</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>China</li>
+<li>China</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16787,18 +23618,49 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>November 1939?; 1939-11?</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>November 1939?</li>
+<li>1939-11?</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Diamond Head - Hawaii - Houston, ?1930s (Nov 1939, Dad)"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Hawaii; Hawaiian Territory; Hawaii; Hawaiian Territory</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Hawaii</li>
+<li>Hawaiian Territory</li>
+<li>Hawaii</li>
+<li>Hawaiian Territory</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16865,10 +23727,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>April 17, 1939; 1939-04-17</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>April 17, 1939</li>
+<li>1939-04-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Cruiser Houston--passing Battleground and San Jacinto Monument, April 17, 1939"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -16876,7 +23756,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -16943,10 +23829,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>April 17, 1939; 1939-04-17</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>April 17, 1939</li>
+<li>1939-04-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Cruiser Houston--passing Battleground and San Jacinto Monument, April 17, 1939"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -16954,7 +23858,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17021,10 +23931,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>April 17, 1939; 1939-04-17</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>April 17, 1939</li>
+<li>1939-04-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Cruiser Houston--passing Battleground and San Jacinto Monument, April 17, 1939"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17032,7 +23960,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17099,10 +24033,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>April 17, 1939; 1939-04-17</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>April 17, 1939</li>
+<li>1939-04-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Cruiser Houston--passing Battleground and San Jacinto Monument, April 17, 1939"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17110,7 +24062,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17177,10 +24135,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>April 17, 1939; 1939-04-17</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>April 17, 1939</li>
+<li>1939-04-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Cruiser Houston--passing Battleground and San Jacinto Monument, April 17, 1939"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17188,7 +24164,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17258,7 +24240,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17266,7 +24256,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17336,7 +24332,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17344,7 +24348,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17360,17 +24370,41 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption: "U.S.S. Houston, (c) 68947 Angelus"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Portland, Oregon; Portland, Oregon</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Portland, Oregon</li>
+<li>Portland, Oregon</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17386,9 +24420,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Aerial Photograph by Southwest Air Services, 403 Union National Bank Building, Houston, Texas."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17396,7 +24443,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17463,10 +24516,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 25, 1936; 1936-12-25</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>December 25, 1936</li>
+<li>1936-12-25</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "USS Houston, Christmas Day 1936. The present is unwrapped. A piano!"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17474,7 +24545,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17541,18 +24618,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1927-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1927-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "USS Houston (CA-30) slides down the ways at launching, 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17619,10 +24725,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1929; 1929-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1929</li>
+<li>1929-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on white card: "USS Houston (CA 30)-- slides down the ways at launching ceremonies, 7 Sept. 1929."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17630,7 +24754,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17645,10 +24775,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1942]; 1942</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1942]</li>
+<li>1942</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "The last known photograph of the U.S.S. Houston. Snapped through a four inch Allied gun site at West Point. The Houston was sunk with heavy loss of life a few days later."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17656,7 +24804,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17723,10 +24877,30 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "U.S.S. Houston (CA 30) with Pres. Roosevelt and Adm. W.D. Leahy, Chief of Naval Operations, aboard to observe Fleet Problem Twenty in Caribbean waters, 1939."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945; Leahy, William D.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+<li>Leahy, William D.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17734,7 +24908,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17749,10 +24929,29 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: ""Caribbean, 1939, FDR on board, Chief of Naval Ops.""</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17760,7 +24959,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17827,10 +25032,33 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>October 1935; 1935-10</td>
-<td>English; eng</td>
-<td>Inscription on front: "Roosevelt's man of war, 1935; S.S. Huston, Oct. 35"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>October 1935</li>
+<li>1935-10</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription on front: "Roosevelt's man of war, 1935</li>
+<li>S.S. Huston, Oct. 35"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17838,7 +25066,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17856,7 +25090,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17864,7 +25106,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17882,7 +25130,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17890,7 +25146,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17908,7 +25170,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17916,7 +25186,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17934,7 +25210,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17942,7 +25226,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17960,7 +25250,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17968,7 +25266,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -17986,7 +25290,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -17994,7 +25306,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18010,9 +25328,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: ""from Otto Schwarz""</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18020,7 +25351,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18088,17 +25425,41 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "USS Houston at Cocos Isla[nd]"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Cocos Island (Costa Rica); Cocos Island (Costa Rica)</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Cocos Island (Costa Rica)</li>
+<li>Cocos Island (Costa Rica)</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18113,10 +25474,30 @@ comments: false
 <td>Shwartz, Otto</td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on white card: "USS Houston (CA 30) flying the flags of President Roosevelt and Admiral W. D. Leahy, Chief of Naval Operations, March, 1939."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roosevelt, Franklin D. (Franklin Delano), 1882-1945; Leahy, William D.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
+<li>Leahy, William D.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18124,7 +25505,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18191,18 +25578,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 1934; 1934-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>July 1934</li>
+<li>1934-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "U.S.S. Houston Temporary White House. President F.D. Roosevelts Hawaiian Cruise. Honolulu Harbour July 1934"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Honolulu, Hawaii; Honolulu, Hawaii</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Honolulu, Hawaii</li>
+<li>Honolulu, Hawaii</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18218,9 +25634,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "USS Houston (CA 30), President's flag flying from the mainmast, U.S. Naval Instutite Photographic Library"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18228,7 +25657,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18298,7 +25733,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18306,7 +25749,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18321,10 +25770,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1941; 1941</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1941</li>
+<li>1941</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: ""USS Houston taken 6 months before WW#2, 1941""</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18332,7 +25799,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18400,9 +25873,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "Aerial Photograph by Southwest Air Services, 403 Union National Bank Building, Houston, Texas."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18410,7 +25896,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18480,7 +25972,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18488,7 +25988,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18506,7 +26012,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18514,7 +26028,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18532,7 +26052,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18540,7 +26068,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18558,7 +26092,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18566,7 +26108,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18584,7 +26132,15 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription on back: "[Note planes pushed behind those on the cats 5 in AA guns were put there later and planes were stowed in hangers on either side of the quarterdeck (aft of th q.d.)]."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18592,7 +26148,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18662,7 +26224,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18670,7 +26240,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18688,7 +26264,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18696,7 +26280,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18714,7 +26304,15 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -18722,7 +26320,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18737,18 +26341,48 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card: "Norfolk, Va., 19 June 1943-- Governor Coke Stevenson, of Texas, speaks at the launching ceremonies of the launching of the new cruiser Houston 19 June 1943, at the Newport News Shipbuilding and Dry Dock Co., Newport News, Va. In the background near the flag is the sponsor (white hat), Mrs. Claude Hammill, of Houston, Tex. On the left of the speaker with his hat off is Senator Tom Connally, of Texas, and Lt. (jg) Cyril Best, (ChC), USNR."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Stevenson, Coke R. (Coke Robert), 1888-1975</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Stevenson, Coke R. (Coke Robert), 1888-1975</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18841,18 +26475,50 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card: "Norfolk, Va., 19 June 1943-- Jesse Jones, Secretary of Commerce, is shown speaking at the launching of the new cruiser Houston 19 June 1943 at the Newport News Shipbuilding and Dry Dock Co., Newport News, Va. To the left of Mr. Jones is Senator Tom Connally, of Texas. Back of him tipping his hat is Governor Coke Stevenson, of Texas. The sponsor was Mrs. Claude Hammill, also of Houston."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Jones, Jesse; Connally, Tom, 1877-1963; Stevenson, Coke R. (Coke Robert), 1888-1975</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Jones, Jesse</li>
+<li>Connally, Tom, 1877-1963</li>
+<li>Stevenson, Coke R. (Coke Robert), 1888-1975</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -18945,18 +26611,49 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card: "Norfolk, Va., 19 June 1943-- Otis Massey, Mayor of Houston, Tex., is shown at the microphone speaking at the launching of the new cruiser, Houston, 19 June 1943, at the Newport News Shipbuilding and Dry Dock Co., Newport News, Va. Behind him is Governor Coke Stevenson, of Texas, and to the speaker's right is Senator Tom Connally, of Texas. In the right foreground is Lieutenant Commander Wilson Starbuck, USNR, Public Relations Officer of the Fifth Naval District, and Rear Admiral O.L. Cox, Supervisor of Shipbuilding for the Navy at the yard."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Massey; Otis</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Massey</li>
+<li>Otis</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19049,18 +26746,49 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card: "Norfolk, Va., 19 June, 1943-- Mayor Otis Massey of Houston, Texas, pins orchids on Mrs. Claude Hammill, sponsor, at the launching of the new cruiser Houston at the Newport News Shipbuilding and Dry Dock Company, Newport News, Va. The launching took place 19 June 1943."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Massey, Otis; Hammill, Claud</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Massey, Otis</li>
+<li>Hammill, Claud</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19153,18 +26881,48 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card: "Norfolk, Va., 19 June 1943-- Mrs. Claude Hammill, of Houston, Texas, christens the new cruiser, Houston at the ship's launching at the Newport News Shipbuilding and Dry Dock Co., Newport News, Va., 19 June 1943."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81); Hammill, Claud</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+<li>Hammill, Claud</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19257,18 +27015,47 @@ comments: false
 <td>United States. Navy</td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card:  "Norfolk, Va., 19 June, 1943-- The new cruiser, Houston, slides down the ways at the Newport News Ship Building and Dry Dock Co., Newport News, Va., at her launching, 19 June 1943. The sponsor was Mrs. Claude Hammill, of Houston, Texas."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81)</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19361,18 +27148,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>June 19, 1943; 1943-06-19</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>June 19, 1943</li>
+<li>1943-06-19</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on card: "Norfolk, Va., 19 June, 1943- The new cruiser, Houston, slides down the ways at her launching, 19 June 1943 at the Newport News Ship Building and Dry Dock Co., Newport News, Va. The sponsor was Mrs. Claude Hammill, of Houston, Texas."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser : CL-81)</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser : CL-81)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19465,18 +27281,47 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1940; 1940</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1940</li>
+<li>1940</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Manila, Phillippine Islands, early - 1940."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19543,18 +27388,48 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 7, 1927; 1927-09-07</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>September 7, 1927</li>
+<li>1927-09-07</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "S.P. Station, arrival of Navy Sec. Wilbur, Sept. 7, 1927 who named the U.S.S. Houston"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Wilbur, Curtis Dwight, 1867-1954</td>
-<td>Newport News, Virginia; Newport News, Virginia</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Wilbur, Curtis Dwight, 1867-1954</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Newport News, Virginia</li>
+<li>Newport News, Virginia</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19621,18 +27496,47 @@ comments: false
 <td>Photo Finishing Corp., Manila P.I.</td>
 <td></td>
 <td></td>
-<td>January 24, 1933; 1933-01-24</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>January 24, 1933</li>
+<li>1933-01-24</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Houston's party to Kent, Manila, January 24, 1933"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30)</td>
-<td>Manila, Philippines; Manila, Philippines</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Manila, Philippines</li>
+<li>Manila, Philippines</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19699,10 +27603,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[approximately 1947]; 1942~</td>
+<td>
+<ul>
+<li>[approximately 1947]</li>
+<li>1942~</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Roberts, Valdon</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Roberts, Valdon</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -19710,7 +27628,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19725,10 +27649,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1939; 1939</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1939</li>
+<li>1939</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on front: "W.O. Frederick, U.S. Navy, 1939"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Frederick, W. O.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Frederick, W. O.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -19736,7 +27679,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19754,7 +27703,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Ships; USS Houston (AK-1)</td>
+<td>
+<ul>
+<li>Ships</li>
+<li>USS Houston (AK-1)</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -19762,7 +27716,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19777,18 +27737,53 @@ comments: false
 <td>Schutz</td>
 <td></td>
 <td></td>
-<td>September 6, 1929; 1929-09-06</td>
-<td>English; eng</td>
-<td>This is a photograph of the White House reception for the Texas party to the christening of USS Houston (CA-30). President Herbert Hoover is in the center.; Inscription on front: "White House Reception, Texas Party to Christening of Cruiser Houston Washington, D.C. Sept. 6. 1929"</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Hoover, Herbert, 1874-1964</td>
-<td>Washington, DC; Washington, DC</td>
+<td>
+<ul>
+<li>September 6, 1929</li>
+<li>1929-09-06</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>This is a photograph of the White House reception for the Texas party to the christening of USS Houston (CA-30). President Herbert Hoover is in the center.</li>
+<li>Inscription on front: "White House Reception, Texas Party to Christening of Cruiser Houston Washington, D.C. Sept. 6. 1929"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Hoover, Herbert, 1874-1964</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Washington, DC</li>
+<li>Washington, DC</li>
+</ul>
+</td>
 <td></td>
 <td>black-and-white photographs</td>
 <td></td>
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19803,10 +27798,29 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>[1929]; 1929</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>[1929]</li>
+<li>1929</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "William Charles Batchelor, Jr at Hills ?  Military Academy 1929? In Portland Ore, born 1920, San Diego, died 1943 as a prisoner of war of the Japanese, in Burma on the River Kwai railroad. R.I.P. sweet brother."</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Batchelor, William C., Jr.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Batchelor, William C., Jr.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -19814,7 +27828,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19881,10 +27901,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>November 5, 1948; 1948-11-05</td>
+<td>
+<ul>
+<li>November 5, 1948</li>
+<li>1948-11-05</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Batchelor, William C., Jr.</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Batchelor, William C., Jr.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -19892,7 +27926,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -19960,9 +28000,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "William Dow Newton S 1/c, b. 23 March 1921, lost at sea in Java Sea battle, 1 March 1942. Assigned to USS Houston at Iloilo, P.I."</td>
-<td>World War, 1939-1945 -- Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); Newton, William Dow</td>
+<td>
+<ul>
+<li>World War, 1939-1945 -- Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>Newton, William Dow</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -19970,7 +28024,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
@@ -20038,9 +28098,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Wm. Martin DeShields"</td>
-<td>World War, 1939-1945--Naval operations, American; Java Sea, Battle of the, Indonesia, 1942; Sunda Strait, Battle of, Indonesia, 1942; United States Navy—Military life; Houston (Cruiser: CA-30); DeShields, William Martin</td>
+<td>
+<ul>
+<li>World War, 1939-1945--Naval operations, American</li>
+<li>Java Sea, Battle of the, Indonesia, 1942</li>
+<li>Sunda Strait, Battle of, Indonesia, 1942</li>
+<li>United States Navy—Military life</li>
+<li>Houston (Cruiser: CA-30)</li>
+<li>DeShields, William Martin</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -20048,7 +28122,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Cruiser Houston Collection; USS Houston (CA-30) Photographs; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Cruiser Houston Collection</li>
+<li>USS Houston (CA-30) Photographs</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>

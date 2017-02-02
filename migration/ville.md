@@ -46,7 +46,13 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription on back: "Andrés Patiño. Felipe Zepeda"</td>
-<td>Mexico--History--Revolution, 1910-1920; Patiño, Andrés; Zepeda, Felipe</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Patiño, Andrés</li>
+<li>Zepeda, Felipe</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -54,7 +60,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -122,9 +134,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>Caption below: "Antonio I. Villareal candidate for senator." Caption on back: "Biography of Antonio I. Villarreal. Candidate for senator for the state of Neuvo Leon."; Caption below: "Antonio I. Villarreal candidato a senador." Caption on back:  "Datos Biográficos de Antonio I. Villarreal. Candidato a senador por el estado de Nuevo León."</td>
-<td>Mexico--History--Revolution, 1910-1920; Villarreal, Antonio I. (Antonio Ireneo), 1879-1944</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption below: "Antonio I. Villareal candidate for senator." Caption on back: "Biography of Antonio I. Villarreal. Candidate for senator for the state of Neuvo Leon."</li>
+<li>Caption below: "Antonio I. Villarreal candidato a senador." Caption on back:  "Datos Biográficos de Antonio I. Villarreal. Candidato a senador por el estado de Nuevo León."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villarreal, Antonio I. (Antonio Ireneo), 1879-1944</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -132,7 +159,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -199,10 +232,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>November 18, 1910; 1910-11-18</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>November 18, 1910</li>
+<li>1910-11-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Aquiles Serdán. Puebla Nov 18 de 1910"</td>
-<td>Mexico--History--Revolution, 1910-1920; Serdán, Aquiles, 1876-1910</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Serdán, Aquiles, 1876-1910</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -210,7 +258,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -278,9 +332,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Aquiles Serdán y Francisco I. Madero"</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913; Serdán, Aquiles, 1876-1910</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+<li>Serdán, Aquiles, 1876-1910</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -288,7 +353,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -356,9 +427,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>Caption above: "Artillery dog, 'The Marques' Photo A.S." Caption on back: "Marques, dog in the Monclova battles of Candela and Hermanas, has served to transmit orders, taking them through the streets still under the power of the enemy."; Caption above: "Perro artillero 'El Marques' Foto A. S." Caption on back: "El marques, perro que en los combates de Monclova Candela y Hermanas ha servido para transmitir órdenes llevándolas por las calles todavía en poder del enemigo."</td>
-<td>Mexico--History--Revolution, 1910-1920; Working dogs</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption above: "Artillery dog, 'The Marques' Photo A.S." Caption on back: "Marques, dog in the Monclova battles of Candela and Hermanas, has served to transmit orders, taking them through the streets still under the power of the enemy."</li>
+<li>Caption above: "Perro artillero 'El Marques' Foto A. S." Caption on back: "El marques, perro que en los combates de Monclova Candela y Hermanas ha servido para transmitir órdenes llevándolas por las calles todavía en poder del enemigo."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Working dogs</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -366,7 +452,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -433,10 +525,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1915; 1915</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>1915</li>
+<li>1915</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Benjamín Garza. Para la Sra. Leonor Villegas de Magnón. Laredo, Tamps. 15 1915"</td>
-<td>Mexico--History--Revolution, 1910-1920; Garza, Benjamín</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Garza, Benjamín</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -444,7 +551,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -512,9 +625,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription below: "Brewster Home. Houston + Main"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -522,7 +645,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -537,10 +666,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 21, 1914; 1914-07-21</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>July 21, 1914</li>
+<li>1914-07-21</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Ing. Castillo Tapia proclamando un discurso en el Palacio de Gbno. de S.L. Potosí el día de la protesta del C. Gbdor. Eulalio Gutiérrez. Julio 21 de 1914. Fot. E. Montoya de la G. B."</td>
-<td>Mexico--History--Revolution, 1910-1920; Gutiérrez, Eulalio, 1880 or 1881-1939; Tapia, Castillo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Gutiérrez, Eulalio, 1880 or 1881-1939</li>
+<li>Tapia, Castillo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -548,7 +693,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -615,10 +766,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 17, 1914; 1914-07-17</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>July 17, 1914</li>
+<li>1914-07-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Leonor Villegas de Magnón seated at left of boxcar door.</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -626,7 +792,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -693,10 +865,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 17, 1914; 1914-07-17</td>
+<td>
+<ul>
+<li>July 17, 1914</li>
+<li>1914-07-17</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -704,7 +886,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -772,7 +960,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Conmemorativa en la estatua de Juárez en Colima por la revolución"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -782,7 +975,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -852,7 +1051,13 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Villa, Pancho, 1878-1923</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Villa, Pancho, 1878-1923</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -860,7 +1065,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -930,7 +1141,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -938,7 +1154,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1006,9 +1228,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Cruz Blanca Nacional, Fot. E. Montoya"</td>
-<td>Mexico--History--Revolution, 1910-1920; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1016,7 +1248,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1086,7 +1324,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Trenches</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Trenches</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -1094,7 +1337,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1162,7 +1411,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Dr. Cook's brother"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -1172,7 +1426,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1242,7 +1502,12 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription on back: "Dr. José María Rodríguez"</td>
-<td>Mexico--History--Revolution, 1910-1920; Rodríguez, José María, 1870-1946</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Rodríguez, José María, 1870-1946</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1250,7 +1515,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1318,7 +1589,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Note the improvement in our shop. X is the Studio & Mr. Conn, the professor . Mr. Vidaurri is standing at the Supreme (Itain) Remedy Dept. Mrs. L. I. Blake at the house hold & interior Decorating Dept. Mrs. De la Garza is visiting us (at the phone) & tours trulyCapt. Of the ship. XXX is xxx soliciting."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -1328,7 +1604,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1395,8 +1677,18 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>June 18, 1914; 1914-06-18</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>June 18, 1914</li>
+<li>1914-06-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on back: "Para la muy estimable señora..."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -1406,7 +1698,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1474,9 +1772,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Capt. 1o F. R. Musquiz. Constitucionalista"</td>
-<td>Mexico--History--Revolution, 1910-1920; Musquiz, F. R.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Musquiz, F. R.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -1484,7 +1792,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1562,7 +1876,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1630,9 +1950,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Felix F. Palavicini, Mexico IV"</td>
-<td>Mexico--History--Revolution, 1910-1920; Palavicini, Félix Fulgencio, 1881-</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Palavicini, Félix Fulgencio, 1881-</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -1640,7 +1970,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1708,7 +2044,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -1718,7 +2059,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1786,9 +2133,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Comm. Francesco Tamagno"</td>
-<td>Mexico--History--Revolution, 1910-1920; Tamagno, Francesco, 1850-1905</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Tamagno, Francesco, 1850-1905</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -1796,7 +2153,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1864,9 +2227,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>Caption above: "Prop. Asegurada"; Inscription on back: "Don Francisco Madero"</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption above: "Prop. Asegurada"</li>
+<li>Inscription on back: "Don Francisco Madero"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -1874,7 +2252,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -1942,9 +2326,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -1952,7 +2346,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2020,9 +2420,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
-<td>Caption below: "Prop. Asegurada"; Inscription on back: "F. Madero entering underground protection. Mexico City."</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption below: "Prop. Asegurada"</li>
+<li>Inscription on back: "F. Madero entering underground protection. Mexico City."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2030,7 +2445,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2097,10 +2518,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 9, 1913; 1913-02-09</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>February 9, 1913</li>
+<li>1913-02-09</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Madero ovacionado por el pueblo. Mexico, 9, Febro. 1913."</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2108,7 +2544,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2178,7 +2620,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2186,7 +2633,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2254,9 +2707,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Madero en el balcón central de la fotografía Daguerre."</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913; Huerta, Victoriano, 1845-1916</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+<li>Huerta, Victoriano, 1845-1916</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2264,7 +2728,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2334,7 +2804,12 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription on back : "General Cándido Aguilar"</td>
-<td>Mexico--History--Revolution, 1910-1920; Aguilar, Cándido, 1889-1960</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Aguilar, Cándido, 1889-1960</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2342,7 +2817,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2410,9 +2891,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "General de Brigada Ignacio L. Pesqueira"</td>
-<td>Mexico--History--Revolution, 1910-1920; Pesqueira, Ignacio L., 1867-1940</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Pesqueira, Ignacio L., 1867-1940</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2420,7 +2911,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2487,10 +2984,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1913; 1913</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>1913</li>
+<li>1913</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "1913. General de Brigada Ignacio L. Pesqueira."</td>
-<td>Mexico--History--Revolution, 1910-1920; Pesqueira, Ignacio L., 1867-1940</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Pesqueira, Ignacio L., 1867-1940</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2498,7 +3010,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2566,7 +3084,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Gral. Elizondo who gave Rebel cars to move her 60 wounded soldiers to Mex City. (Provided automobiles)."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -2576,7 +3099,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2644,9 +3173,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on back: "Estado Mayor del General Manzo"</td>
-<td>Mexico--History--Revolution, 1910-1920; Manzo, Francisco R.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Manzo, Francisco R.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2654,7 +3193,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2722,9 +3267,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "General G. Cabral"</td>
-<td>Mexico--History--Revolution, 1910-1920; Cabral, Juan G.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Cabral, Juan G.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2732,7 +3287,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2800,9 +3361,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on back: "Gral. Lucio Blanco y jefes constitucionalistas en Matamoros Tam. X Lucio Blanco, XX Cesario Castro, XXX General Francisco Artigas."</td>
-<td>Mexico--History--Revolution, 1910-1920; Blanco, Lucio, 1879-1922; Artigas, Francisco; Castro, Cesario</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Blanco, Lucio, 1879-1922</li>
+<li>Artigas, Francisco</li>
+<li>Castro, Cesario</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2810,7 +3383,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2878,9 +3457,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Gral. Luis G. Caballero No. 131. H. J. Gutiérrez. Foto es prop. México."</td>
-<td>Mexico--History--Revolution, 1910-1920; Cabllero, Luis G.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Cabllero, Luis G.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -2888,7 +3477,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -2955,10 +3550,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>March 23, 1918; 1918-03-23</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>March 23, 1918</li>
+<li>1918-03-23</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "This is General Caballero, governor of Tamaulipas. He is here in this hotel, March 23, 1918</td>
-<td>Mexico--History--Revolution, 1910-1920; Cabllero, Luis G.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Cabllero, Luis G.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -2966,7 +3576,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3034,9 +3650,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription above: "Gral. Luis Caballero. Obsequio a la Señora Leonor Villegas de Mañon. Nuevo Laredo, Tamps. Enero 10 de 1917.  El general Luis Caballero"</td>
-<td>Mexico--History--Revolution, 1910-1920; Cabllero, Luis G.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Cabllero, Luis G.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3044,7 +3670,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3114,7 +3746,12 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription on back: Marcilino Murrieta</td>
-<td>Mexico--History--Revolution, 1910-1920; Murrieta, Marcilino</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Murrieta, Marcilino</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3122,7 +3759,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3190,9 +3833,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription below: "Gral. Pablo de la Garza & family"</td>
-<td>Mexico--History--Revolution, 1910-1920; de la Garza, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>de la Garza, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3200,7 +3853,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3268,9 +3927,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>Caption above and below: "J. Mora. 244. El C. Grl. P. González en su casa particular. Habla con rl. M. W. Gonzalez. Mixcoac.1.20.916."; Inscription on back: "Gral. Castillo Tapia Orator"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption above and below: "J. Mora. 244. El C. Grl. P. González en su casa particular. Habla con rl. M. W. Gonzalez. Mixcoac.1.20.916."</li>
+<li>Inscription on back: "Gral. Castillo Tapia Orator"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3278,7 +3952,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3345,10 +4025,30 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 5, 1916; 1916-02-05</td>
-<td>Spanish; spa</td>
-<td>Caption above: "El C. Grl. En jefe P. Gonzalez, en el Teatro Mexicano. Febrero 5. 1916. J. Mora. 312."; Inscription on back: "Gral. P. González. A. Breceda."</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>February 5, 1916</li>
+<li>1916-02-05</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption above: "El C. Grl. En jefe P. Gonzalez, en el Teatro Mexicano. Febrero 5. 1916. J. Mora. 312."</li>
+<li>Inscription on back: "Gral. P. González. A. Breceda."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3356,7 +4056,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3423,10 +4129,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 5, 1916; 1916-02-05</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>February 5, 1916</li>
+<li>1916-02-05</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption above: "El Gral. P. González. En el Teatro Mexicano. Febrero 5. 1916. J. Mora</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3434,7 +4155,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3501,10 +4228,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 18, 1916; 1916-01-18</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>January 18, 1916</li>
+<li>1916-01-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption above: "El C. Grl. en jefe P. González entre las familias de las avanzadas adelante de Chalco. 1.18.916. J. Mora. 271"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3512,7 +4254,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3580,9 +4328,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Caption on back: "General Pablo González. This photograph was made at C. Victoria just after the capture"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3590,7 +4348,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3657,10 +4421,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 18, 1916; 1916-01-18</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>January 18, 1916</li>
+<li>1916-01-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption on right: "El C. Grl. El jefe P. González en la oficina de telégrafo delante de Chalco. 1.18.916. J. Mora. 240"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3668,7 +4447,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3735,10 +4520,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 5, 1916; 1916-02-05</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>February 5, 1916</li>
+<li>1916-02-05</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption above: "El C. Grl. jefe P. González en el panteón de S. Fernando. Febrero 5 de 1916. J. Mora. 309"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3746,7 +4546,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3813,10 +4619,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 8, 1916; 1916-02-08</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>February 8, 1916</li>
+<li>1916-02-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "La infantería hace un movimiento embolbente (sic). Orden del C. Gral. En J. P. González. Tetelco 2.8.916. J. Mora 322"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3824,7 +4645,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3891,10 +4718,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 15, 1014; 1914-07-15</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>July 15, 1014</li>
+<li>1914-07-15</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Grals. Dávila y González y Coronel P. de la Garza en la Estación de Saltillo, Julio 15-1914</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3902,7 +4744,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -3969,10 +4817,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 18-1914; 1914-07-18</td>
-<td>Spanish; spa</td>
-<td>Caption below: "Grales. P. González y L. Gutiérrez observando el desembarque de la artillería Venado S.L.P. Jul. 18-1914. Fot. E. Montoya de la C.B. Nacional"; Inscription on back: "X Eulalio Gutiérrez Gobernador de San Luis Potosí. XX Col. Federico Mémdes – artillero."</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo; Gutiérrez, Luis</td>
+<td>
+<ul>
+<li>July 18-1914</li>
+<li>1914-07-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption below: "Grales. P. González y L. Gutiérrez observando el desembarque de la artillería Venado S.L.P. Jul. 18-1914. Fot. E. Montoya de la C.B. Nacional"</li>
+<li>Inscription on back: "X Eulalio Gutiérrez Gobernador de San Luis Potosí. XX Col. Federico Mémdes – artillero."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+<li>Gutiérrez, Luis</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -3980,7 +4849,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4050,7 +4925,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4058,7 +4938,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4126,9 +5012,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "General Nátera, Durango"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Nátera, Páufilo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Nátera, Páufilo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4136,7 +5033,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4203,10 +5106,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 21, 1916; 1916-01-21</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>January 21, 1916</li>
+<li>1916-01-21</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription above: "LOS C. GRES. EN ELA CASA DE BAÑOS DESPUES DE LA COMIDA,  LA CAÑADA. ATRO. 1o 21.916, J. MORA. 291"</td>
-<td>Mexico--History--Revolution, 1910-1920; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4214,7 +5132,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4229,8 +5153,18 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August  1949; 1949-08</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>August  1949</li>
+<li>1949-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Los Grales. Blanco y Hay antes de conferencia con el Primer Jefe V. Carranza en Teoloyucan. Agosto-1949. Fot. E. Monotya"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -4240,7 +5174,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4256,7 +5196,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "N.17. Después de la protesta del presidente Lic. F. Carbajal. H. J. Gutiérrez foto. Es prop. México."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -4266,7 +5211,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4344,7 +5295,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4422,7 +5379,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4500,7 +5463,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4578,7 +5547,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4656,7 +5631,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4726,7 +5707,12 @@ comments: false
 <td></td>
 <td></td>
 <td>Second row third from Left: Leonor Villegas de Magnón.</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4734,7 +5720,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4804,7 +5796,12 @@ comments: false
 <td></td>
 <td></td>
 <td>Third from left: Leonor Villegas de Magnón</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4812,7 +5809,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4880,9 +5883,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; Spanish; eng; spa</td>
+<td>
+<ul>
+<li>English</li>
+<li>Spanish</li>
+<li>eng</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Picture is attached to paper that reads: "Contains picture of Ignacio Belendez. Mary Goodson’s Grand-father. Figura en la historia de México por su acción heróica durante el gobierno de Juárez."</td>
-<td>Mexico--History--Revolution, 1910-1920; Belendez, Ignacio</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Belendez, Ignacio</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -4890,7 +5905,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -4957,7 +5978,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1912; 1912</td>
+<td>
+<ul>
+<li>1912</li>
+<li>1912</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
@@ -4968,7 +5994,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5036,9 +6068,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Gral. Jesús Carranza. Saltillo."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Jesús</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Jesús</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -5046,7 +6088,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5116,7 +6164,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Trinity; Jesus Christ</td>
+<td>
+<ul>
+<li>Trinity</li>
+<li>Jesus Christ</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>holy cards</td>
@@ -5124,7 +6177,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5192,9 +6251,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Gral. J. Carranza y Estado Mayor"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, José</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, José</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5202,7 +6271,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5270,7 +6345,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription below: "Kennedy Home. Matamoros & Davis"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -5280,7 +6360,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5350,7 +6436,13 @@ comments: false
 <td></td>
 <td></td>
 <td>Center: Leonor Villegas de Magnón, series of signatures on back</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5358,7 +6450,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5428,7 +6526,13 @@ comments: false
 <td></td>
 <td></td>
 <td>Center: Leonor Villegas de Magnón</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5436,7 +6540,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5514,7 +6624,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5581,10 +6697,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1894; 1894</td>
+<td>
+<ul>
+<li>1894</li>
+<li>1894</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5592,7 +6718,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5659,10 +6791,27 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1914; 1914</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1914</li>
+<li>1914</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "The Rebel with Aracelito her first sec. wife of Col. Guillermo ? Celis lifelong friends. Page 195 -"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional; García, Aracelito</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+<li>García, Aracelito</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5670,7 +6819,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5737,10 +6892,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1914; 1914</td>
+<td>
+<ul>
+<li>1914</li>
+<li>1914</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional; García, Aracelito</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+<li>García, Aracelito</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5748,7 +6915,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5818,7 +6991,13 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5826,7 +7005,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5894,9 +7079,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Villareal, Maria</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Villareal, Maria</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5904,7 +7100,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -5971,10 +7173,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1895; 1895</td>
+<td>
+<ul>
+<li>1895</li>
+<li>1895</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -5982,7 +7194,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6049,10 +7267,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 17, 1914; 1914-07-17</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>July 17, 1914</li>
+<li>1914-07-17</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on front: "Banda del Gral. Murguía. Charcas. Jul. 17, 1914. Fot. E. Montoya de la C. B. Nacional"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6060,7 +7293,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6127,10 +7366,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>July 16, 1914; 1914-07-16</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>July 16, 1914</li>
+<li>1914-07-16</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Banda del Gral. Murguía. Charcas. Julio 16, 1914. Fot. E. Montoya de la C. B. Nacional"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6138,7 +7392,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6156,7 +7416,14 @@ comments: false
 <td></td>
 <td></td>
 <td>Leonor Villegas de Magnón, Leonor Grubbs (daughter) and Leonor Smith (granddaughter)</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Grubbs, Leonor; Smith, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Grubbs, Leonor</li>
+<li>Smith, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6164,7 +7431,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6232,9 +7505,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Miembros de la Cruz Blanca Nacional en el panteon del Saucito, S. L. Potosi, Fot. E. Montoya de la C. B. Nacional"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6242,7 +7526,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6312,7 +7602,13 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6320,7 +7616,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6336,9 +7638,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>From left to right: Leonor Villegas de Magnón, Guillermo Martínez Celis, and Aracelito García; Inscription on back: "Mayor Guillermo M. Celis, Aracelito y la Rebelde"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Martínez Celis, Guillermo; García, Aracelito</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>From left to right: Leonor Villegas de Magnón, Guillermo Martínez Celis, and Aracelito García</li>
+<li>Inscription on back: "Mayor Guillermo M. Celis, Aracelito y la Rebelde"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Martínez Celis, Guillermo</li>
+<li>García, Aracelito</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -6346,7 +7665,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6413,10 +7738,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>June 28, 1914; 1914-06-12</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>June 28, 1914</li>
+<li>1914-06-12</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below:"Cruz Blanca Nacional, Monterey, Junio 28 de 1914, Fot. E.M."</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6424,7 +7765,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6492,9 +7839,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>The Rebel-Leonor V. Magnon, Lily Long, Mr. Alfredo Breceda, private secretary for the governor of Couhuila, Mr. Venustiano Carranza; Inscription on back: "La Rebelde-Leonor V. Magnon, Lily Long, Sr. Alfredo Breceda, secretario particular del gobernador de Coahuila, Sr. Venustiano Carranza"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Breceda, Alfredo, 1886-1966; Long, Lily</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>The Rebel-Leonor V. Magnon, Lily Long, Mr. Alfredo Breceda, private secretary for the governor of Couhuila, Mr. Venustiano Carranza</li>
+<li>Inscription on back: "La Rebelde-Leonor V. Magnon, Lily Long, Sr. Alfredo Breceda, secretario particular del gobernador de Coahuila, Sr. Venustiano Carranza"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Breceda, Alfredo, 1886-1966</li>
+<li>Long, Lily</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6502,7 +7866,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6572,7 +7942,14 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor; Long, Lilly</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Long, Lilly</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6580,7 +7957,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6647,10 +8030,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1913; 1913</td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>1913</li>
+<li>1913</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>From left to right: Lily Long, Dr. Rodríguez, Leonor Villegas de Magnón, Venustiano Carranza, and General Gregprio Osuna.</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor; Long, Lilly; Osuna, Gregorio</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Long, Lilly</li>
+<li>Osuna, Gregorio</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6658,7 +8059,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6725,10 +8132,23 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1913; 1913</td>
+<td>
+<ul>
+<li>1913</li>
+<li>1913</li>
+</ul>
+</td>
 <td></td>
 <td>From left to right: Lily Long, Dr. Rodríguez, Leonor Villegas de Magnón, Venustiano Carranza, and General Gregprio Osuna.</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor; Long, Lilly; Osuna, Gregorio</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Long, Lilly</li>
+<li>Osuna, Gregorio</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6736,7 +8156,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6804,9 +8230,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -6814,7 +8250,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6882,9 +8324,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Casa del padre del Sr. Madero aniquilada por el bombardeo. Calle de Berlin."</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -6892,7 +8344,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -6959,10 +8417,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 11, 1913; 1913-02-11</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>February 11, 1913</li>
+<li>1913-02-11</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Residencia del ex-presidente Madero. Incendiada el 11 de Fec, 1913. No 36. H. J. Gutiérrez Photo."</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -6970,7 +8443,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7037,10 +8516,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>May 8, 1914; 1914-05-08</td>
-<td>Spanish; spa</td>
-<td>As a demonstration of the highest regard, I dedicate this memento to Ms. Leonor Villegas de Magnón. Torreón, Coa. May 8, 1914. Manuel Chao.; Inscription below: "Como una demostración de alta simpatía dedico este recuerdo a la Sra. Leonor Villegas de Magnón. Torreón Coah. 1914. Maunel Chao."</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Chao, Manuel</td>
+<td>
+<ul>
+<li>May 8, 1914</li>
+<li>1914-05-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>As a demonstration of the highest regard, I dedicate this memento to Ms. Leonor Villegas de Magnón. Torreón, Coa. May 8, 1914. Manuel Chao.</li>
+<li>Inscription below: "Como una demostración de alta simpatía dedico este recuerdo a la Sra. Leonor Villegas de Magnón. Torreón Coah. 1914. Maunel Chao."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Chao, Manuel</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7048,7 +8548,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7118,7 +8624,13 @@ comments: false
 <td></td>
 <td></td>
 <td>Inscription below: "ARIETA"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Arieta, Mariano</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Arieta, Mariano</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7126,7 +8638,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7193,10 +8711,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>June 2, 1914; 1914-06-02</td>
-<td>Spanish; spa</td>
-<td>Picture is attached to paper that reads: "Marietta. Carmen Rubio de la Llave. "La Marieta" from Veracruz joined forces with Gen. Alemán when she was 18 yrs. Held rank of coronela."; Inscription below: "Gral. Miguel Alemán." Inscription on back: "Ma. del Carmen Rubio de La Llave. Dedico este retrato con mi estimado jefe. Ya recibió su grado de Gral. Miguel. Alemán a mi querida jefa Sra. Leonor Villegas de Magnón. Junio/2/1914. Saltillo. "</td>
-<td>Mexico--History--Revolution, 1910-1920; Alemán, Miguel; Rubio de la Clave, Marietta Carmen</td>
+<td>
+<ul>
+<li>June 2, 1914</li>
+<li>1914-06-02</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Picture is attached to paper that reads: "Marietta. Carmen Rubio de la Llave. "La Marieta" from Veracruz joined forces with Gen. Alemán when she was 18 yrs. Held rank of coronela."</li>
+<li>Inscription below: "Gral. Miguel Alemán." Inscription on back: "Ma. del Carmen Rubio de La Llave. Dedico este retrato con mi estimado jefe. Ya recibió su grado de Gral. Miguel. Alemán a mi querida jefa Sra. Leonor Villegas de Magnón. Junio/2/1914. Saltillo. "</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Alemán, Miguel</li>
+<li>Rubio de la Clave, Marietta Carmen</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7204,7 +8743,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7277,12 +8822,23 @@ comments: false
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
 <td></td>
-<td>color photographs;  hand coloring</td>
+<td>
+<ul>
+<li>color photographs</li>
+<li> hand coloring</li>
+</ul>
+</td>
 <td></td>
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7360,7 +8916,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7428,7 +8990,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Monumento a Juárez erigido en Colima por el gobierno revolucionario"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -7438,7 +9005,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7505,10 +9078,25 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 9, 1913; 1913-02-09</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>February 9, 1913</li>
+<li>1913-02-09</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption  above: "El Señor Pte. Llegando a palacio el día 9 de Feb. 1913.</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -7516,7 +9104,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7584,9 +9178,32 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
-<td>From Left to right the nurses are, Margarita Alonso, Elvira Idar, Panchita Ruiz, Angelita Esparza, Leonor Villegas de Magnón, Catalina Guervara, Nena Magnón (Leonor Grubbs), José Ugarte, and Editor of El Progreso (Leonor’s home); Inscription below: "811 Flores St., Laredo, Texas"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional; Alonso, Margarita; Idar, Elvira; Ruiz, Panchita; Esparza, Angelita; Guervara, Catalina; Grubbs, Leonor; Ugarte, José</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>From Left to right the nurses are, Margarita Alonso, Elvira Idar, Panchita Ruiz, Angelita Esparza, Leonor Villegas de Magnón, Catalina Guervara, Nena Magnón (Leonor Grubbs), José Ugarte, and Editor of El Progreso (Leonor’s home)</li>
+<li>Inscription below: "811 Flores St., Laredo, Texas"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+<li>Alonso, Margarita</li>
+<li>Idar, Elvira</li>
+<li>Ruiz, Panchita</li>
+<li>Esparza, Angelita</li>
+<li>Guervara, Catalina</li>
+<li>Grubbs, Leonor</li>
+<li>Ugarte, José</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7594,7 +9211,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7664,7 +9287,20 @@ comments: false
 <td></td>
 <td></td>
 <td>From Left to right the nurses are, Margarita Alonso, Elvira Idar, Panchita Ruiz, Angelita Esparza, Leonor Villegas de Magnón, Catalina Guervara, Nena Magnón (Leonor Grubbs), José Ugarte, and Editor of El Progreso (Leonor’s home)</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; La Cruz Blanca Nacional; Alonso, Margarita; Idar, Elvira; Ruiz, Panchita; Esparza, Angelita; Guervara, Catalina; Grubbs, Leonor; Ugarte, José</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>La Cruz Blanca Nacional</li>
+<li>Alonso, Margarita</li>
+<li>Idar, Elvira</li>
+<li>Ruiz, Panchita</li>
+<li>Esparza, Angelita</li>
+<li>Guervara, Catalina</li>
+<li>Grubbs, Leonor</li>
+<li>Ugarte, José</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7672,7 +9308,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7740,9 +9382,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "A la señora Presidenta de la Cruz Blanca de Laredo, Tex. H. Matamoros Tamps. 2/2-914. El general"</td>
-<td>Mexico--History--Revolution, 1910-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7750,7 +9402,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7818,9 +9476,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption above: "Trilogia Mexicana"</td>
-<td>Mexico--History--Revolution, 1910-1920; Juárez, Benito, 1806-1872; Hidalgo y Costilla, Miguel, 1753-1811; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Juárez, Benito, 1806-1872</li>
+<li>Hidalgo y Costilla, Miguel, 1753-1811</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -7828,7 +9498,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7896,9 +9572,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Sr. Pastor Rouiax, Ministro de Fomento – Saltillo. Peter Floyed, Ernestina Flores, Srita. Carranza. X not identified."</td>
-<td>Mexico--History--Revolution, 1910-1920; Rouiax, Pastor; Floyed, Peter; Flores, Ernestina</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Rouiax, Pastor</li>
+<li>Floyed, Peter</li>
+<li>Flores, Ernestina</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -7906,7 +9594,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -7973,10 +9667,30 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1904; 1904</td>
-<td>Spanish; spa</td>
-<td>Caption below: "Coche de Juárez. Carroza Maximiliano. Enero 1904. Ignacio M. Luchichí. Soledad Juárez de Luchichí."; Inscription on back: "Mr. and Mrs. Magnón y fam. Ciudad. 1ª Pane no. 1642"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carriages and carts</td>
+<td>
+<ul>
+<li>1904</li>
+<li>1904</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption below: "Coche de Juárez. Carroza Maximiliano. Enero 1904. Ignacio M. Luchichí. Soledad Juárez de Luchichí."</li>
+<li>Inscription on back: "Mr. and Mrs. Magnón y fam. Ciudad. 1ª Pane no. 1642"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carriages and carts</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -7984,7 +9698,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8052,9 +9772,22 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; Spanish; eng; spa</td>
+<td>
+<ul>
+<li>English</li>
+<li>Spanish</li>
+<li>eng</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Para mi estimada amiga y correligionaria Sra. Leonor Villegas de Magnón. 11-1-917" Inscription on back : "Postmaster General during Pres. V. Carranza administration"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -8062,7 +9795,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8130,9 +9869,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "A Leonor Villegas de Magnón. Blanca mano, dulce mano piadosa, alma buena, bajo su misericordia pongo mi espíritu. Ramón Franco. Torreón VI-2-914"</td>
-<td>Mexico--History--Revolution, 1910-1920; Franco, Ramón</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Franco, Ramón</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -8140,7 +9889,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8207,8 +9962,18 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>1944; 1944</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>1944</li>
+<li>1944</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption above: " Ruiz Cortines." Caption below: "Garantia Ciudadana"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -8218,7 +9983,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8286,9 +10057,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Ejercito Constitucionalista. Mayor Samuel G. Vasquez. Con el escuadron "Vazquez" el Monclova, Coah."</td>
-<td>Mexico--History--Revolution, 1910-1920; Vazquez, Samuel G.</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Vazquez, Samuel G.</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -8296,7 +10077,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8364,7 +10151,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "San Agustin"</td>
 <td>Church buildings</td>
 <td></td>
@@ -8374,7 +10166,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8442,9 +10240,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption around: "Patria - Lealtad - Justicia - Democracia. El expresidente. Francisco I. Madero"</td>
-<td>Mexico--History--Revolution, 1910-1920; Madero, Francisco I., 1873-1913</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Madero, Francisco I., 1873-1913</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8452,7 +10260,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8530,7 +10344,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8598,7 +10418,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "Esquero, Feliberto Villarreal, Perrusqui." Inscription on back: "Feliclós Villarreal. Perrusquia (left). Lic Esquierro"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -8608,7 +10433,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8677,8 +10508,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>From left to right: Leonor Villegas de Magnón, Adolfo Magnón, Lily Long; Inscription on back: "Pedro Garrino Parroquia"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Magnón, Adolfo; Long, Lily</td>
+<td>
+<ul>
+<li>From left to right: Leonor Villegas de Magnón, Adolfo Magnón, Lily Long</li>
+<li>Inscription on back: "Pedro Garrino Parroquia"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Magnón, Adolfo</li>
+<li>Long, Lily</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8686,7 +10529,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8756,7 +10605,14 @@ comments: false
 <td></td>
 <td></td>
 <td>From left to right: Adolfo Magnón, Leonor Villegas de Magnón, Lily Long</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Magnón, Adolfo; Long, Lily</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Magnón, Adolfo</li>
+<li>Long, Lily</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -8764,7 +10620,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8832,7 +10694,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Incsription below: "Recuerdo Coronel"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -8842,7 +10709,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8920,7 +10793,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -8998,7 +10877,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9066,7 +10951,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on back: "A la ilustrada y virtuosa Señora Leonor Villegas de Magnón, con mi afecto más respetuoso y mi admiración más sincera por su "obra pía" – importantísima como incansable Presidenta de la Cruz Roja Nacional. Su axxxx amigo. C. Ignacio Magalmi"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
 <td></td>
@@ -9076,7 +10966,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9154,7 +11050,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9222,9 +11124,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "General Maytorena has relatives in N. L."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Maytorena, José María, 1867-1948</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Maytorena, José María, 1867-1948</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -9232,7 +11145,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9300,9 +11219,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "Fot. E. M. de la G. B. Nacional"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9310,7 +11239,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9378,9 +11313,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Caption below: "La Junta Revolucionaria"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -9388,7 +11333,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9458,7 +11409,12 @@ comments: false
 <td></td>
 <td></td>
 <td>At the center: Venustiano Carranza</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9466,7 +11422,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9534,9 +11496,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>Center, looking to the camera: Venustiano Carranza; Inscription on back: "Isidro Fábula. Felicitos Villarreal. El Primer Jefe."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Fábula, Isidro; Villarreal, Felicitos</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Center, looking to the camera: Venustiano Carranza</li>
+<li>Inscription on back: "Isidro Fábula. Felicitos Villarreal. El Primer Jefe."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Fábula, Isidro</li>
+<li>Villarreal, Felicitos</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9544,7 +11523,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9614,7 +11599,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9622,7 +11612,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9692,7 +11688,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9700,7 +11701,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9768,9 +11775,24 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
-<td>Caption above: "El primer jefe del Ejército Constitucionalista, en Cananea. No 67. Abitia."; Inscription on back: "Continuándose el movimiento de una manera prodigiosa. En estos días se emprenderá el avance hacia el centro de la República. Todo camina perfectamente. El General Obregón ya se está movilizando con bastantes fuerzas. Muy pronto tendré el gusto de saludarlo personalmente. Favor de escribirme. Nogales a 11 de XXX de 1914."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Caption above: "El primer jefe del Ejército Constitucionalista, en Cananea. No 67. Abitia."</li>
+<li>Inscription on back: "Continuándose el movimiento de una manera prodigiosa. En estos días se emprenderá el avance hacia el centro de la República. Todo camina perfectamente. El General Obregón ya se está movilizando con bastantes fuerzas. Muy pronto tendré el gusto de saludarlo personalmente. Favor de escribirme. Nogales a 11 de XXX de 1914."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9778,7 +11800,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9845,10 +11873,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 21, 1916; 1916-01-21</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>January 21, 1916</li>
+<li>1916-01-21</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription above: "El C. Pr. Jefe V. Carranza y el Gral. En Jefe P. Gonzalez. Después de la comida. La Cañada Qtaro. 1º 21. 916"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9856,7 +11900,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -9923,10 +11973,32 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 18, 1914; 1914-01-18</td>
-<td>Spanish; spa</td>
-<td>Center walking: Venustiano Carranza; Inscription on back: "Los señores Carranza y Maytorena y General Felipe Ángeles momentos en que tomaban el cowboy para dirigirse de Nabojoa a San Blaz, Sin. El 18 de enero de 1914"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Maytorena, José María, 1867-1948; Angeles, Felipe, 1869-1919</td>
+<td>
+<ul>
+<li>January 18, 1914</li>
+<li>1914-01-18</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Center walking: Venustiano Carranza</li>
+<li>Inscription on back: "Los señores Carranza y Maytorena y General Felipe Ángeles momentos en que tomaban el cowboy para dirigirse de Nabojoa a San Blaz, Sin. El 18 de enero de 1914"</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Maytorena, José María, 1867-1948</li>
+<li>Angeles, Felipe, 1869-1919</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -9934,7 +12006,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10001,10 +12079,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 8, 1916; 1916-08-08</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>August 8, 1916</li>
+<li>1916-08-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "A mi buen amiga y patriota correligionaria, Sra. Leonor Villegas de Magnón. V. Carranza. México Agosto 8 de 1916"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10012,7 +12106,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10079,10 +12179,31 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>February 11, 1914; 1914-02-11</td>
-<td>Spanish; spa</td>
-<td>Inscription below: "To my dear friend, Ms. Leonor Villegas de Magnón. V. Carranza. Mexico Feb. 11, 1914."; Inscription below: "A mi estimada amiga Sr.a Leonor Villegas de Magnón. V. Carranza. México. Fbre 11 de 1914."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>February 11, 1914</li>
+<li>1914-02-11</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Inscription below: "To my dear friend, Ms. Leonor Villegas de Magnón. V. Carranza. Mexico Feb. 11, 1914."</li>
+<li>Inscription below: "A mi estimada amiga Sr.a Leonor Villegas de Magnón. V. Carranza. México. Fbre 11 de 1914."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10090,7 +12211,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10157,10 +12284,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>August 8, 1916; 1916-08-08</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>August 8, 1916</li>
+<li>1916-08-08</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "A mi buen amiga y patriota correligionaria, Sra. Leonor Villegas de Magnón. V. Carranza. México Agosto 8 de 1916"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10168,7 +12311,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10238,7 +12387,16 @@ comments: false
 <td></td>
 <td></td>
 <td>From left to right: I. Caballero, T. Manzo, P. Gonzalez, Venustiano Carranza, and Carrera Torres.</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Caballero, I.; Manzo, T.; Gonzalez, P.; Torres, Carrera</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Caballero, I.</li>
+<li>Manzo, T.</li>
+<li>Gonzalez, P.</li>
+<li>Torres, Carrera</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10246,7 +12404,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10313,10 +12477,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 21, 1916; 1916-01-21</td>
+<td>
+<ul>
+<li>January 21, 1916</li>
+<li>1916-01-21</li>
+</ul>
+</td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; González, Felipe</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>González, Felipe</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10324,7 +12499,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10391,10 +12572,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>September 1914; 1914-09</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>September 1914</li>
+<li>1914-09</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription below: "El primer Jefe en su visita al Desierto de los Leones. Sep. 1914. Fot E. Montoya"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Maytorena, José María, 1867-1948</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Maytorena, José María, 1867-1948</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10402,7 +12599,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10469,10 +12672,28 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>December 15, 1913; 1913-12-15</td>
+<td>
+<ul>
+<li>December 15, 1913</li>
+<li>1913-12-15</li>
+</ul>
+</td>
 <td></td>
-<td>From right to left: Felipe Angeles, Gobernador del Estado José M. Maytorena, Venustiano Carranza and Lucio Blanco.; Caption below: "El C. Primer Jefe don Venustiano Carranza,  el Señor Gobernador del Estado Don José M. Maytorena y los generales Felipe Angeles y Lucio Blanco, en momentos de presenciar las maniobras militares que tuvieron verificativo en la Calzada del Centenario, el 15 de Diciembre de 1913. Rodriguez Photo."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Angeles, Felipe, 1869-1919; Maytorena, José María, 1867-1948; Blanco, Lucio, 1879-1922</td>
+<td>
+<ul>
+<li>From right to left: Felipe Angeles, Gobernador del Estado José M. Maytorena, Venustiano Carranza and Lucio Blanco.</li>
+<li>Caption below: "El C. Primer Jefe don Venustiano Carranza,  el Señor Gobernador del Estado Don José M. Maytorena y los generales Felipe Angeles y Lucio Blanco, en momentos de presenciar las maniobras militares que tuvieron verificativo en la Calzada del Centenario, el 15 de Diciembre de 1913. Rodriguez Photo."</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Angeles, Felipe, 1869-1919</li>
+<li>Maytorena, José María, 1867-1948</li>
+<li>Blanco, Lucio, 1879-1922</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -10480,7 +12701,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10550,7 +12777,15 @@ comments: false
 <td></td>
 <td></td>
 <td>First to the left: Jesús Carranza. Third from the left: Leonor Villegas de Magnón. Fourth from the left: Venustiano Carranza. Eight from the left: Gral. Pablo González</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor; Carranza, Jesús; González, Pablo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Carranza, Jesús</li>
+<li>González, Pablo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10558,7 +12793,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10628,7 +12869,15 @@ comments: false
 <td></td>
 <td></td>
 <td>Leonor Villegas de Magnón, Venustiano Carranza, children, Sra. De Pastor Romizy, Isidro Faset, General Pesquiera, Panino Juntes, Constitutionalist officers and nurses</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Villegas de Magnón, Leonor; Faset, Isidro; Juntes, Panino</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Faset, Isidro</li>
+<li>Juntes, Panino</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10636,7 +12885,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10704,9 +12959,21 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription on back: "Luis Cabrera addressing Carranza – behind him, Isidro Fabela next Peraldi Carranza’s nephew & private secretary"</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Cabrera, Luis, 1876-1954; Fábula, Isidro</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Cabrera, Luis, 1876-1954</li>
+<li>Fábula, Isidro</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -10714,7 +12981,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10782,9 +13055,20 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on back: "Sánchez Azcona hablándole al pueblo de Santa Ana al pasar para Carranza."</td>
-<td>Mexico--History--Revolution, 1910-1920; Carranza, Venustiano, 1859-1920; Azcona, Sánchez</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Carranza, Venustiano, 1859-1920</li>
+<li>Azcona, Sánchez</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>postcards</td>
@@ -10792,7 +13076,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10862,7 +13152,12 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10870,7 +13165,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10938,9 +13239,19 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>English; eng</td>
+<td>
+<ul>
+<li>English</li>
+<li>eng</li>
+</ul>
+</td>
 <td>Inscription below: "Villegas Home Cor. Salinas + Victoria"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -10948,7 +13259,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -10974,7 +13291,13 @@ comments: false
 <td>Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
@@ -11041,10 +13364,26 @@ comments: false
 <td></td>
 <td></td>
 <td></td>
-<td>January 10, 1901; 1901-01-10</td>
-<td>Spanish; spa</td>
+<td>
+<ul>
+<li>January 10, 1901</li>
+<li>1901-01-10</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Spanish</li>
+<li>spa</li>
+</ul>
+</td>
 <td>Inscription on front: "Adolph Magnón, Leonor Villegas de Magnón, Enero 10 -1901"</td>
-<td>Mexico--History--Revolution, 1910-1920; Villegas de Magnón, Leonor; Magnón, Adolfo</td>
+<td>
+<ul>
+<li>Mexico--History--Revolution, 1910-1920</li>
+<li>Villegas de Magnón, Leonor</li>
+<li>Magnón, Adolfo</li>
+</ul>
+</td>
 <td></td>
 <td></td>
 <td>black-and-white photographs</td>
@@ -11052,7 +13391,13 @@ comments: false
 <td>Still Image</td>
 <td></td>
 <td>n/a</td>
-<td>Leonor Villegas de Magnón Papers; Photographs from the Leonor Villegas de Magnón Papers; Special Collections, University of Houston Libraries</td>
+<td>
+<ul>
+<li>Leonor Villegas de Magnón Papers</li>
+<li>Photographs from the Leonor Villegas de Magnón Papers</li>
+<li>Special Collections, University of Houston Libraries</li>
+</ul>
+</td>
 <td>n/a</td>
 <td></td>
 <td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
