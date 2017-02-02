@@ -18,8 +18,8 @@ comments: false
 <th>Publisher</th>
 <th>Date</th>
 <th>Language</th>
-<th>Description</th>
-<th>Subject</th>
+<th width="500px">Description</th>
+<th width="500px">Subject</th>
 <th>Place</th>
 <th>Time Period</th>
 <th>Genre</th>
