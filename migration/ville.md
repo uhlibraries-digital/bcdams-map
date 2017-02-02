@@ -18,8 +18,8 @@ comments: false
 <th>Publisher</th>
 <th>Date</th>
 <th>Language</th>
-<th width="500px">Description</th>
-<th width="500px">Subject</th>
+<th>Description</th>
+<th>Subject</th>
 <th>Place</th>
 <th>Time Period</th>
 <th>Genre</th>
@@ -38,13 +38,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/236"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/236" alt="ville/236 thumbnail" /></a></td>
 <td></td>
 <td>Andrés Patiño, Felipe Zepeda, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back: "Andrés Patiño. Felipe Zepeda"</td>
 <td>
 <ul>
@@ -53,12 +53,12 @@ comments: false
 <li>Zepeda, Felipe</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -68,8 +68,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -128,12 +128,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/212"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/212" alt="ville/212 thumbnail" /></a></td>
 <td></td>
 <td>Antonio I. Villarreal</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -152,12 +152,12 @@ comments: false
 <li>Villarreal, Antonio I. (Antonio Ireneo), 1879-1944</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -167,8 +167,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -227,11 +227,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/389"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/389" alt="ville/389 thumbnail" /></a></td>
 <td></td>
 <td>Aquiles Serdán</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>November 18, 1910</li>
@@ -251,12 +251,12 @@ comments: false
 <li>Serdán, Aquiles, 1876-1910</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -266,8 +266,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -326,12 +326,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/158"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/158" alt="ville/158 thumbnail" /></a></td>
 <td></td>
 <td>Aquiles Serdán and Francisco I. Madero sitting on a chair</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -346,12 +346,12 @@ comments: false
 <li>Serdán, Aquiles, 1876-1910</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -361,8 +361,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -421,12 +421,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/26"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/26" alt="ville/26 thumbnail" /></a></td>
 <td></td>
 <td>Artillery dog in front of cannon</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -445,12 +445,12 @@ comments: false
 <li>Working dogs</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -460,8 +460,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -520,11 +520,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/404"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/404" alt="ville/404 thumbnail" /></a></td>
 <td></td>
 <td>Benjamín Garza</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1915</li>
@@ -544,12 +544,12 @@ comments: false
 <li>Garza, Benjamín</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -559,8 +559,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -619,12 +619,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/422"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/422" alt="ville/422 thumbnail" /></a></td>
 <td></td>
 <td>Brewster home</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -638,12 +638,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -653,19 +653,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/116"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/116" alt="ville/116 thumbnail" /></a></td>
 <td></td>
 <td>Castillo Tapia and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 21, 1914</li>
@@ -686,12 +686,12 @@ comments: false
 <li>Tapia, Castillo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -701,8 +701,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -761,11 +761,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/305"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/305" alt="ville/305 thumbnail" /></a></td>
 <td></td>
 <td>Celebration with the General Muzquiz Chavez Band</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 17, 1914</li>
@@ -785,12 +785,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -800,8 +800,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -860,31 +860,31 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/89"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/89" alt="ville/89 thumbnail" /></a></td>
 <td></td>
 <td>Close-up of Leonor Villegas de Magnón sitting in the train</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 17, 1914</li>
 <li>1914-07-17</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -894,8 +894,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -954,12 +954,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/218"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/218" alt="ville/218 thumbnail" /></a></td>
 <td></td>
 <td>Commemorative plaque</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -968,12 +968,12 @@ comments: false
 </td>
 <td>Caption below: "Conmemorativa en la estatua de Juárez en Colima por la revolución"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -983,8 +983,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1043,14 +1043,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/146"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/146" alt="ville/146 thumbnail" /></a></td>
 <td></td>
 <td>Contents of Pancho Villa and Leonor Villegas Magnón’s carved box</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -1058,12 +1058,12 @@ comments: false
 <li>Villa, Pancho, 1878-1923</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1073,8 +1073,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1133,26 +1133,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/182"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/182" alt="ville/182 thumbnail" /></a></td>
 <td></td>
 <td>Cruz Blanca leaving El Paso for Ciudad Juarez</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1162,8 +1162,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1222,12 +1222,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/119"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/119" alt="ville/119 thumbnail" /></a></td>
 <td></td>
 <td>Cruz Blanca National organizing hospital in Monterrey</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -1241,12 +1241,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1256,8 +1256,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1316,26 +1316,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/329"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/329" alt="ville/329 thumbnail" /></a></td>
 <td></td>
 <td>Defensive trench and buildings</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Trenches</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1345,8 +1345,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1405,12 +1405,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/410"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/410" alt="ville/410 thumbnail" /></a></td>
 <td></td>
 <td>Dr. Cook's brother and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -1419,12 +1419,12 @@ comments: false
 </td>
 <td>Inscription on back: "Dr. Cook's brother"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1434,8 +1434,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1494,13 +1494,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/227"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/227" alt="ville/227 thumbnail" /></a></td>
 <td></td>
 <td>Dr. José María Rodríguez</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back: "Dr. José María Rodríguez"</td>
 <td>
 <ul>
@@ -1508,12 +1508,12 @@ comments: false
 <li>Rodríguez, José María, 1870-1946</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1523,8 +1523,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1583,12 +1583,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/317"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/317" alt="ville/317 thumbnail" /></a></td>
 <td></td>
 <td>Employees and goods in store</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -1597,12 +1597,12 @@ comments: false
 </td>
 <td>Inscription on back: "Note the improvement in our shop. X is the Studio & Mr. Conn, the professor . Mr. Vidaurri is standing at the Supreme (Itain) Remedy Dept. Mrs. L. I. Blake at the house hold & interior Decorating Dept. Mrs. De la Garza is visiting us (at the phone) & tours trulyCapt. Of the ship. XXX is xxx soliciting."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1612,8 +1612,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1672,11 +1672,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/269"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/269" alt="ville/269 thumbnail" /></a></td>
 <td></td>
 <td>Espinoza, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 18, 1914</li>
@@ -1691,12 +1691,12 @@ comments: false
 </td>
 <td>Inscription on back: "Para la muy estimable señora..."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1706,8 +1706,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1766,12 +1766,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/383"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/383" alt="ville/383 thumbnail" /></a></td>
 <td></td>
 <td>F. R. Musquiz on a horse</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -1785,12 +1785,12 @@ comments: false
 <li>Musquiz, F. R.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1800,8 +1800,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1860,21 +1860,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/350"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/350" alt="ville/350 thumbnail" /></a></td>
 <td></td>
 <td>Family photo beside a train</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1884,8 +1884,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1944,12 +1944,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/125"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/125" alt="ville/125 thumbnail" /></a></td>
 <td></td>
 <td>Felix F. Palavicini, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -1963,12 +1963,12 @@ comments: false
 <li>Palavicini, Félix Fulgencio, 1881-</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1978,8 +1978,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2038,26 +2038,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/5"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/5" alt="ville/5 thumbnail" /></a></td>
 <td></td>
 <td>Four gentlemen after lunch</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
 <li>spa</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2067,8 +2067,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2127,12 +2127,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/266"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/266" alt="ville/266 thumbnail" /></a></td>
 <td></td>
 <td>Francesco Tamagno</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -2146,12 +2146,12 @@ comments: false
 <li>Tamagno, Francesco, 1850-1905</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2161,8 +2161,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2221,12 +2221,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/41"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/41" alt="ville/41 thumbnail" /></a></td>
 <td></td>
 <td>Francisco I. Madero and others sitting</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -2245,12 +2245,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2260,8 +2260,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2320,31 +2320,31 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/53"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/53" alt="ville/53 thumbnail" /></a></td>
 <td></td>
 <td>Francisco I. Madero and others standing</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
 <li>spa</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2354,8 +2354,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2414,12 +2414,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/8"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/8" alt="ville/8 thumbnail" /></a></td>
 <td></td>
 <td>Francisco I. Madero entering underground protection</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -2438,12 +2438,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2453,8 +2453,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2513,11 +2513,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/2"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/2" alt="ville/2 thumbnail" /></a></td>
 <td></td>
 <td>Francisco I. Madero on a horse</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 9, 1913</li>
@@ -2537,12 +2537,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2552,8 +2552,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2612,26 +2612,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/323"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/323" alt="ville/323 thumbnail" /></a></td>
 <td></td>
 <td>Francisco I. Madero sitting on a chair</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2641,8 +2641,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2701,12 +2701,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/395"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/395" alt="ville/395 thumbnail" /></a></td>
 <td></td>
 <td>Francisco I. Madero, Victoriano Huerta, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -2721,12 +2721,12 @@ comments: false
 <li>Huerta, Victoriano, 1845-1916</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2736,8 +2736,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2796,13 +2796,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/278"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/278" alt="ville/278 thumbnail" /></a></td>
 <td></td>
 <td>General Cándido Aguilar</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back : "General Cándido Aguilar"</td>
 <td>
 <ul>
@@ -2810,12 +2810,12 @@ comments: false
 <li>Aguilar, Cándido, 1889-1960</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2825,8 +2825,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2885,12 +2885,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/344"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/344" alt="ville/344 thumbnail" /></a></td>
 <td></td>
 <td>General de Brigada Ignacio L. Pesqueira (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -2904,12 +2904,12 @@ comments: false
 <li>Pesqueira, Ignacio L., 1867-1940</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2919,8 +2919,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2979,11 +2979,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/398"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/398" alt="ville/398 thumbnail" /></a></td>
 <td></td>
 <td>General de Brigada Ignacio L. Pesqueira (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1913</li>
@@ -3003,12 +3003,12 @@ comments: false
 <li>Pesqueira, Ignacio L., 1867-1940</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3018,8 +3018,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3078,12 +3078,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/11"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/11" alt="ville/11 thumbnail" /></a></td>
 <td></td>
 <td>General Elizondo</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -3092,12 +3092,12 @@ comments: false
 </td>
 <td>Inscription on back: "Gral. Elizondo who gave Rebel cars to move her 60 wounded soldiers to Mex City. (Provided automobiles)."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3107,8 +3107,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3167,12 +3167,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/347"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/347" alt="ville/347 thumbnail" /></a></td>
 <td></td>
 <td>General Francisco R. Manzo's staff</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -3186,12 +3186,12 @@ comments: false
 <li>Manzo, Francisco R.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3201,8 +3201,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3261,12 +3261,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/23"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/23" alt="ville/23 thumbnail" /></a></td>
 <td></td>
 <td>General Juan G. Cabral</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -3280,12 +3280,12 @@ comments: false
 <li>Cabral, Juan G.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3295,8 +3295,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3355,12 +3355,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/17"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/17" alt="ville/17 thumbnail" /></a></td>
 <td></td>
 <td>General Lucio Blanco, Cesario Castro,  General Francisco Artigas, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -3376,12 +3376,12 @@ comments: false
 <li>Castro, Cesario</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3391,8 +3391,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3451,12 +3451,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/164"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/164" alt="ville/164 thumbnail" /></a></td>
 <td></td>
 <td>General Luis G. Caballero</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -3470,12 +3470,12 @@ comments: false
 <li>Cabllero, Luis G.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3485,8 +3485,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3545,11 +3545,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/206"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/206" alt="ville/206 thumbnail" /></a></td>
 <td></td>
 <td>General Luis G. Caballero and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>March 23, 1918</li>
@@ -3569,12 +3569,12 @@ comments: false
 <li>Cabllero, Luis G.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3584,8 +3584,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3644,12 +3644,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/140"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/140" alt="ville/140 thumbnail" /></a></td>
 <td></td>
 <td>General Luis G. Caballero, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -3663,12 +3663,12 @@ comments: false
 <li>Cabllero, Luis G.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3678,8 +3678,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3738,13 +3738,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/74"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/74" alt="ville/74 thumbnail" /></a></td>
 <td></td>
 <td>General Marcilino Murrieta, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back: Marcilino Murrieta</td>
 <td>
 <ul>
@@ -3752,12 +3752,12 @@ comments: false
 <li>Murrieta, Marcilino</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3767,8 +3767,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3827,12 +3827,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/176"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/176" alt="ville/176 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo de la Garza family portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -3846,12 +3846,12 @@ comments: false
 <li>de la Garza, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3861,8 +3861,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3921,12 +3921,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/167"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/167" alt="ville/167 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -3945,12 +3945,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3960,8 +3960,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4020,11 +4020,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/44"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/44" alt="ville/44 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González and others in el Teatro Mexicano (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 5, 1916</li>
@@ -4049,12 +4049,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4064,8 +4064,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4124,11 +4124,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/38"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/38" alt="ville/38 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González and others in el Teatro Mexicano (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 5, 1916</li>
@@ -4148,12 +4148,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4163,8 +4163,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4223,11 +4223,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/287"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/287" alt="ville/287 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González and two unidentified women</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 18, 1916</li>
@@ -4247,12 +4247,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4262,8 +4262,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4322,12 +4322,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/221"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/221" alt="ville/221 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González at C. Victoria</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -4341,12 +4341,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4356,8 +4356,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4416,11 +4416,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/80"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/80" alt="ville/80 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González at Chalco</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 18, 1916</li>
@@ -4440,12 +4440,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4455,8 +4455,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4515,11 +4515,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/374"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/374" alt="ville/374 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González at San Fernando</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 5, 1916</li>
@@ -4539,12 +4539,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4554,8 +4554,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4614,11 +4614,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/185"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/185" alt="ville/185 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González in the field</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 8, 1916</li>
@@ -4638,12 +4638,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4653,8 +4653,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4713,11 +4713,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/281"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/281" alt="ville/281 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González, General Dávila, Coronel P. de la Garza, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 15, 1014</li>
@@ -4737,12 +4737,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4752,8 +4752,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4812,11 +4812,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/341"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/341" alt="ville/341 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González, General Luis Gutiérrez, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 18-1914</li>
@@ -4842,12 +4842,12 @@ comments: false
 <li>Gutiérrez, Luis</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4857,8 +4857,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4917,26 +4917,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/29"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/29" alt="ville/29 thumbnail" /></a></td>
 <td></td>
 <td>General Pablo González, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4946,8 +4946,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5006,12 +5006,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/35"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/35" alt="ville/35 thumbnail" /></a></td>
 <td></td>
 <td>General Páufilo Nátera greets Venustiano Carranza</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -5026,12 +5026,12 @@ comments: false
 <li>Nátera, Páufilo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5041,8 +5041,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5101,11 +5101,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/424"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/424" alt="ville/424 thumbnail" /></a></td>
 <td></td>
 <td>Gentlemen of the Cruz Blanca</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 21, 1916</li>
@@ -5125,12 +5125,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5140,19 +5140,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/425"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/425" alt="ville/425 thumbnail" /></a></td>
 <td></td>
 <td>Group of generals</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August  1949</li>
@@ -5167,12 +5167,12 @@ comments: false
 </td>
 <td>Inscription below: "Los Grales. Blanco y Hay antes de conferencia con el Primer Jefe V. Carranza en Teoloyucan. Agosto-1949. Fot. E. Monotya"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5182,20 +5182,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/260"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/260" alt="ville/260 thumbnail" /></a></td>
 <td></td>
 <td>Group photo (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -5204,12 +5204,12 @@ comments: false
 </td>
 <td>Caption below: "N.17. Después de la protesta del presidente Lic. F. Carbajal. H. J. Gutiérrez foto. Es prop. México."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5219,8 +5219,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5279,21 +5279,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/170"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/170" alt="ville/170 thumbnail" /></a></td>
 <td></td>
 <td>Group photo (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5303,8 +5303,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5363,21 +5363,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/230"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/230" alt="ville/230 thumbnail" /></a></td>
 <td></td>
 <td>Group photo (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5387,8 +5387,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5447,21 +5447,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/224"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/224" alt="ville/224 thumbnail" /></a></td>
 <td></td>
 <td>Group photo (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back: "F"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5471,8 +5471,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5531,21 +5531,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/284"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/284" alt="ville/284 thumbnail" /></a></td>
 <td></td>
 <td>Group photo (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5555,8 +5555,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5615,21 +5615,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/353"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/353" alt="ville/353 thumbnail" /></a></td>
 <td></td>
 <td>Group photo in San Antonio</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Caption below: "Foto A. S. Otro número de la fiesta en San Antonio antisipando (sic) festejo de Candela."</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5639,8 +5639,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5699,13 +5699,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/179"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/179" alt="ville/179 thumbnail" /></a></td>
 <td></td>
 <td>Group photo of seated individuals</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Second row third from Left: Leonor Villegas de Magnón.</td>
 <td>
 <ul>
@@ -5713,12 +5713,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5728,8 +5728,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5788,13 +5788,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/257"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/257" alt="ville/257 thumbnail" /></a></td>
 <td></td>
 <td>Group photo of standing individuals</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Third from left: Leonor Villegas de Magnón</td>
 <td>
 <ul>
@@ -5802,12 +5802,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5817,8 +5817,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5877,12 +5877,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/377"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/377" alt="ville/377 thumbnail" /></a></td>
 <td></td>
 <td>Ignacio Belendez</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -5898,12 +5898,12 @@ comments: false
 <li>Belendez, Ignacio</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5913,8 +5913,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5973,26 +5973,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/128"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/128" alt="ville/128 thumbnail" /></a></td>
 <td></td>
 <td>International bridge over the Rio Bravo/Grande (Laredo to Nuevo Laredo)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1912</li>
 <li>1912</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6002,8 +6002,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6062,12 +6062,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/68"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/68" alt="ville/68 thumbnail" /></a></td>
 <td></td>
 <td>Jesús Carranza and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -6081,12 +6081,12 @@ comments: false
 <li>Carranza, Jesús</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6096,8 +6096,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6156,26 +6156,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/320"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/320" alt="ville/320 thumbnail" /></a></td>
 <td></td>
 <td>Jesus Christ and the Holy Trinity</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Trinity</li>
 <li>Jesus Christ</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>holy cards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6185,8 +6185,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6245,12 +6245,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/137"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/137" alt="ville/137 thumbnail" /></a></td>
 <td></td>
 <td>José Carranza and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -6264,12 +6264,12 @@ comments: false
 <li>Carranza, José</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6279,8 +6279,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6339,12 +6339,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/263"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/263" alt="ville/263 thumbnail" /></a></td>
 <td></td>
 <td>Kennedy home</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -6353,12 +6353,12 @@ comments: false
 </td>
 <td>Inscription below: "Kennedy Home. Matamoros & Davis"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6368,8 +6368,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6428,13 +6428,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/83"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/83" alt="ville/83 thumbnail" /></a></td>
 <td></td>
 <td>La Cruz Blanca members (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Center: Leonor Villegas de Magnón, series of signatures on back</td>
 <td>
 <ul>
@@ -6443,12 +6443,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6458,8 +6458,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6518,13 +6518,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/107"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/107" alt="ville/107 thumbnail" /></a></td>
 <td></td>
 <td>La Cruz Blanca members (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Center: Leonor Villegas de Magnón</td>
 <td>
 <ul>
@@ -6533,12 +6533,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6548,8 +6548,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6608,21 +6608,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/419"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/419" alt="ville/419 thumbnail" /></a></td>
 <td></td>
 <td>Landscape and destroyed house</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6632,8 +6632,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6692,31 +6692,31 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/191"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/191" alt="ville/191 thumbnail" /></a></td>
 <td></td>
 <td>Leonor and friends at Mr. St. Ursula’s Convent, NY</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1894</li>
 <li>1894</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6726,8 +6726,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6786,11 +6786,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/233"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/233" alt="ville/233 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón and Aracelito Garcia with flag of La Cruz Blanca (Copy 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1914</li>
@@ -6812,12 +6812,12 @@ comments: false
 <li>García, Aracelito</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6827,8 +6827,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6887,19 +6887,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/362"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/362" alt="ville/362 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón and Aracelito Garcia with flag of La Cruz Blanca (Copy 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1914</li>
 <li>1914</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -6908,12 +6908,12 @@ comments: false
 <li>García, Aracelito</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6923,8 +6923,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6983,14 +6983,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/113"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/113" alt="ville/113 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón and ladies of Cruz Blanca 1st brigade</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -6998,12 +6998,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7013,8 +7013,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7073,19 +7073,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/59"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/59" alt="ville/59 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón and Maria Villarreal visit the family of a fallen soldier</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
 <li>spa</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -7093,12 +7093,12 @@ comments: false
 <li>Villareal, Maria</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7108,8 +7108,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7168,31 +7168,31 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/32"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/32" alt="ville/32 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón in front of a mirror</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1895</li>
 <li>1895</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7202,8 +7202,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7262,11 +7262,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/254"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/254" alt="ville/254 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón sitting in the train</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 17, 1914</li>
@@ -7286,12 +7286,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7301,8 +7301,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7361,11 +7361,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/420"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/420" alt="ville/420 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón sitting in the train</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 16, 1914</li>
@@ -7385,12 +7385,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7400,21 +7400,21 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/365"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/365" alt="ville/365 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón with daughter and granddaughter</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Leonor Villegas de Magnón, Leonor Grubbs (daughter) and Leonor Smith (granddaughter)</td>
 <td>
 <ul>
@@ -7424,12 +7424,12 @@ comments: false
 <li>Smith, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7439,8 +7439,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7499,12 +7499,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/173"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/173" alt="ville/173 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón with La Cruz Blanca members at Saucito Pantheon Cemetery, San Luis Potosi</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -7519,12 +7519,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7534,8 +7534,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7594,14 +7594,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/423"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/423" alt="ville/423 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón, gentlemen and ladies of the Cruz Blanca</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -7609,12 +7609,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7624,20 +7624,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/332"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/332" alt="ville/332 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón, Guillermo Martínez Celis, and Aracelito García</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -7658,12 +7658,12 @@ comments: false
 <li>García, Aracelito</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7673,8 +7673,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7733,11 +7733,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/248"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/248" alt="ville/248 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón, ladies and gentlemen of Cruz Blanca</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 28, 1914</li>
@@ -7758,12 +7758,12 @@ comments: false
 <li>La Cruz Blanca Nacional</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7773,8 +7773,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7833,12 +7833,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/14"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/14" alt="ville/14 thumbnail" /></a></td>
 <td></td>
 <td>Leonor Villegas de Magnón, Lilly Long and Alfredo Breceda</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -7859,12 +7859,12 @@ comments: false
 <li>Long, Lily</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7874,8 +7874,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7934,14 +7934,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/95"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/95" alt="ville/95 thumbnail" /></a></td>
 <td></td>
 <td>Lilly Long, Leonor Villegas de Magnón, Venustiano Carranza and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -7950,12 +7950,12 @@ comments: false
 <li>Long, Lilly</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7965,8 +7965,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8025,11 +8025,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/155"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/155" alt="ville/155 thumbnail" /></a></td>
 <td></td>
 <td>Lily Long, Leonor Villegas de Magnón, and others (Copy 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1913</li>
@@ -8052,12 +8052,12 @@ comments: false
 <li>Osuna, Gregorio</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8067,8 +8067,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8127,18 +8127,18 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/56"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/56" alt="ville/56 thumbnail" /></a></td>
 <td></td>
 <td>Lily Long, Leonor Villegas de Magnón, and others (Copy 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1913</li>
 <li>1913</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>From left to right: Lily Long, Dr. Rodríguez, Leonor Villegas de Magnón, Venustiano Carranza, and General Gregprio Osuna.</td>
 <td>
 <ul>
@@ -8149,12 +8149,12 @@ comments: false
 <li>Osuna, Gregorio</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8164,8 +8164,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8224,31 +8224,31 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/122"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/122" alt="ville/122 thumbnail" /></a></td>
 <td></td>
 <td>Madero and Venustiano Carranza in tailor propaganda</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
 <li>spa</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8258,8 +8258,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8318,12 +8318,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/152"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/152" alt="ville/152 thumbnail" /></a></td>
 <td></td>
 <td>Madero’s father’s house, annihilated by bombardment</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -8337,12 +8337,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8352,8 +8352,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8412,11 +8412,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/62"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/62" alt="ville/62 thumbnail" /></a></td>
 <td></td>
 <td>Madero’s house</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 11, 1913</li>
@@ -8436,12 +8436,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8451,8 +8451,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8511,11 +8511,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/161"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/161" alt="ville/161 thumbnail" /></a></td>
 <td></td>
 <td>Manuel Chao, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 8, 1914</li>
@@ -8541,12 +8541,12 @@ comments: false
 <li>Chao, Manuel</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8556,8 +8556,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8616,13 +8616,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/245"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/245" alt="ville/245 thumbnail" /></a></td>
 <td></td>
 <td>Mariano Arieta and Venustiano Carranza</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription below: "ARIETA"</td>
 <td>
 <ul>
@@ -8631,12 +8631,12 @@ comments: false
 <li>Arieta, Mariano</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8646,8 +8646,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8706,11 +8706,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/308"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/308" alt="ville/308 thumbnail" /></a></td>
 <td></td>
 <td>Marietta Carmen Rubio de la Llave and Miguel Alemán on horseback</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 2, 1914</li>
@@ -8736,12 +8736,12 @@ comments: false
 <li>Rubio de la Clave, Marietta Carmen</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8751,8 +8751,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8811,26 +8811,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/335"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/335" alt="ville/335 thumbnail" /></a></td>
 <td></td>
 <td>Military man</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back : "Carlos Fierros"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>color photographs</li>
 <li> hand coloring</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8840,8 +8840,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8900,21 +8900,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/275"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/275" alt="ville/275 thumbnail" /></a></td>
 <td></td>
 <td>Military men</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8924,8 +8924,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8984,12 +8984,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/242"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/242" alt="ville/242 thumbnail" /></a></td>
 <td></td>
 <td>Monument to Juárez</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -8998,12 +8998,12 @@ comments: false
 </td>
 <td>Caption below: "Monumento a Juárez erigido en Colima por el gobierno revolucionario"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9013,8 +9013,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9073,11 +9073,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/188"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/188" alt="ville/188 thumbnail" /></a></td>
 <td></td>
 <td>Multitude and Madero</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 9, 1913</li>
@@ -9097,12 +9097,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9112,8 +9112,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9172,12 +9172,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/131"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/131" alt="ville/131 thumbnail" /></a></td>
 <td></td>
 <td>Nurses of La Cruz Blanca and two gentlemen (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -9204,12 +9204,12 @@ comments: false
 <li>Ugarte, José</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9219,8 +9219,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9279,13 +9279,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/197"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/197" alt="ville/197 thumbnail" /></a></td>
 <td></td>
 <td>Nurses of La Cruz Blanca and two gentlemen (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>From Left to right the nurses are, Margarita Alonso, Elvira Idar, Panchita Ruiz, Angelita Esparza, Leonor Villegas de Magnón, Catalina Guervara, Nena Magnón (Leonor Grubbs), José Ugarte, and Editor of El Progreso (Leonor’s home)</td>
 <td>
 <ul>
@@ -9301,12 +9301,12 @@ comments: false
 <li>Ugarte, José</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9316,8 +9316,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9376,12 +9376,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/251"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/251" alt="ville/251 thumbnail" /></a></td>
 <td></td>
 <td>Pablo González, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -9395,12 +9395,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9410,8 +9410,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9470,12 +9470,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/215"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/215" alt="ville/215 thumbnail" /></a></td>
 <td></td>
 <td>Padre Hidalgo, Benito Juarez and Francisco Madero</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -9491,12 +9491,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9506,8 +9506,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9566,12 +9566,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/92"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/92" alt="ville/92 thumbnail" /></a></td>
 <td></td>
 <td>Pastor Rouiax, Peter Floyed, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -9587,12 +9587,12 @@ comments: false
 <li>Flores, Ernestina</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9602,8 +9602,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9662,11 +9662,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/386"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/386" alt="ville/386 thumbnail" /></a></td>
 <td></td>
 <td>Postcard with two coaches</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1904</li>
@@ -9691,12 +9691,12 @@ comments: false
 <li>Carriages and carts</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9706,8 +9706,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9766,12 +9766,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/296"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/296" alt="ville/296 thumbnail" /></a></td>
 <td></td>
 <td>Postmaster General during President Venustiano Carranza administration</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -9788,12 +9788,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9803,8 +9803,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9863,12 +9863,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/299"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/299" alt="ville/299 thumbnail" /></a></td>
 <td></td>
 <td>Ramón Franco, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -9882,12 +9882,12 @@ comments: false
 <li>Franco, Ramón</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9897,8 +9897,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9957,11 +9957,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/293"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/293" alt="ville/293 thumbnail" /></a></td>
 <td></td>
 <td>Ruiz Cortines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1944</li>
@@ -9976,12 +9976,12 @@ comments: false
 </td>
 <td>Caption above: " Ruiz Cortines." Caption below: "Garantia Ciudadana"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9991,8 +9991,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10051,12 +10051,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/407"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/407" alt="ville/407 thumbnail" /></a></td>
 <td></td>
 <td>Samuel G. Vazquez</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -10070,12 +10070,12 @@ comments: false
 <li>Vazquez, Samuel G.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10085,8 +10085,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10145,12 +10145,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/143"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/143" alt="ville/143 thumbnail" /></a></td>
 <td></td>
 <td>San Augustin church</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -10159,12 +10159,12 @@ comments: false
 </td>
 <td>Inscription below: "San Agustin"</td>
 <td>Church buildings</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10174,8 +10174,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10234,12 +10234,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/359"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/359" alt="ville/359 thumbnail" /></a></td>
 <td></td>
 <td>Seal with portrait of Francisco I. Madero</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -10253,12 +10253,12 @@ comments: false
 <li>Madero, Francisco I., 1873-1913</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10268,8 +10268,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10328,21 +10328,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/20"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/20" alt="ville/20 thumbnail" /></a></td>
 <td></td>
 <td>Ship in harbor</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Caption below: "Hadsell. Cruz 3"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10352,8 +10352,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10412,12 +10412,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/392"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/392" alt="ville/392 thumbnail" /></a></td>
 <td></td>
 <td>Three men</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -10426,12 +10426,12 @@ comments: false
 </td>
 <td>Inscription below: "Esquero, Feliberto Villarreal, Perrusqui." Inscription on back: "Feliclós Villarreal. Perrusquia (left). Lic Esquierro"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10441,8 +10441,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10501,13 +10501,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/338"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/338" alt="ville/338 thumbnail" /></a></td>
 <td></td>
 <td>Two couples in front of foliage</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>From left to right: Leonor Villegas de Magnón, Adolfo Magnón, Lily Long</li>
@@ -10522,12 +10522,12 @@ comments: false
 <li>Long, Lily</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10537,8 +10537,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10597,13 +10597,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/302"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/302" alt="ville/302 thumbnail" /></a></td>
 <td></td>
 <td>Two couples near a house</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>From left to right: Adolfo Magnón, Leonor Villegas de Magnón, Lily Long</td>
 <td>
 <ul>
@@ -10613,12 +10613,12 @@ comments: false
 <li>Long, Lily</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10628,8 +10628,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10688,12 +10688,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/239"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/239" alt="ville/239 thumbnail" /></a></td>
 <td></td>
 <td>Unidentified colonel</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -10702,12 +10702,12 @@ comments: false
 </td>
 <td>Incsription below: "Recuerdo Coronel"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10717,8 +10717,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10777,21 +10777,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/134"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/134" alt="ville/134 thumbnail" /></a></td>
 <td></td>
 <td>Unidentified portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10801,8 +10801,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10861,21 +10861,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/356"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/356" alt="ville/356 thumbnail" /></a></td>
 <td></td>
 <td>Unidentified portrait of man standing</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10885,8 +10885,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10945,12 +10945,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/413"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/413" alt="ville/413 thumbnail" /></a></td>
 <td></td>
 <td>Unidentified portrait with inscription</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -10959,12 +10959,12 @@ comments: false
 </td>
 <td>Inscription on back: "A la ilustrada y virtuosa Señora Leonor Villegas de Magnón, con mi afecto más respetuoso y mi admiración más sincera por su "obra pía" – importantísima como incansable Presidenta de la Cruz Roja Nacional. Su axxxx amigo. C. Ignacio Magalmi"</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10974,8 +10974,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11034,21 +11034,21 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/71"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/71" alt="ville/71 thumbnail" /></a></td>
 <td></td>
 <td>Uniformed man and two women</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Left: (García?) Castro</td>
 <td>Mexico--History--Revolution, 1910-1920</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11058,8 +11058,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11118,12 +11118,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/65"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/65" alt="ville/65 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and General José María Maytorena</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -11138,12 +11138,12 @@ comments: false
 <li>Maytorena, José María, 1867-1948</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11153,8 +11153,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11213,12 +11213,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/290"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/290" alt="ville/290 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -11232,12 +11232,12 @@ comments: false
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11247,8 +11247,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11307,12 +11307,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/314"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/314" alt="ville/314 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -11326,12 +11326,12 @@ comments: false
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11341,8 +11341,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11401,13 +11401,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/98"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/98" alt="ville/98 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>At the center: Venustiano Carranza</td>
 <td>
 <ul>
@@ -11415,12 +11415,12 @@ comments: false
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11430,8 +11430,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11490,12 +11490,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/368"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/368" alt="ville/368 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -11516,12 +11516,12 @@ comments: false
 <li>Villarreal, Felicitos</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11531,8 +11531,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11591,26 +11591,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/77"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/77" alt="ville/77 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11620,8 +11620,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11680,26 +11680,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/47"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/47" alt="ville/47 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others (Image 6)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11709,8 +11709,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11769,12 +11769,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/272"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/272" alt="ville/272 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and others in and around a car</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -11793,12 +11793,12 @@ comments: false
 <li>Carranza, Venustiano, 1859-1920</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11808,8 +11808,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11868,11 +11868,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/401"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/401" alt="ville/401 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and Pablo González</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 21, 1916</li>
@@ -11893,12 +11893,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11908,8 +11908,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11968,11 +11968,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/149"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/149" alt="ville/149 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza and revolutionary militia</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 18, 1914</li>
@@ -11999,12 +11999,12 @@ comments: false
 <li>Angeles, Felipe, 1869-1919</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12014,8 +12014,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12074,11 +12074,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/326"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/326" alt="ville/326 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza seated, signed portrait (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 8, 1916</li>
@@ -12099,12 +12099,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12114,8 +12114,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12174,11 +12174,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/101"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/101" alt="ville/101 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza seated, signed portrait (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 11, 1914</li>
@@ -12204,12 +12204,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12219,8 +12219,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12279,11 +12279,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/86"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/86" alt="ville/86 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza standing, signed portrait</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 8, 1916</li>
@@ -12304,12 +12304,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12319,8 +12319,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12379,13 +12379,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/371"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/371" alt="ville/371 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, Carrera Torres and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>From left to right: I. Caballero, T. Manzo, P. Gonzalez, Venustiano Carranza, and Carrera Torres.</td>
 <td>
 <ul>
@@ -12397,12 +12397,12 @@ comments: false
 <li>Torres, Carrera</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12412,8 +12412,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12472,19 +12472,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/104"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/104" alt="ville/104 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, Felipe González, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 21, 1916</li>
 <li>1916-01-21</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
@@ -12492,12 +12492,12 @@ comments: false
 <li>González, Felipe</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12507,8 +12507,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12567,11 +12567,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/209"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/209" alt="ville/209 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, General José María Maytorena and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 1914</li>
@@ -12592,12 +12592,12 @@ comments: false
 <li>Maytorena, José María, 1867-1948</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12607,8 +12607,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12667,18 +12667,18 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/380"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/380" alt="ville/380 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, General José María Maytorena and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 15, 1913</li>
 <li>1913-12-15</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>From right to left: Felipe Angeles, Gobernador del Estado José M. Maytorena, Venustiano Carranza and Lucio Blanco.</li>
@@ -12694,12 +12694,12 @@ comments: false
 <li>Blanco, Lucio, 1879-1922</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12709,8 +12709,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12769,13 +12769,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/50"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/50" alt="ville/50 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, Leonor Villegas de Magnón and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>First to the left: Jesús Carranza. Third from the left: Leonor Villegas de Magnón. Fourth from the left: Venustiano Carranza. Eight from the left: Gral. Pablo González</td>
 <td>
 <ul>
@@ -12786,12 +12786,12 @@ comments: false
 <li>González, Pablo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12801,8 +12801,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12861,13 +12861,13 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/200"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/200" alt="ville/200 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, Leonor Villegas de Magnón, children, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Leonor Villegas de Magnón, Venustiano Carranza, children, Sra. De Pastor Romizy, Isidro Faset, General Pesquiera, Panino Juntes, Constitutionalist officers and nurses</td>
 <td>
 <ul>
@@ -12878,12 +12878,12 @@ comments: false
 <li>Juntes, Panino</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12893,8 +12893,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12953,12 +12953,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/110"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/110" alt="ville/110 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, Luis Cabrera, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -12974,12 +12974,12 @@ comments: false
 <li>Fábula, Isidro</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12989,8 +12989,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13049,12 +13049,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/416"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/416" alt="ville/416 thumbnail" /></a></td>
 <td></td>
 <td>Venustiano Carranza, Sánchez Azcona, and others</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Spanish</li>
@@ -13069,12 +13069,12 @@ comments: false
 <li>Azcona, Sánchez</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>postcards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13084,8 +13084,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13144,26 +13144,26 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/194"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/194" alt="ville/194 thumbnail" /></a></td>
 <td></td>
 <td>Villegas de Magnón presenting a document</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Mexico--History--Revolution, 1910-1920</li>
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13173,8 +13173,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13233,12 +13233,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/421"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/421" alt="ville/421 thumbnail" /></a></td>
 <td></td>
 <td>Villegas family home</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -13252,12 +13252,12 @@ comments: false
 <li>Villegas de Magnón, Leonor</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13267,29 +13267,29 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/203"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/203" alt="ville/203 thumbnail" /></a></td>
 <td></td>
 <td>Virgin of Guadalupe</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Guadalupe, Our Lady of</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>holy cards</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13299,8 +13299,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13359,11 +13359,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/ville/item/311"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/ville/311" alt="ville/311 thumbnail" /></a></td>
 <td></td>
 <td>Wedding Photo of Adolfo Magnón and Leonor Villegas</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 10, 1901</li>
@@ -13384,12 +13384,12 @@ comments: false
 <li>Magnón, Adolfo</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13399,8 +13399,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. Permission to publish or reprint this resource must be requested from Arte Publico Press at https://artepublicopress.com/permissions/.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>

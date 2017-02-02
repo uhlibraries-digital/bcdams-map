@@ -18,8 +18,8 @@ comments: false
 <th>Publisher</th>
 <th>Date</th>
 <th>Language</th>
-<th width="500px">Description</th>
-<th width="500px">Subject</th>
+<th>Description</th>
+<th>Subject</th>
 <th>Place</th>
 <th>Time Period</th>
 <th>Genre</th>
@@ -38,11 +38,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/489"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/489" alt="hca30/489 thumbnail" /></a></td>
 <td></td>
 <td>1000 Houston Volunteers in front of Music Hall, Houston, Texas, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 30, 1942</li>
@@ -71,11 +71,11 @@ comments: false
 <li>Houston, Texas</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -85,8 +85,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -145,11 +145,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/317"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/317" alt="hca30/317 thumbnail" /></a></td>
 <td></td>
 <td>1000 Houston Volunteers in front of Music Hall, Houston, Texas, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 30, 1942</li>
@@ -178,11 +178,11 @@ comments: false
 <li>Houston, Texas</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -192,8 +192,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -252,11 +252,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/220"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/220" alt="hca30/220 thumbnail" /></a></td>
 <td></td>
 <td>1000 Houston Volunteers in front of Music Hall, Houston, Texas, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 30, 1942</li>
@@ -285,11 +285,11 @@ comments: false
 <li>Houston, Texas</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -299,8 +299,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -359,11 +359,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/671"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/671" alt="hca30/671 thumbnail" /></a></td>
 <td></td>
 <td>1000 Houston Volunteers, Houston, Texas</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 30, 1942</li>
@@ -392,11 +392,11 @@ comments: false
 <li>Houston, Texas</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -406,20 +406,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/571"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/571" alt="hca30/571 thumbnail" /></a></td>
 <td></td>
 <td>[Alread?] and two other crew members, Lanai, Hawaiian Territory</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -444,11 +444,11 @@ comments: false
 <li>Hawaiian Territory</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -458,8 +458,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -518,11 +518,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/202"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/202" alt="hca30/202 thumbnail" /></a></td>
 <td></td>
 <td>[Plaza Libertad], Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -551,11 +551,11 @@ comments: false
 <li>Iloilo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -565,8 +565,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -625,12 +625,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/109"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/109" alt="hca30/109 thumbnail" /></a></td>
 <td></td>
 <td>A.D. Simpson, chairman, Cruiser Houston Committee</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -648,12 +648,12 @@ comments: false
 <li>Simpson, A. D.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -663,8 +663,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -723,11 +723,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/660"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/660" alt="hca30/660 thumbnail" /></a></td>
 <td></td>
 <td>A.G. Kirchner</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1930s</li>
@@ -751,12 +751,12 @@ comments: false
 <li>Kirchner, A. G.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -766,19 +766,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/332"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/332" alt="hca30/332 thumbnail" /></a></td>
 <td></td>
 <td>Adm. Jesse B. Oldendorf</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
@@ -802,12 +802,12 @@ comments: false
 <li>Oldendorf, Jesse B. (Jesse Barrett), 1887-1974</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -817,8 +817,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -877,11 +877,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/495"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/495" alt="hca30/495 thumbnail" /></a></td>
 <td></td>
 <td>Admiral Thomas Hart presenting Asiatic Fleet belts to boxers, Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -911,11 +911,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -925,8 +925,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -985,19 +985,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/659"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/659" alt="hca30/659 thumbnail" /></a></td>
 <td></td>
 <td>Aerial view of Burma-Thai Railway</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -1014,11 +1014,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1028,22 +1028,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/756"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/756" alt="hca30/756 thumbnail" /></a></td>
 <td></td>
 <td>Airplane and evacuation of prisioners-of-war, Rat Buri, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -1060,11 +1060,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1074,27 +1074,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/686"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/686" alt="hca30/686 thumbnail" /></a></td>
 <td></td>
 <td>Airplane and evacuation of prisoners-of-war</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -1105,12 +1105,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1120,27 +1120,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/768"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/768" alt="hca30/768 thumbnail" /></a></td>
 <td></td>
 <td>Airplane and evacuation of prisoners-of-war, Rat Buri, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -1157,11 +1157,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1171,27 +1171,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/688"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/688" alt="hca30/688 thumbnail" /></a></td>
 <td></td>
 <td>American-British-Dutch-Australian (ABDA) memorial drawing</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -1202,12 +1202,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>drawings (visual works)</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1217,19 +1217,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/525"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/525" alt="hca30/525 thumbnail" /></a></td>
 <td></td>
 <td>Anti-aircraft control groups</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1934</li>
@@ -1252,12 +1252,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1267,8 +1267,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1327,11 +1327,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/568"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/568" alt="hca30/568 thumbnail" /></a></td>
 <td></td>
 <td>Bangkok, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
@@ -1361,11 +1361,11 @@ comments: false
 <li>Bangkok, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1375,8 +1375,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1435,11 +1435,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/544"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/544" alt="hca30/544 thumbnail" /></a></td>
 <td></td>
 <td>Bangkok, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
 <td>
 <ul>
@@ -1464,11 +1464,11 @@ comments: false
 <li>Bangkok, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1478,8 +1478,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1538,19 +1538,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/649"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/649" alt="hca30/649 thumbnail" /></a></td>
 <td></td>
 <td>Baseball team, [Manila, Philippines]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1940]</li>
 <li>1940~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -1566,11 +1566,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1580,22 +1580,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/715"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/715" alt="hca30/715 thumbnail" /></a></td>
 <td></td>
 <td>Bell, "USS Houston 1930"</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -1605,12 +1605,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1620,19 +1620,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/562"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/562" alt="hca30/562 thumbnail" /></a></td>
 <td></td>
 <td>Boats, Olongapo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -1661,11 +1661,11 @@ comments: false
 <li>Olongapo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1675,8 +1675,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1735,19 +1735,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/704"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/704" alt="hca30/704 thumbnail" /></a></td>
 <td></td>
 <td>Bombed section of wooden bridge at Tamarkan, Burma-Thai Railway</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -1764,11 +1764,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1778,19 +1778,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/619"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/619" alt="hca30/619 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L. H. "Butch" Pistole, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1941]</li>
@@ -1814,12 +1814,12 @@ comments: false
 <li>Pistole, Frank L.H. "Butch"</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1829,8 +1829,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1889,12 +1889,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/538"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/538" alt="hca30/538 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole (left) and Joe Lewdanski (right)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -1913,12 +1913,12 @@ comments: false
 <li>Lewdanski, Joe</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -1928,8 +1928,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -1988,12 +1988,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/320"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/320" alt="hca30/320 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole on left</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -2011,12 +2011,12 @@ comments: false
 <li>Pistole, Frank L.H. "Butch"</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2026,8 +2026,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2086,19 +2086,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/634"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/634" alt="hca30/634 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
 <li>1940</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -2109,12 +2109,12 @@ comments: false
 <li>Pistole, Frank L.H. "Butch"</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2124,22 +2124,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/677"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/677" alt="hca30/677 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -2150,12 +2150,12 @@ comments: false
 <li>Pistole, Frank L.H. "Butch"</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2165,19 +2165,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/75"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/75" alt="hca30/75 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1941]</li>
@@ -2201,12 +2201,12 @@ comments: false
 <li>Pistole, Frank L.H. "Butch"</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2216,8 +2216,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2276,11 +2276,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/66"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/66" alt="hca30/66 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole, Manila, Philippines, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -2310,11 +2310,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2324,8 +2324,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2384,11 +2384,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/392"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/392" alt="hca30/392 thumbnail" /></a></td>
 <td></td>
 <td>Boxer Frank L.H. "Butch" Pistole, Manila, Philippines, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -2418,11 +2418,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2432,8 +2432,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2492,19 +2492,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/635"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/635" alt="hca30/635 thumbnail" /></a></td>
 <td></td>
 <td>Burma-Thai Railway near Kanchanaburi, Thailand</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -2521,11 +2521,11 @@ comments: false
 <li>Kanchanaburi, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2535,27 +2535,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/707"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/707" alt="hca30/707 thumbnail" /></a></td>
 <td></td>
 <td>Burma-Thai Railway, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -2566,12 +2566,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2581,22 +2581,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/705"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/705" alt="hca30/705 thumbnail" /></a></td>
 <td></td>
 <td>Burma-Thai Railway, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1942-1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -2607,12 +2607,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2622,27 +2622,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/745"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/745" alt="hca30/745 thumbnail" /></a></td>
 <td></td>
 <td>Burma-Thai Railway, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -2659,11 +2659,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2673,19 +2673,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/205"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/205" alt="hca30/205 thumbnail" /></a></td>
 <td></td>
 <td>Business house, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -2704,11 +2704,11 @@ comments: false
 </ul>
 </td>
 <td>Iloilo, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2718,8 +2718,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2778,12 +2778,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/208"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/208" alt="hca30/208 thumbnail" /></a></td>
 <td></td>
 <td>C.B. Gillespie, member, original Cruiser Houston Committee</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -2806,12 +2806,12 @@ comments: false
 <li>Gillespie, C. B</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2821,8 +2821,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2881,19 +2881,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/425"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/425" alt="hca30/425 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Albert H. Rooks assuming command of the USS Houston (CA-30), (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
 <li>1941</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -2904,12 +2904,12 @@ comments: false
 <li>Rooks, Albert H.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -2919,8 +2919,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -2979,11 +2979,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/94"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/94" alt="hca30/94 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Albert H. Rooks assuming command of the USS Houston (CA-30), (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -3006,12 +3006,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3021,8 +3021,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3081,11 +3081,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/275"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/275" alt="hca30/275 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Albert H. Rooks, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1940</li>
@@ -3109,12 +3109,12 @@ comments: false
 <li>Rooks, Albert H.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3124,8 +3124,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3184,12 +3184,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/574"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/574" alt="hca30/574 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Albert H. Rooks, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -3206,12 +3206,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3221,8 +3221,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3281,14 +3281,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/272"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/272" alt="hca30/272 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Albert H. Rooks, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -3298,12 +3298,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3313,8 +3313,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3373,14 +3373,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/720"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/720" alt="hca30/720 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Albert H. Rooks, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -3391,12 +3391,12 @@ comments: false
 <li>Rooks, Albert H.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3406,19 +3406,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/341"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/341" alt="hca30/341 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Francis Cogswell</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 1939</li>
@@ -3447,12 +3447,12 @@ comments: false
 <li>Cogswell, Francis</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3462,8 +3462,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3522,12 +3522,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/326"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/326" alt="hca30/326 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Guy Baker</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -3550,12 +3550,12 @@ comments: false
 <li>Baker, Guy</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3565,8 +3565,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3625,11 +3625,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/413"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/413" alt="hca30/413 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Guy Baker (right), with scroll from Cruiser Houston Committee and Christmas piano</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -3653,12 +3653,12 @@ comments: false
 <li>Baker, Guy</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3668,8 +3668,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3728,11 +3728,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/100"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/100" alt="hca30/100 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Guy Baker accepts the piano for the ship</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -3756,12 +3756,12 @@ comments: false
 <li>Baker, Guy</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3771,8 +3771,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3831,14 +3831,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/181"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/181" alt="hca30/181 thumbnail" /></a></td>
 <td></td>
 <td>Capt. Jesse B. Gay</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Bachrach Studios</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -3849,12 +3849,12 @@ comments: false
 <li>Gay, Jesse B.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3864,8 +3864,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -3924,12 +3924,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/754"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/754" alt="hca30/754 thumbnail" /></a></td>
 <td></td>
 <td>Capt. R. A. Dawes</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -3947,12 +3947,12 @@ comments: false
 <li>Dawes, R. A.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -3962,19 +3962,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/669"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/669" alt="hca30/669 thumbnail" /></a></td>
 <td></td>
 <td>Capt. William Baggaley</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1936</li>
@@ -4004,12 +4004,12 @@ comments: false
 <li>Baggaley, William</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4019,19 +4019,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/81"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/81" alt="hca30/81 thumbnail" /></a></td>
 <td></td>
 <td>Cardinellie, leaning against a palm tree, [Haiti]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -4060,11 +4060,11 @@ comments: false
 <li>Haiti</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4074,8 +4074,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4134,11 +4134,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/431"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/431" alt="hca30/431 thumbnail" /></a></td>
 <td></td>
 <td>Cardinellie, sitting in front of the ocean, [Haiti]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -4167,11 +4167,11 @@ comments: false
 <li>Haiti</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4181,8 +4181,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4241,11 +4241,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/532"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/532" alt="hca30/532 thumbnail" /></a></td>
 <td></td>
 <td>Cardinellie, standing in front of the ocean, [Haiti]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -4274,11 +4274,11 @@ comments: false
 <li>Haiti</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4288,8 +4288,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4348,11 +4348,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/323"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/323" alt="hca30/323 thumbnail" /></a></td>
 <td></td>
 <td>Carolyn Londahl entertains with a tap dance</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -4376,12 +4376,12 @@ comments: false
 <li>Londahl, Carolyn</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4391,8 +4391,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4451,11 +4451,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/507"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/507" alt="hca30/507 thumbnail" /></a></td>
 <td></td>
 <td>Change of command ceremony (Capt. Jessie B. Oldendorf to Capt. Albert H. Rooks)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 30, 1941</li>
@@ -4504,12 +4504,12 @@ comments: false
 <li>Biechlin</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4519,8 +4519,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4579,11 +4579,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/134"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/134" alt="hca30/134 thumbnail" /></a></td>
 <td></td>
 <td>Change of command ceremony (Capt. Jessie B. Oldendorf to Capt. Albert H. Rooks),with writing on front</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 30, 1941</li>
@@ -4632,12 +4632,12 @@ comments: false
 <li>Biechlin</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4647,8 +4647,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4707,11 +4707,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/685"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/685" alt="hca30/685 thumbnail" /></a></td>
 <td></td>
 <td>Charlotte Williams, special guest at USS Houston (CA-30) launching ceremony and great granddaughter of Sam Houston</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -4740,12 +4740,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4755,19 +4755,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/434"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/434" alt="hca30/434 thumbnail" /></a></td>
 <td></td>
 <td>Chiefs of the USS Houston</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 1932</li>
@@ -4790,12 +4790,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4805,8 +4805,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4865,11 +4865,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/265"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/265" alt="hca30/265 thumbnail" /></a></td>
 <td></td>
 <td>Christmas guests on deck</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -4892,12 +4892,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -4907,8 +4907,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -4967,11 +4967,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/356"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/356" alt="hca30/356 thumbnail" /></a></td>
 <td></td>
 <td>Christmas piano</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1936</li>
@@ -4984,7 +4984,7 @@ comments: false
 <li>eng</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -4994,12 +4994,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5009,8 +5009,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5069,12 +5069,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/11"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/11" alt="hca30/11 thumbnail" /></a></td>
 <td></td>
 <td>Claude A. Swanson</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -5092,12 +5092,12 @@ comments: false
 <li>Swanson, Claude Augustus, 1862-1939</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5107,8 +5107,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5167,11 +5167,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/281"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/281" alt="hca30/281 thumbnail" /></a></td>
 <td></td>
 <td>Collins, POW, in the mine repair shop yard, Ohasi, Japan</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1943</li>
@@ -5206,11 +5206,11 @@ comments: false
 <li>Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5220,8 +5220,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5280,14 +5280,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/631"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/631" alt="hca30/631 thumbnail" /></a></td>
 <td></td>
 <td>Concrete bridge and Burma-Thai Railway train, Tamarkan, Thailand</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1942-1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -5299,11 +5299,11 @@ comments: false
 </ul>
 </td>
 <td>Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5313,22 +5313,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/708"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/708" alt="hca30/708 thumbnail" /></a></td>
 <td></td>
 <td>Concrete bridge at Tamarkan, Thailand</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1942-1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -5340,11 +5340,11 @@ comments: false
 </ul>
 </td>
 <td>Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5354,21 +5354,21 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/256"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/256" alt="hca30/256 thumbnail" /></a></td>
 <td></td>
 <td>Crew dockside with Cubans watching</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back: "[Leso?]"</td>
 <td>
 <ul>
@@ -5379,12 +5379,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5394,8 +5394,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5454,11 +5454,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/302"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/302" alt="hca30/302 thumbnail" /></a></td>
 <td></td>
 <td>Crew member [Simino] and Cuban boy</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1932</li>
@@ -5481,12 +5481,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5496,8 +5496,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5556,14 +5556,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/730"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/730" alt="hca30/730 thumbnail" /></a></td>
 <td></td>
 <td>Crew member with cannon</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -5573,12 +5573,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5588,22 +5588,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/627"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/627" alt="hca30/627 thumbnail" /></a></td>
 <td></td>
 <td>Crew member with Cuban woman and children</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -5613,12 +5613,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5628,22 +5628,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/722"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/722" alt="hca30/722 thumbnail" /></a></td>
 <td></td>
 <td>Crew member with large gun</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -5653,12 +5653,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5668,22 +5668,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/642"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/642" alt="hca30/642 thumbnail" /></a></td>
 <td></td>
 <td>Crew member with monkey to his left</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -5693,12 +5693,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5708,22 +5708,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/695"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/695" alt="hca30/695 thumbnail" /></a></td>
 <td></td>
 <td>Crew member with monkey to his right</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -5733,12 +5733,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5748,22 +5748,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/253"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/253" alt="hca30/253 thumbnail" /></a></td>
 <td></td>
 <td>Crew members and Cuban woman</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -5773,12 +5773,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5788,8 +5788,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5848,12 +5848,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/383"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/383" alt="hca30/383 thumbnail" /></a></td>
 <td></td>
 <td>Crew members at back of barracks</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -5870,12 +5870,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5885,8 +5885,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -5945,11 +5945,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/535"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/535" alt="hca30/535 thumbnail" /></a></td>
 <td></td>
 <td>Crew members in F Division, USS Houston (CA-30), Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>March 1, 1941</li>
@@ -5985,11 +5985,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -5999,8 +5999,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6059,14 +6059,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/674"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/674" alt="hca30/674 thumbnail" /></a></td>
 <td></td>
 <td>Crew members in front of store on Cuban street</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -6076,12 +6076,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6091,19 +6091,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/290"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/290" alt="hca30/290 thumbnail" /></a></td>
 <td></td>
 <td>Crew members on horses, Haiti</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -6137,11 +6137,11 @@ comments: false
 <li>Haiti</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6151,8 +6151,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6211,11 +6211,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/153"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/153" alt="hca30/153 thumbnail" /></a></td>
 <td></td>
 <td>Crew members with Christmas fruitcake given to them by the Cruiser Houston Committee</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1935</li>
@@ -6238,12 +6238,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6253,8 +6253,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6313,14 +6313,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/672"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/672" alt="hca30/672 thumbnail" /></a></td>
 <td></td>
 <td>Crew members with Cuban boy</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -6330,12 +6330,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6345,19 +6345,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/380"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/380" alt="hca30/380 thumbnail" /></a></td>
 <td></td>
 <td>Crew members: L-R, [Hanie,] A. Malone, [Haiti]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -6380,12 +6380,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6395,8 +6395,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6455,11 +6455,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/353"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/353" alt="hca30/353 thumbnail" /></a></td>
 <td></td>
 <td>Crew on deck in China</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1932?]</li>
@@ -6482,12 +6482,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6497,8 +6497,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6557,11 +6557,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/365"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/365" alt="hca30/365 thumbnail" /></a></td>
 <td></td>
 <td>Crew on deck, [China]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Joseffa Photo Studio</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1930s]</li>
@@ -6590,11 +6590,11 @@ comments: false
 <li>China</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6604,8 +6604,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6664,19 +6664,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/736"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/736" alt="hca30/736 thumbnail" /></a></td>
 <td></td>
 <td>Crew on deck, [Japan]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1930s]</li>
 <li>193x</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -6686,12 +6686,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6701,19 +6701,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/639"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/639" alt="hca30/639 thumbnail" /></a></td>
 <td></td>
 <td>Crew, panoramic photograph</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>O.A. Tunnell, Photo</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 18, 1934</li>
@@ -6742,11 +6742,11 @@ comments: false
 <li>San Diego, California</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6756,19 +6756,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/150"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/150" alt="hca30/150 thumbnail" /></a></td>
 <td></td>
 <td>Crew, Pearl Harbor, Hawaiian Territory</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1941]</li>
@@ -6802,11 +6802,11 @@ comments: false
 <li>Hawaii</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6816,8 +6816,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6876,11 +6876,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/156"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/156" alt="hca30/156 thumbnail" /></a></td>
 <td></td>
 <td>Customs house, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -6909,11 +6909,11 @@ comments: false
 <li>Iloilo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -6923,8 +6923,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -6983,19 +6983,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/769"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/769" alt="hca30/769 thumbnail" /></a></td>
 <td></td>
 <td>Cutting, Burma-Thai Railway</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -7012,11 +7012,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7026,20 +7026,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/5"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/5" alt="hca30/5 thumbnail" /></a></td>
 <td></td>
 <td>Dan Moody, Governor of Texas during launching of USS Houston (CA-30)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Jensen Studio Photographers</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -7062,12 +7062,12 @@ comments: false
 <li>Moody, Daniel James, 1893-1966</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7077,8 +7077,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7137,11 +7137,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/190"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/190" alt="hca30/190 thumbnail" /></a></td>
 <td></td>
 <td>Design model, Navy Department</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1920s]</li>
@@ -7169,12 +7169,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7184,8 +7184,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7244,11 +7244,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/199"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/199" alt="hca30/199 thumbnail" /></a></td>
 <td></td>
 <td>Director control tower crew</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1934</li>
@@ -7271,12 +7271,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7286,8 +7286,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7346,19 +7346,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/565"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/565" alt="hca30/565 thumbnail" /></a></td>
 <td></td>
 <td>Edwin F. Hoofer</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1939</li>
 <li>1939~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -7369,12 +7369,12 @@ comments: false
 <li>Hoofer, Edwin F.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7384,8 +7384,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7444,19 +7444,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/362"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/362" alt="hca30/362 thumbnail" /></a></td>
 <td></td>
 <td>Edwin F. Hooper</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1939</li>
 <li>1939~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -7467,12 +7467,12 @@ comments: false
 <li>Hooper, Edwin F.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7482,8 +7482,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7542,11 +7542,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/112"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/112" alt="hca30/112 thumbnail" /></a></td>
 <td></td>
 <td>Elisabeth Holcombe (ship's sponsor) and a group of U.S. Navy officers on platform at USS Houston (CA-30) launching ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -7570,12 +7570,12 @@ comments: false
 <li>Holcombe, Elisabeth</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7585,8 +7585,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7645,19 +7645,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/335"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/335" alt="hca30/335 thumbnail" /></a></td>
 <td></td>
 <td>Elisabeth Holcombe (ship's sponsor) on platform at USS Houston (CA-30) launching  ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -7668,12 +7668,12 @@ comments: false
 <li>Holcombe, Elisabeth</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7683,8 +7683,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -7743,11 +7743,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/626"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/626" alt="hca30/626 thumbnail" /></a></td>
 <td></td>
 <td>Elisabeth Holcombe, ship's sponsor at launching ceremonies for USS Houston (CA-30)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -7771,12 +7771,12 @@ comments: false
 <li>Holcombe, Elisabeth</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7786,22 +7786,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/656"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/656" alt="hca30/656 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, Rat Buri, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -7813,11 +7813,11 @@ comments: false
 </ul>
 </td>
 <td>Rat Buri, Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7827,22 +7827,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/743"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/743" alt="hca30/743 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, Rat Buri, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -7854,11 +7854,11 @@ comments: false
 </ul>
 </td>
 <td>Rat Buri, Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7868,22 +7868,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/702"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/702" alt="hca30/702 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, Rat Buri, Thailand, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -7895,11 +7895,11 @@ comments: false
 </ul>
 </td>
 <td>Rat Buri, Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7909,22 +7909,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/653"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/653" alt="hca30/653 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, Rat Buri, Thailand, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -7936,11 +7936,11 @@ comments: false
 </ul>
 </td>
 <td>Rat Buri, Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7950,22 +7950,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/661"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/661" alt="hca30/661 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, Rat Buri, Thailand, (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -7977,11 +7977,11 @@ comments: false
 </ul>
 </td>
 <td>Rat Buri, Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -7991,22 +7991,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/666"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/666" alt="hca30/666 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, Rat Buri, Thailand, (Image 6)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -8018,11 +8018,11 @@ comments: false
 </ul>
 </td>
 <td>Rat Buri, Thailand</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8032,19 +8032,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/78"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/78" alt="hca30/78 thumbnail" /></a></td>
 <td></td>
 <td>Evacuation of POWs, USS Chenango, Nagasaki, Japan</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 1945</li>
@@ -8080,11 +8080,11 @@ comments: false
 <li>Nagasaki, Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8094,8 +8094,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8154,11 +8154,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/401"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/401" alt="hca30/401 thumbnail" /></a></td>
 <td></td>
 <td>F.G. Polk and Frank D. Ellis in front of Elks Club, Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -8189,11 +8189,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8203,8 +8203,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8263,11 +8263,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/657"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/657" alt="hca30/657 thumbnail" /></a></td>
 <td></td>
 <td>Farewell Dance</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 11, 1937</li>
@@ -8296,11 +8296,11 @@ comments: false
 <li>Los Angeles, California</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8310,19 +8310,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/27"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/27" alt="hca30/27 thumbnail" /></a></td>
 <td></td>
 <td>Filipino farmer, Olongapo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -8351,11 +8351,11 @@ comments: false
 <li>Olongapo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8365,8 +8365,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8425,11 +8425,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/446"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/446" alt="hca30/446 thumbnail" /></a></td>
 <td></td>
 <td>Five crew members seated with beer, Hawaiian Territory</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 14, 1938</li>
@@ -8465,11 +8465,11 @@ comments: false
 <li>Hawaiian Territory</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8479,8 +8479,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8539,11 +8539,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/625"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/625" alt="hca30/625 thumbnail" /></a></td>
 <td></td>
 <td>Five men at POW camp, with Henry Thew second from right, Ohasi, Japan, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 1945</li>
@@ -8573,11 +8573,11 @@ comments: false
 <li>Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8587,19 +8587,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/723"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/723" alt="hca30/723 thumbnail" /></a></td>
 <td></td>
 <td>Five men at POW camp, with Henry Thew second from right, Ohasi, Japan, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 1945</li>
@@ -8629,11 +8629,11 @@ comments: false
 <li>Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8643,19 +8643,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/214"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/214" alt="hca30/214 thumbnail" /></a></td>
 <td></td>
 <td>Four crew members standing, one with paint and paintbrush, [Haiti]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -8683,12 +8683,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8698,8 +8698,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8758,12 +8758,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/727"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/727" alt="hca30/727 thumbnail" /></a></td>
 <td></td>
 <td>Frank D. Ellis, ca. 1941</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -8781,12 +8781,12 @@ comments: false
 <li>Ellis, Frank D.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8796,19 +8796,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/84"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/84" alt="hca30/84 thumbnail" /></a></td>
 <td></td>
 <td>Frank D. Ellis, Manila, Philippine</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 13, 1941</li>
@@ -8838,11 +8838,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8852,8 +8852,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -8912,19 +8912,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/738"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/738" alt="hca30/738 thumbnail" /></a></td>
 <td></td>
 <td>Franklin D. Roosevelt with Marines on deck of USS Houston</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1930s</li>
 <li>[1930..1939]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -8935,12 +8935,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -8950,19 +8950,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/767"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/767" alt="hca30/767 thumbnail" /></a></td>
 <td></td>
 <td>Franklin D. Roosevelt, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1935</li>
@@ -8985,12 +8985,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9000,27 +9000,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/633"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/633" alt="hca30/633 thumbnail" /></a></td>
 <td></td>
 <td>Franklin D. Roosevelt, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1930s</li>
 <li>[1930..1939]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -9031,12 +9031,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9046,27 +9046,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/763"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/763" alt="hca30/763 thumbnail" /></a></td>
 <td></td>
 <td>Franklin D. Roosevelt, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1930s</li>
 <li>[1930..1939]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -9077,12 +9077,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9092,22 +9092,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/680"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/680" alt="hca30/680 thumbnail" /></a></td>
 <td></td>
 <td>Franklin D. Roosevelt, deep sea fishing on USS Houston (CA-30), (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>approximately 1930s</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -9118,12 +9118,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9133,27 +9133,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/724"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/724" alt="hca30/724 thumbnail" /></a></td>
 <td></td>
 <td>Franklin D. Roosevelt, deep sea fishing on USS Houston (CA-30), (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1930s</li>
 <li>[1930..1939]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -9164,12 +9164,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9179,19 +9179,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/159"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/159" alt="hca30/159 thumbnail" /></a></td>
 <td></td>
 <td>Gardens, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -9210,11 +9210,11 @@ comments: false
 </ul>
 </td>
 <td>Iloilo, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9224,8 +9224,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9284,11 +9284,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/284"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/284" alt="hca30/284 thumbnail" /></a></td>
 <td></td>
 <td>George E. Detre, No. 24 Camp, Japan</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>March 1945</li>
@@ -9324,11 +9324,11 @@ comments: false
 <li>Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9338,8 +9338,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9398,11 +9398,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/187"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/187" alt="hca30/187 thumbnail" /></a></td>
 <td></td>
 <td>Gilbert W. Hayes between the two 8" guns</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1938</li>
@@ -9431,12 +9431,12 @@ comments: false
 <li>Hayes, Gilbert W.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9446,8 +9446,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9506,11 +9506,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/498"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/498" alt="hca30/498 thumbnail" /></a></td>
 <td></td>
 <td>Goat, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -9539,11 +9539,11 @@ comments: false
 <li>Iloilo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9553,8 +9553,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9613,19 +9613,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/647"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/647" alt="hca30/647 thumbnail" /></a></td>
 <td></td>
 <td>Group of officers standing beneath gun</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1936</li>
 <li>1936</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -9635,12 +9635,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9650,19 +9650,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/440"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/440" alt="hca30/440 thumbnail" /></a></td>
 <td></td>
 <td>Group photograph, [Senju, Kyushu?] POW camp near Nag[asaki?], Japan</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 1945</li>
@@ -9686,12 +9686,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9701,8 +9701,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -9761,19 +9761,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/741"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/741" alt="hca30/741 thumbnail" /></a></td>
 <td></td>
 <td>Group photograph, POWs, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -9784,12 +9784,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9799,27 +9799,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/682"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/682" alt="hca30/682 thumbnail" /></a></td>
 <td></td>
 <td>Group photograph, POWs, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -9830,12 +9830,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9845,19 +9845,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/755"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/755" alt="hca30/755 thumbnail" /></a></td>
 <td></td>
 <td>Hakodate POW Camp 3, Ohasi, Japan</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 1945</li>
@@ -9887,11 +9887,11 @@ comments: false
 <li>Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9901,19 +9901,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/175"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/175" alt="hca30/175 thumbnail" /></a></td>
 <td></td>
 <td>Harold McManus, Harry Stone, and unknown Australian squatting by corpse of Colonel Suga</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1945]</li>
@@ -9939,12 +9939,12 @@ comments: false
 <li>Stone, Harry</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -9954,8 +9954,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10014,11 +10014,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/223"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/223" alt="hca30/223 thumbnail" /></a></td>
 <td></td>
 <td>Harry F. Byrd, Governor of Virginia, Master of Ceremonies at launching of USS Houston (CA-30)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Dementi Studio</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -10047,12 +10047,12 @@ comments: false
 <li>Byrd, Harry F. (Harry Flood), 1887-1966</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10062,8 +10062,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10122,14 +10122,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/711"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/711" alt="hca30/711 thumbnail" /></a></td>
 <td></td>
 <td>Henry L. Roosevelt, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -10140,12 +10140,12 @@ comments: false
 <li>Roosevelt, Henry L.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10155,27 +10155,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/63"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/63" alt="hca30/63 thumbnail" /></a></td>
 <td></td>
 <td>Henry L. Roosevelt, (Image 2)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Harris & Ewing</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1935</li>
 <li>1935</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -10185,12 +10185,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10200,8 +10200,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10260,19 +10260,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/729"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/729" alt="hca30/729 thumbnail" /></a></td>
 <td></td>
 <td>Henry Nickel</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1930s</li>
 <li>[1930..1939]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -10283,12 +10283,12 @@ comments: false
 <li>Nickel, Henry</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10298,19 +10298,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/377"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/377" alt="hca30/377 thumbnail" /></a></td>
 <td></td>
 <td>Henry Nickel being presented with the Bronze Star by Capt. A.C. Olney</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1947.0</td>
 <td>
 <ul>
@@ -10330,12 +10330,12 @@ comments: false
 <li>Olney, A. C.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10345,8 +10345,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10405,14 +10405,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/658"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/658" alt="hca30/658 thumbnail" /></a></td>
 <td></td>
 <td>Herbert A. Levitt, New York City, New York</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1946.0</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -10424,11 +10424,11 @@ comments: false
 </ul>
 </td>
 <td>New York City, New York</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10438,20 +10438,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/452"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/452" alt="hca30/452 thumbnail" /></a></td>
 <td></td>
 <td>HM de Ruyter</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -10466,12 +10466,12 @@ comments: false
 <li>HM de Ruyter</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10481,8 +10481,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10541,12 +10541,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/550"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/550" alt="hca30/550 thumbnail" /></a></td>
 <td></td>
 <td>HM de Ruyter</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -10561,12 +10561,12 @@ comments: false
 <li>HM de Ruyter</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10576,8 +10576,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10636,12 +10636,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/419"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/419" alt="hca30/419 thumbnail" /></a></td>
 <td></td>
 <td>HM Evertsen</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -10656,12 +10656,12 @@ comments: false
 <li>HM Evertsen</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10671,8 +10671,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10731,12 +10731,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/211"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/211" alt="hca30/211 thumbnail" /></a></td>
 <td></td>
 <td>HM Java</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -10751,12 +10751,12 @@ comments: false
 <li>HM Java</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10766,8 +10766,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10826,12 +10826,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/241"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/241" alt="hca30/241 thumbnail" /></a></td>
 <td></td>
 <td>HM Kortenaer</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -10846,12 +10846,12 @@ comments: false
 <li>HM Kortenaer</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10861,8 +10861,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -10921,12 +10921,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/193"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/193" alt="hca30/193 thumbnail" /></a></td>
 <td></td>
 <td>HM Witte de With</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -10941,12 +10941,12 @@ comments: false
 <li>HM Witte de With</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -10956,8 +10956,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11016,12 +11016,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/428"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/428" alt="hca30/428 thumbnail" /></a></td>
 <td></td>
 <td>HMAS Perth, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -11037,12 +11037,12 @@ comments: false
 <li>HMAS Perth (Cruiser)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11052,8 +11052,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11112,12 +11112,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/486"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/486" alt="hca30/486 thumbnail" /></a></td>
 <td></td>
 <td>HMAS Perth, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -11133,12 +11133,12 @@ comments: false
 <li>HMAS Perth (Cruiser)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11148,8 +11148,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11208,11 +11208,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/513"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/513" alt="hca30/513 thumbnail" /></a></td>
 <td></td>
 <td>Houston Ball, The Canidrome, Shangai</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
@@ -11241,11 +11241,11 @@ comments: false
 <li>Shangai</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11255,8 +11255,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11315,19 +11315,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/764"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/764" alt="hca30/764 thumbnail" /></a></td>
 <td></td>
 <td>Houston Volunteers, panoramic photograph</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 30, 1942</li>
 <li>1942-05-30</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -11337,12 +11337,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11352,22 +11352,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/699"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/699" alt="hca30/699 thumbnail" /></a></td>
 <td></td>
 <td>Hula dancer, [Hawaiian Territory]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -11377,12 +11377,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11392,19 +11392,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/410"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/410" alt="hca30/410 thumbnail" /></a></td>
 <td></td>
 <td>I. Roy Coats, South Pacific</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 1934</li>
@@ -11428,12 +11428,12 @@ comments: false
 <li>Coates, I. Roy</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11443,8 +11443,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11503,14 +11503,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/771"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/771" alt="hca30/771 thumbnail" /></a></td>
 <td></td>
 <td>Jack L. Smith with American flag made in POW camp</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -11521,12 +11521,12 @@ comments: false
 <li>Smith, Jack L.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11536,27 +11536,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/693"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/693" alt="hca30/693 thumbnail" /></a></td>
 <td></td>
 <td>James Raydell Wilson, [Camp Pendleton, California]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately August 1941]</li>
 <li>1955-08~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -11573,11 +11573,11 @@ comments: false
 <li>Camp Pendleton Marine Corps Base (defense installation)</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11587,19 +11587,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/637"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/637" alt="hca30/637 thumbnail" /></a></td>
 <td></td>
 <td>Japanese soldiers at POW camp, Ohasi, Japan</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>August 1945</li>
@@ -11629,11 +11629,11 @@ comments: false
 <li>Japan</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11643,19 +11643,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/510"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/510" alt="hca30/510 thumbnail" /></a></td>
 <td></td>
 <td>John B. Stefanek, USS Houston baseball team, Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
@@ -11685,11 +11685,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11699,8 +11699,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11759,14 +11759,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/728"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/728" alt="hca30/728 thumbnail" /></a></td>
 <td></td>
 <td>John Reas, [Dallas, Texas]</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>approximately 1947</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -11778,11 +11778,11 @@ comments: false
 </ul>
 </td>
 <td>Dallas, Texas</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11792,19 +11792,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/72"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/72" alt="hca30/72 thumbnail" /></a></td>
 <td></td>
 <td>John Stefanek and Suho Suomi, Calcutta, India</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 15, 1945</li>
@@ -11835,11 +11835,11 @@ comments: false
 <li>Calcutta, India</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11849,8 +11849,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -11909,11 +11909,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/30"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/30" alt="hca30/30 thumbnail" /></a></td>
 <td></td>
 <td>John Wisecup (left), John B. Stefanek (front) and two other members of the USS Houston baseball team, Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
@@ -11944,11 +11944,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -11958,8 +11958,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12018,11 +12018,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/684"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/684" alt="hca30/684 thumbnail" /></a></td>
 <td></td>
 <td>Lawrence F. Kondzela, S/1c</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1940s]</li>
@@ -12045,12 +12045,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12060,19 +12060,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/48"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/48" alt="hca30/48 thumbnail" /></a></td>
 <td></td>
 <td>Lennart O. Peterson</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 14, 1938</li>
@@ -12096,12 +12096,12 @@ comments: false
 <li>Peterson, Lennart O.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12111,8 +12111,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12171,11 +12171,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/541"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/541" alt="hca30/541 thumbnail" /></a></td>
 <td></td>
 <td>Lester W. Rehfeld at parents' house in Freeport, Illinois</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 1940</li>
@@ -12205,11 +12205,11 @@ comments: false
 <li>Freeport, Illinois</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12219,8 +12219,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12279,11 +12279,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/51"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/51" alt="hca30/51 thumbnail" /></a></td>
 <td></td>
 <td>Lester W. Rehfeld with Philippine children, Tawi Tawi, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -12303,11 +12303,11 @@ comments: false
 </ul>
 </td>
 <td>Tawitawi Island, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12317,8 +12317,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12377,11 +12377,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/455"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/455" alt="hca30/455 thumbnail" /></a></td>
 <td></td>
 <td>Lester W. Rehfeld, Tawi Tawi, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -12411,11 +12411,11 @@ comments: false
 <li>Tawitawi Island, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12425,8 +12425,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12485,12 +12485,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/229"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/229" alt="hca30/229 thumbnail" /></a></td>
 <td></td>
 <td>Lifting sea plane from sea</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -12507,12 +12507,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12522,8 +12522,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12582,19 +12582,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/675"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/675" alt="hca30/675 thumbnail" /></a></td>
 <td></td>
 <td>Lt. CDR Farrel W. Keith</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>approximately 1942</li>
 <li>1942~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -12605,12 +12605,12 @@ comments: false
 <li>Keith, Farrel W.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12620,19 +12620,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/45"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/45" alt="hca30/45 thumbnail" /></a></td>
 <td></td>
 <td>Lt. Cdr. Inglis, the Chairman, welcomes the guests</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -12655,12 +12655,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12670,8 +12670,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12730,19 +12730,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/725"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/725" alt="hca30/725 thumbnail" /></a></td>
 <td></td>
 <td>Lt. Robert B. Fulton, Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 1941</li>
 <li>1941-10</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -12759,11 +12759,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12773,19 +12773,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/407"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/407" alt="hca30/407 thumbnail" /></a></td>
 <td></td>
 <td>Lt. Vanzant, a native of Houston, presenting the city's gift to the ship</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -12808,12 +12808,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12823,8 +12823,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12883,11 +12883,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/519"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/519" alt="hca30/519 thumbnail" /></a></td>
 <td></td>
 <td>Main Street, Olongapo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -12906,11 +12906,11 @@ comments: false
 </ul>
 </td>
 <td>Olongapo, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -12920,8 +12920,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -12980,14 +12980,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/701"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/701" alt="hca30/701 thumbnail" /></a></td>
 <td></td>
 <td>Man playing cards, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -12998,12 +12998,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13013,22 +13013,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/664"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/664" alt="hca30/664 thumbnail" /></a></td>
 <td></td>
 <td>Marine Corps officer on deck with rifles</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -13038,12 +13038,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13053,19 +13053,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/604"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/604" alt="hca30/604 thumbnail" /></a></td>
 <td></td>
 <td>Marine detachment billeted at Dong Shing mill</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>March 14, 1932</li>
@@ -13093,12 +13093,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13108,8 +13108,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13168,19 +13168,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/232"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/232" alt="hca30/232 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform at USS Houston (CA-30) launching ceremony, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -13193,12 +13193,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13208,8 +13208,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13268,19 +13268,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/616"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/616" alt="hca30/616 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform at USS Houston (CA-30) launching ceremony, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -13293,12 +13293,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13308,8 +13308,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13368,11 +13368,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/698"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/698" alt="hca30/698 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform at USS Houston (CA-30) launching ceremony, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -13398,12 +13398,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13413,27 +13413,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/97"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/97" alt="hca30/97 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's  sponsor), and Charlotte Williams (special guest) on platform at USS Houston (CA-30) launching ceremony, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -13446,12 +13446,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13461,8 +13461,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13521,19 +13521,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/592"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/592" alt="hca30/592 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform with cameramen and photographers at USS Houston (CA-30) launching ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -13546,12 +13546,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13561,8 +13561,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13621,18 +13621,18 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/461"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/461" alt="hca30/461 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform with special guests at USS Houston (CA-30) launching ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Caption on white card: "USS Houston (CA 30)-- Mary Ellen Bute (maid of honor), Elisabeth Holcombe (ship's sponsor), and Charlotte Williams (special guest) on platform with Va. Gov. Harry F. Bird at ship's launching ceremony, 7 Sept. 1929."</td>
 <td>
 <ul>
@@ -13647,12 +13647,12 @@ comments: false
 <li>Williams, Charlotte</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13662,8 +13662,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -13722,11 +13722,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/676"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/676" alt="hca30/676 thumbnail" /></a></td>
 <td></td>
 <td>Mary Ellen Bute, Maid of Honor at launching ceremonies for USS Houston (CA-30)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -13750,12 +13750,12 @@ comments: false
 <li>Bute, Mary Ellen</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13765,22 +13765,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/636"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/636" alt="hca30/636 thumbnail" /></a></td>
 <td></td>
 <td>Men and women in front of tents</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -13790,12 +13790,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13805,22 +13805,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/654"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/654" alt="hca30/654 thumbnail" /></a></td>
 <td></td>
 <td>Men at ease, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -13831,12 +13831,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13846,27 +13846,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/740"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/740" alt="hca30/740 thumbnail" /></a></td>
 <td></td>
 <td>Men exiting plane, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -13877,12 +13877,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13892,27 +13892,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/766"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/766" alt="hca30/766 thumbnail" /></a></td>
 <td></td>
 <td>Men gathered around Jeep, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -13923,12 +13923,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13938,27 +13938,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/706"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/706" alt="hca30/706 thumbnail" /></a></td>
 <td></td>
 <td>Men gathered for group photo, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -13969,12 +13969,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -13984,27 +13984,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/726"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/726" alt="hca30/726 thumbnail" /></a></td>
 <td></td>
 <td>Men gathered in field, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -14015,12 +14015,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14030,27 +14030,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/758"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/758" alt="hca30/758 thumbnail" /></a></td>
 <td></td>
 <td>Men gathered next to plane, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -14061,12 +14061,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14076,27 +14076,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/719"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/719" alt="hca30/719 thumbnail" /></a></td>
 <td></td>
 <td>Men in front of tent, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -14107,12 +14107,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14122,27 +14122,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/717"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/717" alt="hca30/717 thumbnail" /></a></td>
 <td></td>
 <td>Men loading Jeep into plane, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -14153,12 +14153,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14168,27 +14168,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/765"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/765" alt="hca30/765 thumbnail" /></a></td>
 <td></td>
 <td>Men walking through field, evacuation of POWs</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -14199,12 +14199,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14214,19 +14214,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/33"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/33" alt="hca30/33 thumbnail" /></a></td>
 <td></td>
 <td>Men with boa constrictor, Olongapo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 17, 1941</li>
@@ -14255,11 +14255,11 @@ comments: false
 <li>Olongapo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14269,8 +14269,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14329,19 +14329,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/580"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/580" alt="hca30/580 thumbnail" /></a></td>
 <td></td>
 <td>Model presentation, USS Houston (CA-30), from 3rd from right, Elisabeth Holcombe Crosswell, A.D. Simpson, William A. Bernreider, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1958</li>
 <li>1958</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -14354,12 +14354,12 @@ comments: false
 <li>Bernreider, William</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14369,8 +14369,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14429,19 +14429,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/583"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/583" alt="hca30/583 thumbnail" /></a></td>
 <td></td>
 <td>Model presentation, USS Houston (CA-30), from 3rd from right, Elisabeth Holcombe Crosswell, A.D. Simpson, William A. Bernreider, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1958</li>
 <li>1958</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -14454,12 +14454,12 @@ comments: false
 <li>Bernreider, William</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14469,8 +14469,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14529,11 +14529,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/374"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/374" alt="hca30/374 thumbnail" /></a></td>
 <td></td>
 <td>Model presentation, USS Houston (CA-30), Mr. Ewing, Mr. L. B. Christenson (who repaired and repainted model)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1958</li>
@@ -14557,12 +14557,12 @@ comments: false
 <li>Christenson, L. B.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14572,8 +14572,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14632,11 +14632,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/595"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/595" alt="hca30/595 thumbnail" /></a></td>
 <td></td>
 <td>Model presentation, USS Houston (CA-30), Oscar Holcombe, Elisabeth Holcombe Crosswell, A.D. Simpson</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1958</li>
@@ -14662,12 +14662,12 @@ comments: false
 <li>Simpson, A. D.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14677,8 +14677,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14737,11 +14737,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/42"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/42" alt="hca30/42 thumbnail" /></a></td>
 <td></td>
 <td>Moro fisherman with Bonka boat, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -14760,11 +14760,11 @@ comments: false
 </ul>
 </td>
 <td>Iloilo, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14774,8 +14774,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14834,11 +14834,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/547"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/547" alt="hca30/547 thumbnail" /></a></td>
 <td></td>
 <td>Mr. and Mrs. Frank D. Ellis, Manila, Philippines, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 13, 1941</li>
@@ -14868,11 +14868,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14882,8 +14882,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -14942,11 +14942,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/103"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/103" alt="hca30/103 thumbnail" /></a></td>
 <td></td>
 <td>Mr. and Mrs. Frank D. Ellis, Manila, Philippines, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 13, 1941</li>
@@ -14976,11 +14976,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -14990,8 +14990,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15050,19 +15050,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/449"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/449" alt="hca30/449 thumbnail" /></a></td>
 <td></td>
 <td>Mrs. Claud B. Hamill christens the USS Houston (CL-81) at launching ceremony, Newport News, Virginia</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
 <li>1943-06-19</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -15079,11 +15079,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15093,8 +15093,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15153,11 +15153,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/529"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/529" alt="hca30/529 thumbnail" /></a></td>
 <td></td>
 <td>Mrs. Claud Hammill christens the new USS Houston (CL-81) during launching ceremony, Newport News, Virginia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -15195,11 +15195,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15209,8 +15209,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15295,11 +15295,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/589"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/589" alt="hca30/589 thumbnail" /></a></td>
 <td></td>
 <td>Mrs. Pressler plays the piano</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -15322,12 +15322,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15337,8 +15337,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15397,11 +15397,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/60"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/60" alt="hca30/60 thumbnail" /></a></td>
 <td></td>
 <td>Naming campaign, Western Union storefront</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Thomson, Cecil M.</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1927</li>
@@ -15414,7 +15414,7 @@ comments: false
 <li>eng</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -15425,12 +15425,12 @@ comments: false
 <li>Thomson, Cecil M.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15440,8 +15440,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15500,11 +15500,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/39"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/39" alt="hca30/39 thumbnail" /></a></td>
 <td></td>
 <td>Newport News Shipyard</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1928</li>
@@ -15538,11 +15538,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15552,8 +15552,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15612,11 +15612,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/389"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/389" alt="hca30/389 thumbnail" /></a></td>
 <td></td>
 <td>Otto Schwarz</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
@@ -15646,11 +15646,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15660,8 +15660,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15720,11 +15720,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/144"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/144" alt="hca30/144 thumbnail" /></a></td>
 <td></td>
 <td>Otto Schwarz and other crew members, Tawi Tawi, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 1941</li>
@@ -15759,11 +15759,11 @@ comments: false
 <li>Tawitawi Island, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15773,8 +15773,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -15833,14 +15833,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/628"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/628" alt="hca30/628 thumbnail" /></a></td>
 <td></td>
 <td>Otto Schwarz with Edward, John, and Trudy Schwarz, Branchbrook Park, Newark, New Jersey</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[approximately 1955]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -15855,11 +15855,11 @@ comments: false
 </ul>
 </td>
 <td>Newark, New Jersey</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15869,27 +15869,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/697"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/697" alt="hca30/697 thumbnail" /></a></td>
 <td></td>
 <td>Person walking on beach</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1938]</li>
 <li>1938~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -15899,12 +15899,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15914,19 +15914,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/131"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/131" alt="hca30/131 thumbnail" /></a></td>
 <td></td>
 <td>Philippine house, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -15955,11 +15955,11 @@ comments: false
 <li>South Sea Islands</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -15969,8 +15969,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16029,19 +16029,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/640"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/640" alt="hca30/640 thumbnail" /></a></td>
 <td></td>
 <td>Photograph of coffee urn and cups from the ship’s silver service, which was presented by the people of the city of Houston</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1930]</li>
 <li>1930~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -16051,12 +16051,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16066,19 +16066,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/607"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/607" alt="hca30/607 thumbnail" /></a></td>
 <td></td>
 <td>Popeye, Olive Oyl, Wimpy and Toar entertain, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -16101,12 +16101,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16116,8 +16116,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16176,11 +16176,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/14"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/14" alt="hca30/14 thumbnail" /></a></td>
 <td></td>
 <td>Popeye, Olive Oyl, Wimpy and Toar entertain, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -16203,12 +16203,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16218,8 +16218,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16278,19 +16278,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/760"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/760" alt="hca30/760 thumbnail" /></a></td>
 <td></td>
 <td>POW camp</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -16301,12 +16301,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16316,19 +16316,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/553"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/553" alt="hca30/553 thumbnail" /></a></td>
 <td></td>
 <td>POW camp, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
@@ -16358,11 +16358,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16372,8 +16372,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16432,11 +16432,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/87"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/87" alt="hca30/87 thumbnail" /></a></td>
 <td></td>
 <td>POW camp, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
@@ -16466,11 +16466,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16480,8 +16480,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16540,11 +16540,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/464"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/464" alt="hca30/464 thumbnail" /></a></td>
 <td></td>
 <td>POW camp, Thailand, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
@@ -16574,11 +16574,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16588,8 +16588,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16648,11 +16648,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/278"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/278" alt="hca30/278 thumbnail" /></a></td>
 <td></td>
 <td>POW camp, Thailand, (image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
@@ -16682,11 +16682,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16696,8 +16696,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -16756,19 +16756,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/687"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/687" alt="hca30/687 thumbnail" /></a></td>
 <td></td>
 <td>POW's belongings, Rat Buri, Thailand</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -16785,11 +16785,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16799,22 +16799,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/667"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/667" alt="hca30/667 thumbnail" /></a></td>
 <td></td>
 <td>POWs at urinal at POW camp</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1942-1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -16825,12 +16825,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16840,27 +16840,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/679"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/679" alt="hca30/679 thumbnail" /></a></td>
 <td></td>
 <td>POWs awaiting evacuation from Rat Buri, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -16877,11 +16877,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16891,27 +16891,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/692"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/692" alt="hca30/692 thumbnail" /></a></td>
 <td></td>
 <td>POWs awaiting evacuation from Rat Buri, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -16928,11 +16928,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16942,27 +16942,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/749"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/749" alt="hca30/749 thumbnail" /></a></td>
 <td></td>
 <td>POWs awaiting evacuation from Rat Buri, Thailand, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -16979,11 +16979,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -16993,27 +16993,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/662"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/662" alt="hca30/662 thumbnail" /></a></td>
 <td></td>
 <td>POWs being evacuated from Rat Buri, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17030,11 +17030,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17044,27 +17044,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/759"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/759" alt="hca30/759 thumbnail" /></a></td>
 <td></td>
 <td>POWs being evacuated from Rat Buri, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17081,11 +17081,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17095,27 +17095,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/629"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/629" alt="hca30/629 thumbnail" /></a></td>
 <td></td>
 <td>POWs being evacuated from Rat Buri, Thailand, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17132,11 +17132,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17146,27 +17146,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/670"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/670" alt="hca30/670 thumbnail" /></a></td>
 <td></td>
 <td>POWs building Burma-Thai Railway</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17183,11 +17183,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17197,27 +17197,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/691"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/691" alt="hca30/691 thumbnail" /></a></td>
 <td></td>
 <td>POWs in 55 Kilo Camp, Burma</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17236,11 +17236,11 @@ comments: false
 <li>Burma</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17250,27 +17250,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/761"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/761" alt="hca30/761 thumbnail" /></a></td>
 <td></td>
 <td>POWs in POW camp, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17281,12 +17281,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17296,22 +17296,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/690"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/690" alt="hca30/690 thumbnail" /></a></td>
 <td></td>
 <td>POWs in POW camp, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>[1942-1945]</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17322,12 +17322,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17337,27 +17337,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/650"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/650" alt="hca30/650 thumbnail" /></a></td>
 <td></td>
 <td>POWs in POW camp, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17368,12 +17368,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17383,27 +17383,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/733"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/733" alt="hca30/733 thumbnail" /></a></td>
 <td></td>
 <td>POWs in POW camp, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17414,12 +17414,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17429,27 +17429,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/689"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/689" alt="hca30/689 thumbnail" /></a></td>
 <td></td>
 <td>POWs in POW camp, (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17460,12 +17460,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17475,27 +17475,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/643"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/643" alt="hca30/643 thumbnail" /></a></td>
 <td></td>
 <td>POWs with nurse, evacuation from Rat Buri, Thailand, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17512,11 +17512,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17526,27 +17526,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/644"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/644" alt="hca30/644 thumbnail" /></a></td>
 <td></td>
 <td>POWs with nurse, evacuation from Rat Buri, Thailand, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17563,11 +17563,11 @@ comments: false
 <li>Rat Buri, Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17577,20 +17577,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/623"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/623" alt="hca30/623 thumbnail" /></a></td>
 <td></td>
 <td>President Franklin D. Roosevelt and Harry Hopkins</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -17609,12 +17609,12 @@ comments: false
 <li>Hopkins, Harry L. (Harry Lloyd), 1890-1946</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17624,19 +17624,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/556"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/556" alt="hca30/556 thumbnail" /></a></td>
 <td></td>
 <td>Prison, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -17655,11 +17655,11 @@ comments: false
 </ul>
 </td>
 <td>Iloilo, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17669,8 +17669,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -17729,12 +17729,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/559"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/559" alt="hca30/559 thumbnail" /></a></td>
 <td></td>
 <td>R.E. Saunders and other crew members</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -17752,12 +17752,12 @@ comments: false
 <li>Saunders, Robert E.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17767,8 +17767,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -17827,19 +17827,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/716"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/716" alt="hca30/716 thumbnail" /></a></td>
 <td></td>
 <td>Railway trestle for Buma-Thai Railway south of Hintok Station, Thailand</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1945]</li>
 <li>1945~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -17856,11 +17856,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17870,19 +17870,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/238"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/238" alt="hca30/238 thumbnail" /></a></td>
 <td></td>
 <td>Ray Nantz entertains with a harmonica</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -17906,12 +17906,12 @@ comments: false
 <li>Nantz, Ray</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -17921,8 +17921,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -17981,19 +17981,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/747"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/747" alt="hca30/747 thumbnail" /></a></td>
 <td></td>
 <td>Rear Admiral William A. Glassford (far left)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942]</li>
 <li>1942</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -18004,12 +18004,12 @@ comments: false
 <li>Glassford, William A. (William Alexander)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18019,19 +18019,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/398"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/398" alt="hca30/398 thumbnail" /></a></td>
 <td></td>
 <td>Rear Admiral William A. Glassford and 1000 Houston Volunteers, Houston, Texas</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Chronicle</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>May 30, 1942</li>
@@ -18064,11 +18064,11 @@ comments: false
 <li>Houston, Texas</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18078,8 +18078,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -18138,11 +18138,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/504"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/504" alt="hca30/504 thumbnail" /></a></td>
 <td></td>
 <td>Santa Claus and Mickey Mouse on deck</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -18165,12 +18165,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18180,8 +18180,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -18240,11 +18240,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/8"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/8" alt="hca30/8 thumbnail" /></a></td>
 <td></td>
 <td>Santa Claus on deck</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -18267,12 +18267,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18282,8 +18282,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -18342,12 +18342,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/632"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/632" alt="hca30/632 thumbnail" /></a></td>
 <td></td>
 <td>Seaplane on USS Houston (CA-30)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -18364,12 +18364,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18379,22 +18379,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/751"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/751" alt="hca30/751 thumbnail" /></a></td>
 <td></td>
 <td>Silver service, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -18404,12 +18404,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18419,22 +18419,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/746"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/746" alt="hca30/746 thumbnail" /></a></td>
 <td></td>
 <td>Silver service, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -18444,12 +18444,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18459,22 +18459,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/655"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/655" alt="hca30/655 thumbnail" /></a></td>
 <td></td>
 <td>Silver service, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -18484,12 +18484,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18499,22 +18499,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/694"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/694" alt="hca30/694 thumbnail" /></a></td>
 <td></td>
 <td>Silver service, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -18524,12 +18524,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18539,22 +18539,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/681"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/681" alt="hca30/681 thumbnail" /></a></td>
 <td></td>
 <td>Silver service, (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -18564,12 +18564,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18579,22 +18579,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/645"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/645" alt="hca30/645 thumbnail" /></a></td>
 <td></td>
 <td>Silver service, (Image 6)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -18604,12 +18604,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18619,20 +18619,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/57"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/57" alt="hca30/57 thumbnail" /></a></td>
 <td></td>
 <td>Soldiers with rifles in Cuba</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -18649,12 +18649,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18664,8 +18664,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -18724,11 +18724,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/178"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/178" alt="hca30/178 thumbnail" /></a></td>
 <td></td>
 <td>Spanish fort, San Antonio Abad, Manila, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -18757,11 +18757,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18771,8 +18771,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -18831,11 +18831,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/172"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/172" alt="hca30/172 thumbnail" /></a></td>
 <td></td>
 <td>Sparks Owens entertains with a saw</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -18859,12 +18859,12 @@ comments: false
 <li>Sparks, Owen</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18874,8 +18874,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -18934,19 +18934,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/137"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/137" alt="hca30/137 thumbnail" /></a></td>
 <td></td>
 <td>Special guests on platform at USS Houston (CA-30) launching ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -18956,12 +18956,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -18971,8 +18971,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19031,11 +19031,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/293"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/293" alt="hca30/293 thumbnail" /></a></td>
 <td></td>
 <td>Statue, El Pueblo de Zamboanga, Iloilo, Philippine Islands, 1941</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>1941.0</td>
 <td>
 <ul>
@@ -19054,11 +19054,11 @@ comments: false
 </ul>
 </td>
 <td>Iloilo, Philippines</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19068,8 +19068,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19128,11 +19128,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/492"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/492" alt="hca30/492 thumbnail" /></a></td>
 <td></td>
 <td>Swimming at Officer's Landing, Guantanamo Bay, Cuba</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1932</li>
@@ -19161,11 +19161,11 @@ comments: false
 <li>Guantanamo Bay, Cuba</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19175,8 +19175,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19235,11 +19235,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/598"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/598" alt="hca30/598 thumbnail" /></a></td>
 <td></td>
 <td>Tailor with pressing iron, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -19268,11 +19268,11 @@ comments: false
 <li>Iloilo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19282,8 +19282,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19342,11 +19342,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/437"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/437" alt="hca30/437 thumbnail" /></a></td>
 <td></td>
 <td>The Seagoing Cowboys</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -19369,12 +19369,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19384,8 +19384,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19444,12 +19444,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/20"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/20" alt="hca30/20 thumbnail" /></a></td>
 <td></td>
 <td>Thomas F. Ball, original chairman, Cruiser Houston Committee</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -19467,12 +19467,12 @@ comments: false
 <li>Ball, Thomas F.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19482,8 +19482,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19542,19 +19542,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/731"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/731" alt="hca30/731 thumbnail" /></a></td>
 <td></td>
 <td>Train on Burma-Thai Railway, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -19565,12 +19565,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19580,19 +19580,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/709"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/709" alt="hca30/709 thumbnail" /></a></td>
 <td></td>
 <td>Train on Burma-Thai Railway, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
@@ -19622,11 +19622,11 @@ comments: false
 <li>Thailand</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19636,27 +19636,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/668"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/668" alt="hca30/668 thumbnail" /></a></td>
 <td></td>
 <td>Train on wooden trestle, Burma-Thai Railway</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -19667,12 +19667,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19682,27 +19682,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/772"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/772" alt="hca30/772 thumbnail" /></a></td>
 <td></td>
 <td>Train, Burma-Thai Railway</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -19713,12 +19713,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19728,19 +19728,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/586"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/586" alt="hca30/586 thumbnail" /></a></td>
 <td></td>
 <td>U.S. Navy plane submerged at sea</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1934</li>
@@ -19763,12 +19763,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19778,8 +19778,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19838,19 +19838,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/624"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/624" alt="hca30/624 thumbnail" /></a></td>
 <td></td>
 <td>Unidentified crowd</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942-1945]</li>
 <li>[1942..1945]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945</li>
@@ -19861,12 +19861,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19876,19 +19876,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/501"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/501" alt="hca30/501 thumbnail" /></a></td>
 <td></td>
 <td>Upper-class house, Iloilo, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -19917,11 +19917,11 @@ comments: false
 <li>Iloilo, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -19931,8 +19931,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -19991,12 +19991,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/480"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/480" alt="hca30/480 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (AK-1), formerly SS Liebenfels</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Our Navy Photos</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -20016,12 +20016,12 @@ comments: false
 <li>USS Houston (AK-1)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20031,8 +20031,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20091,11 +20091,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/467"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/467" alt="hca30/467 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) after refit</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939-1940</li>
@@ -20118,12 +20118,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20133,8 +20133,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20193,11 +20193,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/458"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/458" alt="hca30/458 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) alongside USS Augusta in Manila Bay, Phillippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
@@ -20226,11 +20226,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20240,8 +20240,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20300,12 +20300,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/712"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/712" alt="hca30/712 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) anchored at sea with flags flying and American flag prominent on stern</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Winstead, Geo</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -20322,12 +20322,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20337,19 +20337,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/673"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/673" alt="hca30/673 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) and large crowd at launching ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -20373,12 +20373,12 @@ comments: false
 <li>Holcombe, Elisabeth</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20388,20 +20388,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/395"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/395" alt="hca30/395 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) and USS Augusta (CA-31)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -20418,12 +20418,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20433,8 +20433,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20493,11 +20493,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/17"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/17" alt="hca30/17 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) and USS Peary</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 18, 1942</li>
@@ -20526,12 +20526,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20541,8 +20541,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20601,11 +20601,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/54"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/54" alt="hca30/54 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) and USS Peary, Darwin, Australia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Fraser, Douglas</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>February 18, 1942</li>
@@ -20634,12 +20634,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20649,8 +20649,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20709,19 +20709,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/69"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/69" alt="hca30/69 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) at sea, taken from the air</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1935</li>
 <li>1935</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -20731,12 +20731,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20746,8 +20746,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20806,11 +20806,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/641"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/641" alt="hca30/641 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) at Tjilatjap, Java, with colors at half-mast pending return of her funeral party</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1942</li>
@@ -20833,12 +20833,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20848,27 +20848,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/305"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/305" alt="hca30/305 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) docked with crew member and civilians standing on dock at port side of ship</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1931-1936]</li>
 <li>[1931..1936]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -20878,12 +20878,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20893,8 +20893,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -20953,14 +20953,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/762"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/762" alt="hca30/762 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) docked with crew member hoisting flag on the bow</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -20970,12 +20970,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -20985,27 +20985,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/386"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/386" alt="hca30/386 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) docked with crew member standing on dock in front of bow</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1931-1936]</li>
 <li>[1931..1936]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21015,12 +21015,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21030,8 +21030,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21090,19 +21090,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/196"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/196" alt="hca30/196 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) docked with crew on deck</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1931-1936]</li>
 <li>[1931..1936]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21112,12 +21112,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21127,8 +21127,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21187,19 +21187,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/311"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/311" alt="hca30/311 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) docked with crew on deck and American flag flying from bow</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1931-1936]</li>
 <li>[1931..1936]</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21209,12 +21209,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21224,8 +21224,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21284,11 +21284,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/750"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/750" alt="hca30/750 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) flying the flags of President Franklin D. Roosevelt and Admiral W.D. Leahy, Chief of Naval Operations, during Fleet Problem 20, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>March 20, 1939</li>
@@ -21313,12 +21313,12 @@ comments: false
 <li>Leahy, William D.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21328,20 +21328,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/622"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/622" alt="hca30/622 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in China</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -21364,11 +21364,11 @@ comments: false
 <li>China</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21378,8 +21378,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21438,14 +21438,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/714"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/714" alt="hca30/714 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in dry dock</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21455,12 +21455,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21470,27 +21470,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/162"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/162" alt="hca30/162 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel with refinery in background, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
 <li>1930</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21500,12 +21500,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21515,8 +21515,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21575,19 +21575,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/226"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/226" alt="hca30/226 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
 <li>1930</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21597,12 +21597,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21612,8 +21612,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21672,19 +21672,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/710"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/710" alt="hca30/710 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1936</li>
 <li>1936</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21694,12 +21694,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21709,27 +21709,27 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/665"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/665" alt="hca30/665 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1936</li>
 <li>1936</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21739,12 +21739,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21754,22 +21754,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/287"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/287" alt="hca30/287 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, approaching turning basin, taken from the air, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21779,12 +21779,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21794,8 +21794,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21854,19 +21854,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/416"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/416" alt="hca30/416 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, approaching turning basin, taken from the air, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
 <li>1930</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21876,12 +21876,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21891,8 +21891,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -21951,19 +21951,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/235"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/235" alt="hca30/235 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, at the turning basin with aerial photographer above, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 20, 1930</li>
 <li>1930-10-20</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -21973,12 +21973,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -21988,8 +21988,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22048,19 +22048,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/329"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/329" alt="hca30/329 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, at the turning basin, taken from the air, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 20, 1930</li>
 <li>1930-10-20</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22070,12 +22070,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22085,8 +22085,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22145,19 +22145,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/483"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/483" alt="hca30/483 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, at the turning basin, taken from the air, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
 <li>1930</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22167,12 +22167,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22182,8 +22182,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22242,19 +22242,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/404"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/404" alt="hca30/404 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, escorted by tugboat, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 20, 1930</li>
 <li>1930-10-20</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22264,12 +22264,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22279,8 +22279,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22339,19 +22339,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/247"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/247" alt="hca30/247 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, passing dockyards and approaching turning basin, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 20, 1930</li>
 <li>1930-10-20</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22361,12 +22361,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22376,8 +22376,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22436,19 +22436,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/115"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/115" alt="hca30/115 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, passing refinery, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 20, 1930</li>
 <li>1930-10-20</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22458,12 +22458,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22473,8 +22473,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22533,19 +22533,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/262"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/262" alt="hca30/262 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Houston Ship Channel, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 20, 1930</li>
 <li>1930-10-20</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22555,12 +22555,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22570,8 +22570,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22630,11 +22630,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/613"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/613" alt="hca30/613 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Manila Bay, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -22663,11 +22663,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22677,8 +22677,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22737,19 +22737,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/630"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/630" alt="hca30/630 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Manila Bay, taken from the air, Philippine Islands</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1931]</li>
 <li>1931</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -22765,11 +22765,11 @@ comments: false
 <li>Philippine Islands</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22779,19 +22779,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/250"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/250" alt="hca30/250 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in San Diego, Presidential Cruise, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1932</li>
@@ -22820,11 +22820,11 @@ comments: false
 <li>San Diego, California</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22834,8 +22834,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22894,11 +22894,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/217"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/217" alt="hca30/217 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Ship Channel, taken from the air, (Image 1)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Southwest Air Services</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
@@ -22921,12 +22921,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -22936,8 +22936,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -22996,11 +22996,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/350"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/350" alt="hca30/350 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Ship Channel, taken from the air, (Image 2)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Southwest Air Services</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930</li>
@@ -23023,12 +23023,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23038,8 +23038,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23098,11 +23098,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/338"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/338" alt="hca30/338 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) in Wangpoo [Huangpu] River, Shanghai, China</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930s</li>
@@ -23131,11 +23131,11 @@ comments: false
 <li>Shanghai, China</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23145,8 +23145,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23205,18 +23205,18 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/296"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/296" alt="hca30/296 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) launching ceremony, Newport News, Virginia, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Onlookers watch the USS Houston slide down the ways at its launching ceremony.</td>
 <td>
 <ul>
@@ -23233,11 +23233,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23247,8 +23247,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23307,18 +23307,18 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/314"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/314" alt="hca30/314 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) launching ceremony, Newport News, Virginia, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Onlookers watch the USS Houston set out to sea at its launching ceremony.</td>
 <td>
 <ul>
@@ -23335,11 +23335,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23349,8 +23349,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23409,18 +23409,18 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/610"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/610" alt="hca30/610 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) launching ceremony, Newport News, Virginia, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
 <li>1927-09-07</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>This is a deck-level photo of the USS Houston (CA-30) sliding down the ways during the launching ceremony.</td>
 <td>
 <ul>
@@ -23431,12 +23431,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23446,8 +23446,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23506,11 +23506,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/522"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/522" alt="hca30/522 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) on the Yangtze River, China</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1930s</li>
@@ -23539,11 +23539,11 @@ comments: false
 <li>China</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23553,8 +23553,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23613,11 +23613,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/2"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/2" alt="hca30/2 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing Diamond Head, Hawaiian Territory</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>November 1939?</li>
@@ -23648,11 +23648,11 @@ comments: false
 <li>Hawaiian Territory</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23662,8 +23662,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23722,11 +23722,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/359"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/359" alt="hca30/359 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing San Jacinto Monument and Battleground, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>April 17, 1939</li>
@@ -23749,12 +23749,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23764,8 +23764,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23824,11 +23824,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/347"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/347" alt="hca30/347 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing San Jacinto Monument and Battleground, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>April 17, 1939</li>
@@ -23851,12 +23851,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23866,8 +23866,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -23926,11 +23926,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/477"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/477" alt="hca30/477 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing San Jacinto Monument and Battleground, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>April 17, 1939</li>
@@ -23953,12 +23953,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -23968,8 +23968,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24028,11 +24028,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/106"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/106" alt="hca30/106 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing San Jacinto Monument and Battleground, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>April 17, 1939</li>
@@ -24055,12 +24055,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24070,8 +24070,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24130,11 +24130,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/184"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/184" alt="hca30/184 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing San Jacinto Monument and Battleground, (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>April 17, 1939</li>
@@ -24157,12 +24157,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24172,8 +24172,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24232,14 +24232,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/516"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/516" alt="hca30/516 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing through rural area of Houston Ship Channel, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -24249,12 +24249,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24264,8 +24264,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24324,14 +24324,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/683"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/683" alt="hca30/683 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing under Brooklyn Bridge</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -24341,12 +24341,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24356,20 +24356,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/718"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/718" alt="hca30/718 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) passing under the St. Johns Bridge, Portland, Oregon</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Angelus Studio</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -24392,11 +24392,11 @@ comments: false
 <li>Portland, Oregon</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24406,20 +24406,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/308"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/308" alt="hca30/308 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) photographed from the air with other ships</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Southwest Air Services</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -24436,12 +24436,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24451,8 +24451,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24511,11 +24511,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/577"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/577" alt="hca30/577 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) presented with a piano</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>December 25, 1936</li>
@@ -24538,12 +24538,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24553,8 +24553,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24613,11 +24613,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/422"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/422" alt="hca30/422 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) slides down the ways at its launching ceremony, Newport News, Virginia</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -24646,11 +24646,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24660,8 +24660,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24720,11 +24720,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/652"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/652" alt="hca30/652 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) slides down the ways with American flag displayed on its stern, launching ceremony</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1929</li>
@@ -24747,12 +24747,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24762,19 +24762,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/244"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/244" alt="hca30/244 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) through gunsight</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1942]</li>
@@ -24797,12 +24797,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24812,8 +24812,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -24872,11 +24872,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/757"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/757" alt="hca30/757 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) with President Franklin D. Roosevelt and Admiral W. D. Leahy aboard, taken from the air</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -24901,12 +24901,12 @@ comments: false
 <li>Leahy, William D.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24916,19 +24916,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/368"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/368" alt="hca30/368 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30) with President Franklin D. Roosevelt on board in Caribbean</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -24952,12 +24952,12 @@ comments: false
 <li>Roosevelt, Franklin D. (Franklin Delano), 1882-1945</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -24967,8 +24967,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -25027,11 +25027,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/732"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/732" alt="hca30/732 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>October 1935</li>
@@ -25059,12 +25059,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25074,22 +25074,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/663"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/663" alt="hca30/663 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25099,12 +25099,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25114,22 +25114,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/678"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/678" alt="hca30/678 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25139,12 +25139,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25154,22 +25154,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/651"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/651" alt="hca30/651 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25179,12 +25179,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25194,22 +25194,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/753"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/753" alt="hca30/753 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25219,12 +25219,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25234,22 +25234,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/739"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/739" alt="hca30/739 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 6)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25259,12 +25259,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25274,22 +25274,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/713"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/713" alt="hca30/713 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 7)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25299,12 +25299,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25314,20 +25314,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/443"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/443" alt="hca30/443 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), (Image 8)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Shwartz, Otto</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -25344,12 +25344,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25359,8 +25359,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -25419,12 +25419,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/703"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/703" alt="hca30/703 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), Cocos Island</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -25447,11 +25447,11 @@ comments: false
 <li>Cocos Island (Costa Rica)</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25461,19 +25461,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/299"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/299" alt="hca30/299 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), flying the flags of President Franklin D. Roosevelt and Admiral W.D. Leahy, taken from the air</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Shwartz, Otto</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -25498,12 +25498,12 @@ comments: false
 <li>Leahy, William D.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25513,8 +25513,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -25573,11 +25573,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/648"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/648" alt="hca30/648 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), panoramic photograph, Presidential Cruise, Honolulu, Hawaii</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>July 1934</li>
@@ -25606,11 +25606,11 @@ comments: false
 <li>Honolulu, Hawaii</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25620,20 +25620,20 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/259"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/259" alt="hca30/259 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), President's flag flying from the mainmast</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -25650,12 +25650,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25665,8 +25665,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -25725,14 +25725,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/734"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/734" alt="hca30/734 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 1)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25742,12 +25742,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25757,19 +25757,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/128"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/128" alt="hca30/128 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 10)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1941</li>
@@ -25792,12 +25792,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25807,8 +25807,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -25867,12 +25867,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/165"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/165" alt="hca30/165 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 11)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Southwest Air Services</td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -25889,12 +25889,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25904,8 +25904,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -25964,14 +25964,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/735"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/735" alt="hca30/735 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -25981,12 +25981,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -25996,22 +25996,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/744"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/744" alt="hca30/744 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 3)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -26021,12 +26021,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26036,22 +26036,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/646"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/646" alt="hca30/646 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 4)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -26061,12 +26061,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26076,22 +26076,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/748"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/748" alt="hca30/748 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 5)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -26101,12 +26101,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26116,21 +26116,21 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/147"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/147" alt="hca30/147 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 6)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Inscription on back: "[Note planes pushed behind those on the cats 5 in AA guns were put there later and planes were stowed in hangers on either side of the quarterdeck (aft of th q.d.)]."</td>
 <td>
 <ul>
@@ -26141,12 +26141,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26156,8 +26156,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -26216,14 +26216,14 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/752"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/752" alt="hca30/752 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 7)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -26233,12 +26233,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26248,22 +26248,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/737"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/737" alt="hca30/737 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 8)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -26273,12 +26273,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26288,22 +26288,22 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/721"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/721" alt="hca30/721 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CA-30), taken from the air, (Image 9)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -26313,12 +26313,12 @@ comments: false
 <li>Houston (Cruiser: CA-30)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26328,19 +26328,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/141"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/141" alt="hca30/141 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Governor Coke Stevenson of Texas at the microphone, Newport News, Virginia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -26370,11 +26370,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26384,8 +26384,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -26470,11 +26470,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/24"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/24" alt="hca30/24 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Jesse Jones at center. To the left of Jones is Senator Tom Connally of Texas and behind Jones, tipping his hat, is Governor Coke Stevenson of Texas, Newport News, Virginia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -26506,11 +26506,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26520,8 +26520,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -26606,11 +26606,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/91"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/91" alt="hca30/91 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Mayor Otis Massey of Houston, Texas at the microphone, Newport News, Virginia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -26641,11 +26641,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26655,8 +26655,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -26741,11 +26741,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/474"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/474" alt="hca30/474 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Mayor Otis Massey of Houston, Texas, Mrs. Claud Hammill, sponsor, Newport News, Virginia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -26776,11 +26776,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26790,8 +26790,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -26876,11 +26876,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/269"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/269" alt="hca30/269 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Mrs. Claud Hammill christens the new cruiser, Houston, Newport News, Virginia</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -26910,11 +26910,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -26924,8 +26924,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27010,11 +27010,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/169"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/169" alt="hca30/169 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Newport News, Virginia, (Image 1)</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>United States. Navy</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -27043,11 +27043,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27057,8 +27057,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27143,11 +27143,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/122"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/122" alt="hca30/122 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston (CL-81) launching ceremony, Newport News, Virginia, (Image 2)</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>June 19, 1943</li>
@@ -27176,11 +27176,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27190,8 +27190,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27276,11 +27276,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/125"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/125" alt="hca30/125 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston baseball team, Manila, Philippines</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1940</li>
@@ -27309,11 +27309,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27323,8 +27323,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27383,11 +27383,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/344"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/344" alt="hca30/344 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston naming announcement, arrival of Navy Secretary Curtis D. Wilbur at Southern Pacific Station, Newport News, Virginia</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 7, 1927</li>
@@ -27417,11 +27417,11 @@ comments: false
 <li>Newport News, Virginia</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27431,8 +27431,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27491,11 +27491,11 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/470"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/470" alt="hca30/470 thumbnail" /></a></td>
 <td></td>
 <td>USS Houston's party to USS Kent, Manila, Philippines</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Photo Finishing Corp., Manila P.I.</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>January 24, 1933</li>
@@ -27524,11 +27524,11 @@ comments: false
 <li>Manila, Philippines</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27538,8 +27538,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27598,19 +27598,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/700"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/700" alt="hca30/700 thumbnail" /></a></td>
 <td></td>
 <td>Valdon Roberts</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[approximately 1947]</li>
 <li>1942~</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945 -- Naval operations, American</li>
@@ -27621,12 +27621,12 @@ comments: false
 <li>Roberts, Valdon</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27636,19 +27636,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/742"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/742" alt="hca30/742 thumbnail" /></a></td>
 <td></td>
 <td>W.O. Frederick</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>1939</li>
@@ -27672,12 +27672,12 @@ comments: false
 <li>Frederick, W. O.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27687,34 +27687,34 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/770"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/770" alt="hca30/770 thumbnail" /></a></td>
 <td></td>
 <td>Werdenfels</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>Ships</li>
 <li>USS Houston (AK-1)</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27724,19 +27724,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/638"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/638" alt="hca30/638 thumbnail" /></a></td>
 <td></td>
 <td>White House reception for USS Houston (CA-30), Washington, D.C.</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Schutz</td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>September 6, 1929</li>
@@ -27771,11 +27771,11 @@ comments: false
 <li>Washington, DC</li>
 </ul>
 </td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27785,19 +27785,19 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/371"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/371" alt="hca30/371 thumbnail" /></a></td>
 <td></td>
 <td>William C. Batchelor, Jr.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>[1929]</li>
@@ -27821,12 +27821,12 @@ comments: false
 <li>Batchelor, William C., Jr.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27836,8 +27836,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27896,19 +27896,19 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/601"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/601" alt="hca30/601 thumbnail" /></a></td>
 <td></td>
 <td>William C. Batchelor, Jr., gravestone</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>November 5, 1948</li>
 <li>1948-11-05</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>World War, 1939-1945--Naval operations, American</li>
@@ -27919,12 +27919,12 @@ comments: false
 <li>Batchelor, William C., Jr.</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -27934,8 +27934,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -27994,12 +27994,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/118"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/118" alt="hca30/118 thumbnail" /></a></td>
 <td></td>
 <td>William Dow Newton, S/1c</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -28017,12 +28017,12 @@ comments: false
 <li>Newton, William Dow</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -28032,8 +28032,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
@@ -28092,12 +28092,12 @@ comments: false
 <td><a href="http://digital.lib.uh.edu/collection/hca30/item/36"><img src="http://digital.lib.uh.edu/contentdm/image/thumbnail/hca30/36" alt="hca30/36 thumbnail" /></a></td>
 <td></td>
 <td>William Martin DeShields</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>
 <ul>
 <li>English</li>
@@ -28115,12 +28115,12 @@ comments: false
 <li>DeShields, William Martin</li>
 </ul>
 </td>
-<td></td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
+<td style="background-color: #e6e6e6"></td>
 <td>black-and-white photographs</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>Still Image</td>
-<td></td>
+<td style="background-color: #e6e6e6"></td>
 <td>n/a</td>
 <td>
 <ul>
@@ -28130,8 +28130,8 @@ comments: false
 </ul>
 </td>
 <td>n/a</td>
-<td></td>
-<td>Educational use only, no other permissions given. Copyright to this resource is held by the content creator, author, artist or other entity, and is provided here for educational purposes only. It may not be reproduced or distributed in any format without written permission of the copyright owner. For more information please see UH Digital Library Fair Use policy on the UH Digital Library About page.</td>
+<td style="background-color: #e6e6e6"></td>
+<td>Educational Use</td>
 <td>n/a</td>
 </tr>
 <tr>
