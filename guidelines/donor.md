@@ -1,7 +1,7 @@
 ---
 layout: template1
 title: Donor
-data: provenance
+data: donor
 comments: false
 ---
 

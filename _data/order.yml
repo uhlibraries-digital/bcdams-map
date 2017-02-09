@@ -19,7 +19,7 @@ administrative:
   - accessRights
   - aSpaceUri
   - isPartOf
-  - provenance
+  - donor
   - identifier
   - note
   - rights
@@ -43,7 +43,7 @@ brays:
   - identifier
   - isPartOf
   - aSpaceUri
-  - provenance
+  - donor
   - rights
   - accessRights
   - note
