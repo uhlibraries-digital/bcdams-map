@@ -55,7 +55,7 @@ isPartOf:
 aSpaceUri:
     input: "single"
     visible: false
-provenance:
+donor:
     input: "single"
     visible: true
 rights:
