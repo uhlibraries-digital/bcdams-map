@@ -23,7 +23,9 @@ __Capitalization:__
 
 __Letter:__ Letter from [sender] to [recipient], [YYYY Month DD]
 
-__Newsletter:__ [title of newsletter], [issue date]
+__Serials (e.g. newsletters):__ [title of newsletter], Vol. [volume number], No. [issue number],[issue date]
+
+If volume and/or issue numbers are in Roman numerals, Use Arabic numerals (e.g. 1, 2, 3...) in titles and repeat title with Roman numerals in Alternative Title field.
 
 __Book:__ Title from the catalog record
 
