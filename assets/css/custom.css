@@ -52,8 +52,9 @@ body {
  */
 .footer {
   background-color: #c8102e;
+  border-color: #CC102F;
 }
-.footer .footerBox > a {
+.footer .footerBox > p > a {
   color: #777;
 }
 
