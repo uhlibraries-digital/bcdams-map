@@ -23,6 +23,9 @@ body {
   padding-bottom: 15px;
 }
 
+/**
+ * Navbar
+ */
 .navbar-default {
   background-color: #c8102e;
   border-color: #CC102F;
@@ -30,8 +33,18 @@ body {
 .navbar-default .navbar-brand {
   color: #f0e6b1;
 }
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+  color: #e7d57e;
+  background-color: transparent;
+}
 .navbar-default .navbar-nav > li > a {
   color: #fff;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #f2f2f2;
+  background-color: transparent;
 }
 
 /**
