@@ -48,6 +48,16 @@ body {
 }
 
 /**
+ * Footer
+ */
+.footer {
+  background-color: #c8102e;
+}
+.footer .footerBox > a {
+  color: #777;
+}
+
+/**
  * Tables
  */
 table,
