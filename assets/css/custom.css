@@ -23,6 +23,17 @@ body {
   padding-bottom: 15px;
 }
 
+.navbar-default {
+  background-color: #c8102e;
+  border-color: #CC102F;
+}
+.navbar-default .navbar-brand {
+  color: #f0e6b1;
+}
+.navbar-default .navbar-nav > li > a {
+  color: #fff;
+}
+
 /**
  * Tables
  */
