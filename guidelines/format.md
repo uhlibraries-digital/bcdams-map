@@ -9,6 +9,8 @@ comments: false
 
 **DPLA MAP v4 Usage:** Physical medium or dimensions of described resource.
 
-Values for Physical Description will be supplied by repository or catalog record. For items with catalog records, use value in the MARC 340 field.
+Enter the medium of the described resource.
 
-For archival collections: Number of objects (expressed as a digit) + (if applicable) [description of object unit] + (if applicable) [type of marking on object] + format of object + (if applicable) ", front and back"
+__EXAMPLES__
+- Graphite pencil and ink on vellum
+- Mixed media (textiles, acrylic, found objects)
