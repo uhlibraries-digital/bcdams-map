@@ -1,7 +1,7 @@
 ---
 layout: template1
 title: Series Title
-data: series
+data: partOf
 comments: false
 ---
 
