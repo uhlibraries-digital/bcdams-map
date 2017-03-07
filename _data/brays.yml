@@ -4,7 +4,7 @@ title:
 alternative:
     input: "single"
     visible: true
-series:
+partOf:
     input: "single"
     visible: true
 creator:

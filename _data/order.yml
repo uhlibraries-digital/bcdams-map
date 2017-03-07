@@ -10,7 +10,7 @@ descriptive:
   - language
   - spatial
   - publisher
-  - series
+  - partOf
   - subject
   - temporal
   - title
@@ -26,7 +26,7 @@ administrative:
 brays:
   - title
   - alternative
-  - series
+  - partOf
   - creator
   - contributor
   - publisher

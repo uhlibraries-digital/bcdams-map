@@ -1,0 +1,10 @@
+label: "Series Title"
+namespace: "bf"
+name: "partOf"
+definition: "Resource in which the described resource is physically or logically contained."
+source: "http://id.loc.gov/ontologies/bibframe#p_partOf"
+obligation: "optional"
+type: "descriptive"
+repeatable: true
+range:
+  - label: "String"
