@@ -9,4 +9,10 @@ comments: false
 
 **DPLA MAP v4 Usage:** ID of described resource within a given context.
 
-An identifier that uniquely identifies the resource within a given context. Examples include a call number from the library catalog or a system generated ARK URI.
+An identifier that uniquely identifies the resource within a given context.
+
+__Examples:__
+- Call number from the library catalog
+- OCLC number
+- Location (e.g. 1970-001, Box 5, Folder 20)
+- System generated ARK URI.
