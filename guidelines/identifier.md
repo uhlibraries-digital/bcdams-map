@@ -11,7 +11,7 @@ comments: false
 
 An identifier that uniquely identifies the resource within a given context.
 
-__Examples:__
+__EXAMPLES__
 - Call number from the library catalog
 - OCLC number
 - Location (e.g. 1970-001, Box 5, Folder 20)
