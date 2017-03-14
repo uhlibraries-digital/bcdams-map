@@ -11,5 +11,7 @@ range:
     values:
       - "In Copyright"
       - "In Copyright - Copyright Owner Unlocatable or Unidentifiable"
+      - "In Copyright - Educational Use Permitted"
+      - "No Copyright - United States"
       - "Public Domain"
       - "Rights Undetermined"
