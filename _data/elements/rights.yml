@@ -9,6 +9,7 @@ repeatable: false
 range:
   - label: "Rights Statement"
     values:
-      - "Copyright"
-      - "Educational Use"
+      - "In Copyright"
+      - "In Copyright - Copyright Owner Unlocatable or Unidentifiable"
       - "Public Domain"
+      - "Rights Undetermined"
