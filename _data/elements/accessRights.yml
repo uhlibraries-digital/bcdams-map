@@ -8,3 +8,9 @@ type: "administrative"
 repeatable: false
 range:
   - label: "Access Rights Statement"
+    values:
+      - "Individual"
+      - "Staff"
+      - "Campus"
+      - "Authentication"
+      - "Public"
