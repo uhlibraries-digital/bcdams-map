@@ -23,7 +23,7 @@ EDTF | Natural language
 1945? | 1945?
 1981~ | approximately 1981
 1981% | approximately 1981?
-~1940/~1950 | approximately 1940-approximately 1950
+1940~/1950~ | approximately 1940-approximately 1950
 1975-23 | Fall 1975
 197x | 1970s
 19xx | 1900s
