@@ -8,3 +8,4 @@ type: "administrative"
 repeatable: true
 range:
   - label: "Collection"
+    uri: "https://id.lib.uh.edu/ark:/84475/au0511xd315"
