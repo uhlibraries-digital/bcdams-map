@@ -1,69 +1,92 @@
 title:
     input: "single"
     visible: true
+    editable: true
 alternative:
     input: "single"
     visible: true
+    editable: true
 partOf:
     input: "single"
     visible: true
+    editable: true
 creator:
     input: "single"
     visible: true
+    editable: true
 contributor:
     input: "single"
     visible: true
+    editable: true
 publisher:
     input: "single"
     visible: true
+    editable: true
 date:
     input: "single"
     visible: true
+    editable: true
 language:
     input: "single"
     visible: true
+    editable: true
 description:
     input: "multi"
     visible: true
+    editable: true
 subject:
     input: "single"
     visible: true
+    editable: true
 spatial:
     input: "single"
     visible: true
+    editable: true
 temporal:
     input: "single"
     visible: true
+    editable: true
 hasType:
     input: "single"
     visible: true
+    editable: true
 format:
     input: "single"
     visible: true
+    editable: true
 type:
     input: "single"
     visible: true
+    editable: true
 extent:
     input: "single"
     visible: true
+    editable: true
 identifier:
     input: "single"
     visible: true
+    editable: true
 isPartOf:
     input: "single"
     visible: true
+    editable: true
 aSpaceUri:
     input: "single"
-    visible: false
+    visible: true
+    editable: false
 donor:
     input: "single"
     visible: true
+    editable: true
 rights:
     input: "single"
     visible: true
+    editable: true
 accessRights:
     input: "single"
     visible: true
+    editable: true
 note:
     input: "multi"
     visible: true
+    editable: true
