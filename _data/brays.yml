@@ -90,3 +90,7 @@ note:
     input: "multi"
     visible: true
     editable: true
+source:
+    input: "single"
+    visible: true
+    editable: false

@@ -22,6 +22,7 @@ administrative:
   - donor
   - identifier
   - note
+  - source
   - rights
 brays:
   - title
@@ -47,6 +48,7 @@ brays:
   - rights
   - accessRights
   - note
+  - source
 carpenters:
   - title
   - creator

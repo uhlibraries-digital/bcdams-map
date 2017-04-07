@@ -1,0 +1,10 @@
+label: "Preservation Location"
+namespace: "dcterms"
+name: "source"
+definition: "A related resource from which the described resource is derived."
+source: "http://purl.org/dc/terms/source"
+obligation: "stronglyRecommended"
+type: "administrative"
+repeatable: true
+range:
+  - label: "Preservation ARK Identifier"
