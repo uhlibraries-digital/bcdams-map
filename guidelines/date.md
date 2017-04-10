@@ -25,8 +25,8 @@ EDTF | Natural language
 1981% | approximately 1981?
 1940~/1950~ | approximately 1940-approximately 1950
 1975-23 | Fall 1975
-197x | 1970s
-19xx | 1900s
+197X | 1970s
+19XX | 1900s
 1981/1985 | 1981-1985
 [1888, 1889, 1891] | 1888, 1889 or 1891
 {1888, 1889, 1891} | 1888, 1889 and 1891
