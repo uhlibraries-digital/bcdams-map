@@ -15,8 +15,8 @@ Separate multiple entries with a semicolon followed by a space.
 
 __EXAMPLES__
 
-Title | Alternate Title | Notes
-------|-----------------|------
+Title                    | Alternate Title | Notes
+-------------------------|-----------------|------
 Kursus der klassischen baukunst. Die fünf ordnungen | Kursus der klassischen baukunst. Die fünf ordnungen, eine vollständige zerlegung derselben auf grundlage des decimalsystems und ihre praktische verwerthung | The full title of the resources is very long, so a shortened version of the title is entered into the `Title` field and the full title is entered into the `Alternate Title` field. If there was a translation of this title, it would also be entered in the `Alternate Title` field as an additional entry.
 Actualité. Les Trois Larrons | Current Affairs: The Three Thiefs | An English translation of the French title that appears on the piece is entered into the `Alternate Title` field
 The Blue Bonnet, Vol. 3, No. 16, 1936-04-25 | The Blue Bonnet, Vol. III, No. XVI, 1936-04-25 | The title of this newsletter is entered according to the `Title` [input guidelines](https://vocab.lib.uh.edu/bcdams-map/guidelines/title) which includes changing Roman numerals to Arabic numerals. If the original numbers on the piece are Roman numerals, the title of the resource is repeated in `Alternative Title` with Roman numerals instead of Arabic numerals  
