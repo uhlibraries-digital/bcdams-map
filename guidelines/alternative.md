@@ -9,7 +9,7 @@ comments: false
 
 **DPLA MAP v4 Usage:** Any alternative title of the described resource including abbreviations and translations.
 
-Alternative title from the catalog record. This may include a translated title, the long form of a title that was shortened in the `Title` field, or alternate ways of presenting the value found in the `Title` field. For translated titles, enter the title that appears on the resource in the `Title` field and enter the translated title in this field.
+Alternative title of the resource. This may include a translated title, the long form of a title that was shortened in the `Title` field, or alternate ways of presenting the value found in the `Title` field. For translated titles, enter the title that appears on the resource in the `Title` field and enter the translated title in this field.
 
 Separate multiple entries with a semicolon followed by a space.
 
