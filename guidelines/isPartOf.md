@@ -15,7 +15,7 @@ Enter collection names in order from broadest to narrowest.
 
 __EXAMPLES__
 
-A single object in the Marjorie Randal National Women’s Conference Collection would have the following entries in the Collection field in this order:
+A single object in the Marjorie Randal National Women’s Conference Collection would have the following entries in the `Collection` field in this order:
 - University of Houston Libraries Special Collections
 - Carey C. Shuart Women’s Research Collection
 - Marjorie Randal National Women’s Conference Collection
