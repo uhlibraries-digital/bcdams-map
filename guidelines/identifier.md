@@ -12,7 +12,10 @@ comments: false
 An identifier that uniquely identifies the resource within a given context.
 
 __EXAMPLES__
-- Call number from the library catalog
-- OCLC number
-- Location (e.g. 1970-001, Box 5, Folder 20)
-- System generated ARK URI.
+
+Type | Example
+-----|-----
+Call Number | NA271.S5
+OCLC Number | 3449402
+Archival Location | ID 1996-007, Box 2, Folder 10
+ARK | https://id.lib.uh.edu/ark:/84475/do4846d3396
