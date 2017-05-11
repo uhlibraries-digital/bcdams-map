@@ -16,6 +16,6 @@ __EXAMPLES__
 Type | Example
 -----|-----
 Call Number | NA271.S5
-OCLC Number | 3449402
+OCLC Number | OCLC: 3449402
 Archival Location | ID 1996-007, Box 2, Folder 10
 ARK | https://id.lib.uh.edu/ark:/84475/do4846d3396
