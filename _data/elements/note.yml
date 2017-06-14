@@ -7,3 +7,5 @@ type: "administrative"
 repeatable: false
 range:
   - label: "String"
+crosswalk:
+  - avalon: "Note"

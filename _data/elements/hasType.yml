@@ -8,3 +8,5 @@ type: "descriptive"
 repeatable: true
 range:
   - label: "AAT Genre Term"
+crosswalk:
+  - avalon: "Genre"

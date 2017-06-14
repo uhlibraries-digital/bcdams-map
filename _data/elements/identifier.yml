@@ -8,3 +8,5 @@ type: "administrative"
 repeatable: true
 range:
   - label: "String"
+crosswalk:
+  - avalon: "Other Identifier"

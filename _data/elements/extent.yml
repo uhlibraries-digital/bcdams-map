@@ -8,3 +8,5 @@ type: "descriptive"
 repeatable: true
 range:
   - label: "String"
+crosswalk:
+  - avalon: "Physical Description"

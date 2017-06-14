@@ -9,3 +9,5 @@ repeatable: true
 range:
   - label: "Agent"
     uri: "https://id.lib.uh.edu/ark:/84475/au58708x76f"
+crosswalk:
+  - avalon: "Creator"
