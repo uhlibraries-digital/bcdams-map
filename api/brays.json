@@ -12,9 +12,9 @@ layout: nil
 		"name": "{{ element.name }}",
 		"definition": "{{ element.definition }}",
 		"uri": "{{ site.url }}#{{ element.name }}",
-		"guidelines": "{{ site.url }}/guidelines/{{ element.name }}"
-		{% if element.source %},"source": "{{ element.source }}"{% endif %}
-		{% if element.crosswalk %},"crosswalk": {{ element.crosswalk | jsonify }}{% endif %},
+		"guidelines": "{{ site.url }}/guidelines/{{ element.name }}",
+		{% if element.source %}"source": "{{ element.source }}",{% endif %}
+		{% if element.crosswalk %}"crosswalk": {{ element.crosswalk | jsonify }},{% endif %}
 		"range": {{ element.range | jsonify }},
 		"obligation": "{{ element.obligation }}",
 		"type": "{{ element.type }}",
