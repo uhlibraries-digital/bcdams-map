@@ -10,4 +10,5 @@ range:
   - label: "Place"
     uri: "https://id.lib.uh.edu/ark:/84475/au9146r1446"
 crosswalk:
-  - avalon: "Geographic Subject"
+  avalon:
+    label: "Geographic Subject"

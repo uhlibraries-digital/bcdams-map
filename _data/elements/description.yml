@@ -9,4 +9,5 @@ repeatable: false
 range:
   - label: "String"
 crosswalk:
-  - avalon: "Abstract"
+  avalon:
+    label: "Abstract"

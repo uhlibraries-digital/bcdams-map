@@ -16,4 +16,5 @@ range:
       - "Public Domain"
       - "Rights Undetermined"
 crosswalk:
-  - avalon: "Terms of Use"
+  avalon:
+    label: "Terms of Use"

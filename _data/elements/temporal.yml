@@ -9,4 +9,5 @@ repeatable: true
 range:
   - label: "Time Period"
 crosswalk:
-  - avalon: "Temporal Subject"
+  avalon:
+    label: "Temporal Subject"

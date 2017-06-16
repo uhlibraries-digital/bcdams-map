@@ -9,4 +9,5 @@ repeatable: true
 range:
   - label: "String"
 crosswalk:
-  - avalon: "Physical Description"
+  avalon:
+    label: "Physical Description"

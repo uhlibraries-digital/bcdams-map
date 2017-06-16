@@ -8,4 +8,5 @@ repeatable: false
 range:
   - label: "String"
 crosswalk:
-  - avalon: "Note"
+  avalon:
+    label: "Note"

@@ -9,4 +9,5 @@ repeatable: true
 range:
   - label: "String"
 crosswalk:
-  - avalon: "Other Identifier"
+  avalon:
+    label: "Other Identifier"

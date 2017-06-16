@@ -9,4 +9,5 @@ repeatable: true
 range:
   - label: "EDTF Date"
 crosswalk:
-  - avalon: "Date Issued"
+  avalon:
+    label: "Date Issued"
