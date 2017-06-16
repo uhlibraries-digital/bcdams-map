@@ -9,4 +9,6 @@ repeatable: false
 range:
   - label: "String"
 crosswalk:
-  - avalon: "Title"
+  avalon:
+    label: "Title"
+    type: "Empty"
