@@ -10,5 +10,5 @@ range:
   - label: "String"
 crosswalk:
   avalon:
-    label: "identifier"
+    label: "other identifier"
     type: "other"
