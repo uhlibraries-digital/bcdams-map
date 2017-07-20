@@ -9,4 +9,5 @@ range:
   - label: "String"
 crosswalk:
   avalon:
-    label: "Note"
+    label: "note"
+    type: "general"
