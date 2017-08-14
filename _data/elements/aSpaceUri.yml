@@ -7,3 +7,7 @@ type: "administrative"
 repeatable: false
 range:
   - label: "ArchivesSpace Object URI"
+crosswalk:
+  avalon:
+    label: "other identifier"
+    type: "aspace uri"
