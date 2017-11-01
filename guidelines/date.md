@@ -19,7 +19,7 @@ __EXAMPLES__
 
 EDTF | Natural language
 ------|---------
-1975-07-01  | January 1, 1975
+1975-01-07  | January 7, 1975
 1945? | 1945?
 1981~ | approximately 1981
 1981% | approximately 1981?
