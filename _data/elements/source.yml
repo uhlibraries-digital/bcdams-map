@@ -8,3 +8,7 @@ type: "administrative"
 repeatable: true
 range:
   - label: "Preservation ARK Identifier"
+crosswalk:
+  avalon:
+    label: "other identifier"
+    type: "preservation location"

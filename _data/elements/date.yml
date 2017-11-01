@@ -8,3 +8,6 @@ type: "descriptive"
 repeatable: true
 range:
   - label: "EDTF Date"
+crosswalk:
+  avalon:
+    label: "Date Issued"

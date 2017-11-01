@@ -5,6 +5,18 @@ layout: nil
 [
 {% for field in site.data.order.carpenters %}
 	{% assign element = site.data.elements[field] %}
-	{"label": "{{ element.label }}","namespace": "{{ element.namespace }}","name": "{{ element.name }}","definition": "{{ element.definition }}","uri": "{{ site.url }}#{{ element.name }}","guidelines": "{{ site.url }}/guidelines/{{ element.name }}"{% if element.source %},"source": "{{ element.source }}"{% endif %},"range": [{% for r in element.range %}{{ r | jsonify }}{% if forloop.last == false %},{% endif %}{% endfor %}],"obligation": "{{ element.obligation }}","type": "{{ element.type }}","repeatable": {{ element.repeatable }}}{% if forloop.last == false %},{% endif %}
+	{
+		"label": "{{ element.label }}",
+		"namespace": "{{ element.namespace }}",
+		"name": "{{ element.name }}",
+		"definition": "{{ element.definition }}",
+		"uri": "{{ site.url }}#{{ element.name }}",
+		"guidelines": "{{ site.url }}/guidelines/{{ element.name }}",
+		{% if element.source %}"source": "{{ element.source }}",{% endif %}
+		"range": {{ element.range | jsonify }},
+		"obligation": "{{ element.obligation }}",
+		"type": "{{ element.type }}",
+		"repeatable": {{ element.repeatable }}
+	}{% if forloop.last == false %},{% endif %}
 {% endfor %}
 ]

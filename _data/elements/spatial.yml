@@ -9,3 +9,6 @@ repeatable: true
 range:
   - label: "Place"
     uri: "https://id.lib.uh.edu/ark:/84475/au9146r1446"
+crosswalk:
+  avalon:
+    label: "Geographic Subject"

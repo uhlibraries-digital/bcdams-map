@@ -12,3 +12,6 @@ range:
       - eng
       - fre
       - spa
+crosswalk:
+  avalon:
+    label: "Language"

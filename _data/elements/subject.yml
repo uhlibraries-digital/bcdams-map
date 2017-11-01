@@ -11,3 +11,6 @@ range:
     uri: "https://id.lib.uh.edu/ark:/84475/au58708x76f"
   - label: "Concept"
     uri: "https://id.lib.uh.edu/ark:/84475/au0477sn120"
+crosswalk:
+  avalon:
+    label: "Topical Subject"

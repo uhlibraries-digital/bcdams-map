@@ -4,6 +4,10 @@ name: "note"
 definition: "Additional information about the described resource."
 obligation: "optional"
 type: "administrative"
-repeatable: false
+repeatable: true
 range:
   - label: "String"
+crosswalk:
+  avalon:
+    label: "note"
+    type: "general"

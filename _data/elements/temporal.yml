@@ -8,3 +8,6 @@ type: "descriptive"
 repeatable: true
 range:
   - label: "Time Period"
+crosswalk:
+  avalon:
+    label: "Temporal Subject"
