@@ -1,40 +1,9 @@
 ---
 layout: template1
+title: Contact
 comments: false
 ---
 
 <div class="jumbotron">
   <p>For questions about the BCDAMS-MAP, please contact <a href="https://apps.lib.uh.edu/staff/members/profile/ajweidner">Andy Weidner</a> or <a href="https://apps.lib.uh.edu/staff/members/profile/awashington">Anne Washington</a>.</p>
 </div>
-
-<!-- Use this form to contact the Bayou City DAMS implementation team.<br/>
-
-<div class="panel panel-default shadow1">
-      <div class="panel-heading">
-        <h4 class="text-primary">Contact</h4>
-      </div>
-      <div class="panel-body">
-            <form id="contactform" method="POST">
-                  <div class="form-group">
-                        <label for="name" class="control-label">Your name</label>
-                        <input id="name" type="text" name="name" class="form-control">
-                  </div>
-                  <div class="form-group">
-                        <label for="email" class="control-label">Your email</label>
-                        <input id="email" type="email" name="_replyto" class="form-control">
-                  </div>
-                  <div class="form-group">
-                        <label for="msg" class="control-label">Your message</label>
-                        <textarea id="msg" name="message" class="form-control"></textarea>
-                  </div>
-
-                  <input type="text" name="_gotcha" style="display:none" />
-                  <input type="submit" value="SEND" class="btn btn-primary">
-            </form>
-      </div>
-</div>
-
-<script>
-    var contactform =  document.getElementById('contactform');
-    contactform.setAttribute('action', '//formspree.io/' + 'metaweidner' + '@' + 'gmail' + '.' + 'com');
-</script> -->
