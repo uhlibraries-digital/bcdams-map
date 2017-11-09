@@ -3,7 +3,9 @@ layout: template1
 comments: false
 ---
 
-Use this form to contact the Bayou City DAMS implementation team.<br/>
+For questions about the BCDAMS-MAP, please contact [Andy Weidner](https://apps.lib.uh.edu/staff/members/profile/ajweidner) or [Anne Washington](https://apps.lib.uh.edu/staff/members/profile/awashington).
+
+<!-- Use this form to contact the Bayou City DAMS implementation team.<br/>
 
 <div class="panel panel-default shadow1">
       <div class="panel-heading">
@@ -33,4 +35,4 @@ Use this form to contact the Bayou City DAMS implementation team.<br/>
 <script>
     var contactform =  document.getElementById('contactform');
     contactform.setAttribute('action', '//formspree.io/' + 'metaweidner' + '@' + 'gmail' + '.' + 'com');
-</script>
+</script> -->
