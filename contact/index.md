@@ -3,7 +3,9 @@ layout: template1
 comments: false
 ---
 
-For questions about the BCDAMS-MAP, please contact [Andy Weidner](https://apps.lib.uh.edu/staff/members/profile/ajweidner) or [Anne Washington](https://apps.lib.uh.edu/staff/members/profile/awashington).
+<div class="jumbotron">
+  <p>For questions about the BCDAMS-MAP, please contact <a href="https://apps.lib.uh.edu/staff/members/profile/ajweidner">Andy Weidner</a> or <a href="https://apps.lib.uh.edu/staff/members/profile/awashington">Anne Washington</a>.</p>
+</div>
 
 <!-- Use this form to contact the Bayou City DAMS implementation team.<br/>
 
