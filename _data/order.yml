@@ -52,5 +52,6 @@ brays:
 carpenters:
   - title
   - date
-  - isPartOf
   - identifier
+  - isPartOf
+  - note
