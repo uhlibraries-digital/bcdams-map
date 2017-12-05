@@ -52,6 +52,7 @@ brays:
 carpenters:
   - title
   - date
+  - aSpaceUri
   - identifier
   - isPartOf
   - note
