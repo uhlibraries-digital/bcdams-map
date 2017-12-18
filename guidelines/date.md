@@ -31,7 +31,8 @@ EDTF | Natural language
 [1888, 1889, 1891] | 1888, 1889 or 1891
 {1888, 1889, 1891} | 1888, 1889 and 1891
 
-Early, late, and mid dates
+
+__Early, late, and mid dates__
 
 Where Y's represent the century or decade:
 
