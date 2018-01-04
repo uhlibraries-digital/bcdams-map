@@ -43,7 +43,7 @@ Mid-century | YY30~/YY70~ | approximately YY30-approximately YY70 | Mid 19th cen
 Late century | YY70~/YY99~ | approximately YY70-approximately YY99 | Late 20th century = 1970~/1999~ = approximately 1970-approximately 1999
 Early __decade__ | YYY0~/YYY3~ | approximately YYY0-approximately YYY3 | Early 1940s = 1940~/1943~ = approximately 1940-approximately 1943
 Mid-decade | YYY3~/YYY7~ | approximately YYY3-approximately YYY7 | Mid 1950s = 1953~/1957~ = approximately 1943-approximately 1947
-Late decade | YYY7~/YYY9~ | approximately YYY7-approximately YYY9 | Early 1940s = 1940~/1943~ = approximately 1947-approximately 1949
+Late decade | YYY7~/YYY9~ | approximately YYY7-approximately YYY9 | Late 1940s = 1947~/1949~ = approximately 1947-approximately 1949
 
 __Notes__
 - In legacy data, you may see the natual language date "approximately 1920-1930." In EDTF, the "approximately" applies to the year directly following that word, so in this example, 1920 is considered approximate and 1930 is considered a known date. In EDTF, it would be expressed as 1920~/1930. To indicate that the entire range is approximate, you must indicate that each year is approximate, e.g. 1940~/1950~ which means "approximately 1940-approximately 1950."
