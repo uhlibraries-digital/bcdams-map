@@ -19,25 +19,16 @@ __Capitalization:__
 
  - Capitalize the first word and proper nouns
  - Keep other capitalization the same as it is found on the item
- - If the title is taken from a catalog, copy the capitalization from the record
+ - If the title is taken from a catalog record, copy the capitalization from the record
 
-__Letter:__ Letter from [sender] to [recipient], [YYYY Month DD]
+Resource Type | Title Guidelines | Example(s)
+--------------|------------------|-----------
+__Letter__ | `Letter from [sender] to [recipient], [YYYY Month DD]` | - Letter from Minnie Fisher Cunningham to Ella Pomeroy <br /> <br /> - Letter from J. S. Cullinan to W. T. Sinclair, 1931 February 4
+__Serials (e.g. newsletters)__ |- `[title of newsletter], Vol. [volume number], No. [issue number],[issue date]` <br /> <br /> -If volume and/or issue numbers are in Roman numerals, Use Arabic numerals (e.g. 1, 2, 3...) in titles and repeat title with Roman numerals in Alternative Title field. | - Breakthrough, January 1976 <br /> <br /> - The Cougar, Vol. 1, No. 1, April 6, 1928
+__Book__ | Title from the catalog record. If the full title of the resource is very long, enter a shorted version of the title or the title excluding the subtitle and enter the full title according to the `Alternate Title` [input guidelines](https://vocab.lib.uh.edu/bcdams-map/guidelines/alternative)  | -La arquitectura en Mexico <br /> <br /> -Greater Houston, Texas and the Southwest
+__Television programs__ | - Use the title that appears on the television program <br /> - For television programs that are part of a series use the construction: `[Series Title], Episode [#]: [Title if available]` Fill in as many components as available. | -Almanac, Episode 101 <br /> <br /> -The Capitol Report, Episode 105: Capitol Restoration <br /> <br /> -Heartbreak Turtle
+__Other formats__ | Devise a brief descriptive title that uniquely identifies the resource (e.g. names of persons, corporate bodies, objects, activities, and events). If possible, use title or text from the item as it appears on the item. | - Receipt from Annin & Co. <br /> <br /> - General Emiliano Zapata and his staff
 
-__Serials (e.g. newsletters):__ [title of newsletter], Vol. [volume number], No. [issue number],[issue date]
-
-If volume and/or issue numbers are in Roman numerals, Use Arabic numerals (e.g. 1, 2, 3...) in titles and repeat title with Roman numerals in Alternative Title field.
-
-__Book:__ Title from the catalog record
-
-__Other formats:__ Devise a brief descriptive title that uniquely identifies the resource (e.g. names of persons, corporate bodies, objects, activities, and events). If possible, use title or text from the item as it appears on the item.
-
-__EXAMPLES__
-
-- Letter from Minnie Fisher Cunningham to Ella Pomeroy
-- Letter from J. S. Cullinan to W. T. Sinclair, 1931 February 4
-- Breakthrough, January 1976
-- Receipt from Annin & Co.
-- General Emiliano Zapata and his staff
 
 ### Preservation Guidelines
 
