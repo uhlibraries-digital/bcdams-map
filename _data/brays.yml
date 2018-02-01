@@ -90,6 +90,10 @@ note:
     input: "multi"
     visible: true
     editable: true
+relation:
+    input: "single"
+    visible: true
+    editable: true
 source:
     input: "single"
     visible: true
