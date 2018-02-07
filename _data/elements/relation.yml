@@ -1,0 +1,13 @@
+label: "Related Item"
+namespace: "dcterms"
+name: "relation"
+definition: "A related resource."
+source: "http://purl.org/dc/terms/relation"
+obligation: "optional"
+type: "administrative"
+repeatable: true
+range:
+  - label: "Access ARK URI"
+crosswalk:
+  avalon:
+    label: "Related Item URL"

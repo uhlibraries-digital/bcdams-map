@@ -23,6 +23,7 @@ administrative:
   - identifier
   - note
   - source
+  - relation
   - rights
 brays:
   - title
@@ -48,6 +49,7 @@ brays:
   - rights
   - accessRights
   - note
+  - relation
   - source
 carpenters:
   - title
