@@ -8,6 +8,7 @@ type: "descriptive"
 repeatable: true
 range:
   - label: "Time Period"
+    uri: "https://id.lib.uh.edu/ark:/84475/au0921gj446"
 crosswalk:
   avalon:
     label: "Temporal Subject"
