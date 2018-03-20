@@ -21,7 +21,13 @@ __Captions and inscriptions__
 
 Include caption(s) and/or insciption(s) in this field. Caption/inscription statement may reflect where it is found on the item if it is necessary to clarify.
 
+__When transcribing__ text from a resource:
+- If it contains a misspelling, include [sic] after the misspelled word in the transcription [(See DCRMB 0G7.1 Misprints)](http://rbms.info/files/dcrm/dcrmb/DCRMB3.pdf).
+- If the text include illegible text and you are able to make an educated guess at the text, include in brackets with a question mark, e.g. "[200?]" [(See DCRMMSS 0G6.2. Conjectural and Indecipherable Text)](http://rbms.info/files/dcrm/dcrmmss/DCRMMSS.pdf).
+
 __EXAMPLES__
 - Inscription on front: "L. Hartmann's Studio, Hotel, Houston Heights."
 - Caption: "First Interurban train to cross temporary trestle under own power."
 - Caption under top image: "Torpedo Bombers of Torpedo Squadron Six attached to the USS Enterprise."
+- Caption on facing page: "No. 2 slip with ship destroyed by second explosion. Yes! That is me taking moveing [sic] pictures of the distruction [sic]."
+- Caption on facing page: "Fuel tank [200?] yards inland from no. 1 slip."
