@@ -5,6 +5,6 @@ comments: false
 ---
 
 # Collections
-{% for collection in site.data.collections %}
-  * [{{ collection.name }}]({{ site.url }}/migration/{{ collection.alias }})
+{% for link in site.data.migration %}
+  * [{{ link.label }}]({{ site.url }}/migration/{{ link.file }})
 {% endfor %}
