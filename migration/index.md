@@ -4,7 +4,7 @@ title: Migration
 comments: false
 ---
 
-# Collections
+# Reports
 {% for link in site.data.migration %}
   * [{{ link.label }}]({{ site.url }}/migration/{{ link.file }})
 {% endfor %}
