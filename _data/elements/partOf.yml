@@ -8,3 +8,7 @@ type: "descriptive"
 repeatable: true
 range:
   - label: "String"
+crosswalk:
+  avalon:
+    label: "note"
+    type: "series title"
