@@ -5,5 +5,6 @@ comments: false
 ---
 
 <div class="jumbotron">
-  <p>For questions about the BCDAMS-MAP, please contact <a href="https://apps.lib.uh.edu/staff/members/profile/ajweidner">Andy Weidner</a> or <a href="https://apps.lib.uh.edu/staff/members/profile/awashington">Anne Washington</a>.</p>
+  <p>For content questions or comments about the {{ site.title }}: [Anne Washington](https://apps.lib.uh.edu/staff/members/profile/awashington), Metadata Services Coordinator</p>
+  <p>For technical questions or comments about the {{ site.title }}: [Andrew Weidner](https://apps.lib.uh.edu/staff/members/profile/ajweidner), Digital Operations Coordinator</p>
 </div>
