@@ -21,4 +21,3 @@ The {{ site.title }} builds on the University of Houston Digital Library's [Meta
 | ```/api/carpenters.json```        | [Carpenters](https://github.com/uhlibraries-digital/carpenters) application data as JSON |
 | ```/api/elements.json```          | All metadata elements as JSON |
 | ```/api/graph.jsonld```           | {{ site.title }} graph as JSON-LD |
-<br>
