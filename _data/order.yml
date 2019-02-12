@@ -26,6 +26,7 @@ administrative:
   - source
   - relation
   - rights
+  - rightsHolder
 brays:
   - title
   - alternative
@@ -48,6 +49,7 @@ brays:
   - aSpaceUri
   - donor
   - rights
+  - rightsHolder
   - accessRights
   - note
   - relation

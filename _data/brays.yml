@@ -82,6 +82,10 @@ rights:
     input: "single"
     visible: true
     editable: true
+rightsHolder:
+    input: "single"
+    visible: true
+    editable: true
 accessRights:
     input: "single"
     visible: true
