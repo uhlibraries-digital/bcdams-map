@@ -19,6 +19,7 @@ administrative:
   - accessRights
   - aSpaceUri
   - isPartOf
+  - isShownAt
   - donor
   - identifier
   - note
@@ -50,6 +51,7 @@ brays:
   - accessRights
   - note
   - relation
+  - isShownAt
   - source
 carpenters:
   - title
