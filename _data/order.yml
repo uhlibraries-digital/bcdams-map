@@ -19,12 +19,14 @@ administrative:
   - accessRights
   - aSpaceUri
   - isPartOf
+  - isShownAt
   - donor
   - identifier
   - note
   - source
   - relation
   - rights
+  - rightsHolder
 brays:
   - title
   - alternative
@@ -47,9 +49,11 @@ brays:
   - aSpaceUri
   - donor
   - rights
+  - rightsHolder
   - accessRights
   - note
   - relation
+  - isShownAt
   - source
 carpenters:
   - title
