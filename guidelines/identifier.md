@@ -18,5 +18,4 @@ Type | Example
 Call Number | NA271.S5
 OCLC Number | OCLC: 3449402
 Archival Location | ID 1996-007, Box 2, Folder 10
-
-The Digital Object ARK is not a valid value for this field. The Digital Object ARK can be found in the [Digital Object ARK](https://vocab.lib.uh.edu/bcdams-map/guidelines/isShownAt) field.
+ARK | https://id.lib.uh.edu/ark:/84475/do4846d3396

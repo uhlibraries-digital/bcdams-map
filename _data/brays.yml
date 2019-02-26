@@ -82,10 +82,6 @@ rights:
     input: "single"
     visible: true
     editable: true
-rightsHolder:
-    input: "single"
-    visible: true
-    editable: true
 accessRights:
     input: "single"
     visible: true
@@ -98,10 +94,6 @@ relation:
     input: "single"
     visible: true
     editable: true
-isShownAt:
-    input: "single"
-    visible: true
-    editable: false
 source:
     input: "single"
     visible: true
