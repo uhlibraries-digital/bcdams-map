@@ -219,12 +219,6 @@ th {
     page-break-inside: avoid;
   }
   thead {
-    position: -webkit-sticky;
-    position: -moz-sticky;
-    position: -ms-sticky;
-    position: -o-sticky;
-    position: sticky;
-    top: 0;
     display: table-header-group;
   }
   tr,
@@ -256,6 +250,14 @@ th {
   }
   .table {
     border-collapse: collapse !important;
+  }
+  .table thead {
+    position: -webkit-sticky;
+    position: -moz-sticky;
+    position: -ms-sticky;
+    position: -o-sticky;
+    position: sticky;
+    top: 0;
   }
   .table td,
   .table th {
