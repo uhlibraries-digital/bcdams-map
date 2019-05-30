@@ -32,7 +32,7 @@ __Other formats__ | Devise a brief descriptive title that uniquely identifies th
 
 ### Preservation Guidelines
 
-A description of the contents of the preservation package.
+A description of the contents of the preservation package. This data is derived from the ArchivesSpace title of the selected item.
 
 __EXAMPLES__
 
