@@ -62,7 +62,7 @@ body {
  * Tables
  */
 table,
-table.floating-header thead th {
+.floating-header thead tr th {
   position: -webkit-sticky;
   position: -moz-sticky;
   position: -ms-sticky;
