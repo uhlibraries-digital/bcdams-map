@@ -62,6 +62,14 @@ body {
  * Tables
  */
 table,
+thead {
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  position: sticky;
+  top: 50;
+}
 th,
 td {
    border: 2px solid black;
