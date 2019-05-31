@@ -70,17 +70,15 @@ table,
   position: -o-sticky;
   position: sticky;
   top: 50px;
+	table-layout: auto;
+  width: 200px;  
 }
 
-th,
-td {
-   border: 2px solid black;
-   padding: 10px;
+th, td {
+  border: 2px solid black;
+  padding: 10px;
 }
 
-th {
-    background-color: #e6e6e6;
-}
 
 /**
  * Anchor link offset
