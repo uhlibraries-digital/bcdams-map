@@ -7,6 +7,8 @@ comments: false
 
 {% include guidelines.md %}
 
+### Access Guidelines
+
 **DPLA MAP v4 Usage:** Captures categories of described resource in a given field. Does not capture aboutness. Vocab Schema: AAT.
 
 Genre should be expressed as an authorized term from the list below. Terms are from the [Art & Architecture Thesaurus](http://www.getty.edu/research/tools/vocabularies/aat/). Genre does not represent aboutness.
@@ -120,3 +122,7 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |telegrams|
 |woodcuts (prints)|
 |yearbooks|
+
+### Preservation Guidelines
+
+This field is not included in the preservation package.
