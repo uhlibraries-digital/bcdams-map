@@ -63,7 +63,7 @@ body {
  */
 table,
 
-.floating-header > thead > tr > th {
+/* .floating-header > thead > tr > th {
   position: -webkit-sticky;
   position: -moz-sticky;
   position: -ms-sticky;
@@ -71,6 +71,12 @@ table,
   position: sticky;
   top: 50px;
 }
+
+.floating-header > thead > th {
+	border: 2px solid black;
+	padding: 10px;
+	background-color: #e6e6e6;
+} */
 
 th,
 td {
