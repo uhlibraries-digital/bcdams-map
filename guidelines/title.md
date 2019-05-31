@@ -38,6 +38,6 @@ For archival projects, data in this field is automatically populated from the ti
 
 __EXAMPLES__
 
-- `40,000 Window Panes, 1986`
-- `#103, June 9, 1989`
-- `The Nuntius, Volume 1, No. 2, August 1970`
+- 40,000 Window Panes, 1986
+- Episode 103, June 9, 1989
+- The Nuntius, Volume 1, No. 2, August 1970
