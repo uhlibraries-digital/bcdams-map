@@ -24,9 +24,13 @@ A single object in the Marjorie Randal National Women’s Conference Collection 
 
 ### Preservation Guidelines
 
-Persistent identifier for collection authority record. Use the ARK identifier for a provenance [Collection](https://id.lib.uh.edu/ark:/84475/au0511xd315).
+In the preservation package, this field contains the ARK for the controlled vocabulary term describing the archival collection, serial title, or other provenance collection.
 
-__EXAMPLE__
+For archival projects, data in this field is automatically populated from the external documents field located in the resource record for the archival collection. The external documents are not automatically created in ArchivesSpace; the preservation administrator must add the Cedar preferred term and permalink to the resource record in ArchivesSpace.
 
-An object in the Marjorie Randal National Women’s Conference Collection would have the following persistent identifier in the `Collection` field:
-- https://id.lib.uh.edu/ark:/84475/au0716pz80d
+For standard projects, data in this field is automatically populated from the `Collection Title or ARK Url` entered in the Carpenters "Items" tab.
+
+__EXAMPLES__
+
+- ark:/84475/au92150j87q
+- ark:/84475/au5221tg678
