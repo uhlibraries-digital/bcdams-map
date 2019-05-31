@@ -7,6 +7,8 @@ comments: false
 
 {% include guidelines.md %}
 
+### Access Guidelines
+
 **DPLA MAP v4 Usage:** Size or duration of described resource.
 
 Enter the number of pages in a paginated resource, the dimensions of bibliographic or graphic materials, or the duration of A/V material.
@@ -19,3 +21,7 @@ __EXAMPLES__
 - 02:23:00
 - 2.18 MB
 - 5 x 7 in
+
+### Preservation Guidelines
+
+This field is not included in the preservation package.
