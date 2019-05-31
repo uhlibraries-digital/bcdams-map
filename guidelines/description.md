@@ -7,6 +7,8 @@ comments: false
 
 {% include guidelines.md %}
 
+### Access Guidelines
+
 **DPLA MAP v4 Usage:** Includes but is not limited to: an abstract, a table of contents, or a free-text account of described resource.
 
 The level of resource description will be determined by the project curator. If the title of the resource provides adequate description, this field may be left blank. It is not necessary to repeat information from the `Title` field in `Description`.
@@ -31,3 +33,7 @@ __EXAMPLES__
 - Caption under top image: "Torpedo Bombers of Torpedo Squadron Six attached to the USS Enterprise."
 - Caption on facing page: "No. 2 slip with ship destroyed by second explosion. Yes! That is me taking moveing [sic] pictures of the distruction [sic]."
 - Caption on facing page: "Fuel tank [200?] yards inland from no. 1 slip."
+
+### Preservation Guidelines
+
+This field is not included in the preservation package.
