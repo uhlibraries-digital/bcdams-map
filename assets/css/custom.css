@@ -62,22 +62,6 @@ body {
  * Tables
  */
 table,
-
-/* .floating-header > thead > tr > th {
-  position: -webkit-sticky;
-  position: -moz-sticky;
-  position: -ms-sticky;
-  position: -o-sticky;
-  position: sticky;
-  top: 50px;
-}
-
-.floating-header > thead > th {
-	border: 2px solid black;
-	padding: 10px;
-	background-color: #e6e6e6;
-} */
-
 th,
 td {
    border: 2px solid black;
@@ -91,6 +75,8 @@ td {
   background-color: #e6e6e6;
 	border: 2px solid black;
 }
+
+
 
 /**
  * Anchor link offset
