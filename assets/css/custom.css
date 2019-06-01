@@ -84,10 +84,12 @@ td {
    padding: 10px;
 }
 
-thead th {
+.floating-header thead th {
 	position: sticky;
+	position: -webkit-sticky;
   top: 50px;
   background-color: #e6e6e6;
+	border: 2px solid black;
 }
 
 /**

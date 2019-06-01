@@ -21,7 +21,7 @@ layout: template1
 <hr>
 
 <h3>Descriptive Metadata</h3>
-<table class="border" cellspacing="0">
+<table class="floating-header" cellspacing="0">
 {% for field in site.data.order.descriptive %}
   {% assign element = site.data.elements[field] %}
   {% include table.html %}
@@ -29,7 +29,7 @@ layout: template1
 </table>
 
 <h3>Administrative Metadata</h3>
-<table class="border" cellspacing="0">
+<table class="floating-header" cellspacing="0">
 {% for field in site.data.order.administrative %}
   {% assign element = site.data.elements[field] %}
   {% include table.html %}

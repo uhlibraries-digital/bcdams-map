@@ -3,12 +3,14 @@
 	<div property="rdfs:comment" content="{{ element.definition }}"></div>
 	<div property="owl:sameAs" content="{{ element.source }}"></div>
 </div>
-<tr>
-	<th colspan="2">
-		<a class="anchor" name="{{ element.name }}"></a>
-		<h4>{{ element.label }}</h4>
-	</th>
-</tr>
+<thead>
+	<tr>
+		<th colspan="2">
+			<a class="anchor" name="{{ element.name }}"></a>
+			<h4>{{ element.label }}</h4>
+		</th>
+	</tr>
+</thead>
 <tr>
 	<td><b>Label</b></td>
 	<td>{{ element.label }}</td>
