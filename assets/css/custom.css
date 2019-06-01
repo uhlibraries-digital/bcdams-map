@@ -76,7 +76,10 @@ td {
 	border: 2px solid black;
 }
 
-
+th:nth-child(11):after {
+   padding-left: 300px;
+   content: '\0010';
+}
 
 /**
  * Anchor link offset
