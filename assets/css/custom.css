@@ -84,7 +84,7 @@ td {
    padding: 10px;
 }
 
-th {
+thead th {
 	position: sticky;
   top: 50px;
   background-color: #e6e6e6;
