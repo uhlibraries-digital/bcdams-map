@@ -84,10 +84,6 @@ td {
    padding: 10px;
 }
 
-th {
-	background-color: #e6e6e6;
-}
-
 thead th {
 	position: sticky;
   top: 50px;
