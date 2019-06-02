@@ -82,6 +82,18 @@ th:nth-child(3):after {
    content: '\0010';
 }
 
+/* Creator */
+th:nth-child(6):after {
+   padding-left: 150px;
+   content: '\0010';
+}
+
+/* Publisher */
+th:nth-child(8):after {
+   padding-left: 150px;
+   content: '\0010';
+}
+
 /* Description */
 th:nth-child(11):after {
    padding-left: 300px;
