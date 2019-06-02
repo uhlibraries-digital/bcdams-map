@@ -76,6 +76,12 @@ td {
 	border: 2px solid black;
 }
 
+/* Title */
+th:nth-child(3):after {
+   padding-left: 200px;
+   content: '\0010';
+}
+
 /* Description */
 th:nth-child(11):after {
    padding-left: 300px;
