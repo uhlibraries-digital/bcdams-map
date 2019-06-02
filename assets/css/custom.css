@@ -106,6 +106,18 @@ th:nth-child(19):after {
    content: '\0010';
 }
 
+/* Identifier */
+th:nth-child(20):after {
+   padding-left: 150px;
+   content: '\0010';
+}
+
+/* Rights */
+th:nth-child(23):after {
+   padding-left: 150px;
+   content: '\0010';
+}
+
 /**
  * Anchor link offset
  */
