@@ -81,6 +81,11 @@ th:nth-child(11):after {
    content: '\0010';
 }
 
+th:nth-child(19):after {
+   padding-left: 300px;
+   content: '\0010';
+}
+
 /**
  * Anchor link offset
  */
