@@ -94,6 +94,12 @@ th:nth-child(12):after {
    content: '\0010';
 }
 
+/* Genre */
+th:nth-child(15):after {
+   padding-left: 200px;
+   content: '\0010';
+}
+
 /* Collection */
 th:nth-child(19):after {
    padding-left: 300px;
