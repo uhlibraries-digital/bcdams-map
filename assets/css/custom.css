@@ -76,11 +76,19 @@ td {
 	border: 2px solid black;
 }
 
+/* Description */
 th:nth-child(11):after {
    padding-left: 300px;
    content: '\0010';
 }
 
+/* Subject */
+th:nth-child(12):after {
+   padding-left: 200px;
+   content: '\0010';
+}
+
+/* Collection */
 th:nth-child(19):after {
    padding-left: 300px;
    content: '\0010';
