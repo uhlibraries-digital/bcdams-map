@@ -96,7 +96,7 @@ th:nth-child(12):after {
 
 /* Genre */
 th:nth-child(15):after {
-   padding-left: 200px;
+   padding-left: 150px;
    content: '\0010';
 }
 
