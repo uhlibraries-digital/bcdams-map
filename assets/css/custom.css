@@ -64,7 +64,7 @@ body {
 table,
 th,
 td {
-   border: 2px solid black;
+   border: 1px solid black;
    padding: 10px;
 }
 
@@ -73,7 +73,7 @@ td {
 	position: -webkit-sticky;
   top: 50px;
   background-color: #e6e6e6;
-	border: 2px solid black;
+	border: 1px solid black;
 }
 
 /* Title */
