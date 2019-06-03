@@ -68,6 +68,10 @@ td {
    padding: 10px;
 }
 
+th {
+  background-color: #e6e6e6;
+}
+
 .floating-header thead th {
 	position: sticky;
 	position: -webkit-sticky;
