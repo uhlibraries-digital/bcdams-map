@@ -18,4 +18,17 @@ __EXAMPLES__
 Context | Example
 ------|------
 Note about resource distribution | This video was originally distributed by National Educational Television (NET).
-Note about original condition of the resource  | The original document is missing page 5.	
+Note about original condition of the resource  | The original document is missing page 5.
+
+### Preservation Guidelines
+
+In the preservation package, this field contains a human-readable value for the title of the provenance collection.
+
+For archival projects, data in this field is automatically populated from the external documents field located in the resource record for the archival collection. The external documents are not automatically created in ArchivesSpace; the preservation administrator must add the Cedar preferred term and permalink to the resource record in ArchivesSpace.
+
+For standard projects, data in this field is automatically populated from the `Collection Title or ARK Url` entered in the Carpenters “Items” tab.
+
+__EXAMPLES__
+
+- Houston Earlier Texas Art Group (HETAG) Newsletters
+- Janice Rubin Photographs
