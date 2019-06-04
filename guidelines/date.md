@@ -50,3 +50,12 @@ __Notes__
 
 
 ### Preservation Guidelines
+
+A date associated with the original item, usually the date of creation of the original.
+
+For archival projects, data in this field is automatically populated from the date field (specifically, the ISO-normalized begin/end date fields) of the associated ArchivesSpace item. For standard projects, there is no data in this field.
+
+__EXAMPLES__
+
+- 1966-12-06
+- 1970/1979
