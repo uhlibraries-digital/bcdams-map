@@ -63,6 +63,7 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |fliers (printed matter)|
 |folders (containers)|
 |government records|
+|illuminated manuscripts|
 |illustrations (layout features)|
 |inscriptions|
 |instructions (document genre)|
