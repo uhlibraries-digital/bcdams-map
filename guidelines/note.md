@@ -19,6 +19,7 @@ Context | Example
 ------|------
 Note about resource distribution | This video was originally distributed by National Educational Television (NET).
 Note about original condition of the resource  | The original document is missing page 5.
+Incorrect volume, number, or page numbering | <ul><li>Incorrect [volume number, date, etc.], [incorrect date, volume number, or made up Roman numeral], printed on front page.</li><li>This newspaper issue has irregular page numbering</li><li>Pages 8 and 13 of this newspaper issue are numbered incorrectly.</li></ul>
 
 ### Preservation Guidelines
 
