@@ -38,6 +38,19 @@ __EXAMPLES__
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>Incorrect spelling</td>
+    <td>
+      <ul>
+        <li>"[correct spelling]" misspelled as "[incorrect spelling]" on front page.
+        </li>
+        <li>"Luis Alberti" misspelled as "Luis Alberty" on front page.
+        </li>
+        <li>"Aqualeo" misspelled as "Aqueleo" in inscription.
+        </li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ### Preservation Guidelines
