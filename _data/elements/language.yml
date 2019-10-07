@@ -12,6 +12,21 @@ range:
       - eng
       - fre
       - spa
+      - cmn
+      - deu
+      - fas
+      - fin
+      - heb
+      - hrv
+      - isl
+      - kor
+      - nld
+      - pol
+      - por
+      - srp
+      - tur
+      - zap
+      - zho
 crosswalk:
   avalon:
     label: "Language"
