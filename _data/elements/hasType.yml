@@ -55,6 +55,7 @@ range:
       - "fliers (printed matter)"
       - "folders (containers)"
       - "government records"
+      - "home movies"
       - "illuminated manuscripts"
       - "illustrations (layout features)"
       - "inscriptions"
@@ -113,6 +114,7 @@ range:
       - "surveys (documents)"
       - "T-shirts"
       - "telegrams"
+      - "television programs"
       - "woodcuts (prints)"
       - "yearbooks"
 crosswalk:
