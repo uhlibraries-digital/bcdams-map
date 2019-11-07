@@ -105,4 +105,4 @@ isShownAt:
 source:
     input: "single"
     visible: true
-    editable: true
+    editable: false
