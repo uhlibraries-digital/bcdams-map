@@ -11,7 +11,7 @@ comments: false
 
 **DPLA MAP v4 Usage:** Nature of genre of described resource. Vocab Schema: dcterms:DCMIType.
 
-Type characterizes the nature of the resource and should be expressed as a term from the [DCMI Type](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=dcmitype#H7) vocabulary. If a resource can be characterized by more than one term, you may enter multiple terms in the `Type` field.
+Type characterizes the nature of the resource and should be expressed as a term from the [DCMI Type](http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=dcmitype#H7) vocabulary. **This field is non-repeatable. If a resource can be characterized by more than one term, choose the term best characterizes the resource or characterizes most of the resource.**
 
 __Commonly Used Terms__
 These are the most commonly used terms in our collections:
