@@ -3,9 +3,9 @@ namespace: "dcterms"
 name: "type"
 definition: "The nature or genre of the resource."
 source: "http://purl.org/dc/terms/type"
-obligation: "requiredWhenAvailable"
+obligation: "required"
 type: "descriptive"
-repeatable: true
+repeatable: false
 range:
   - label: "DCMI Type"
     values:
