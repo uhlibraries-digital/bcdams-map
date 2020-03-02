@@ -26,6 +26,7 @@ German | `deu`
 Hebrew | `heb`
 Icelandic | `isl`
 Korean | `kor`
+Latin | `lat`
 Mandarin | `cmn` (when using this code, enter code `zho` for Chinese as well)
 Polish | `pol`
 Portuguese | `por`
