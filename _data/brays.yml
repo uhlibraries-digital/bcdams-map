@@ -73,7 +73,7 @@ isPartOf:
 aSpaceUri:
     input: "single"
     visible: true
-    editable: false
+    editable: true
 donor:
     input: "single"
     visible: true
