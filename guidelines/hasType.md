@@ -50,9 +50,9 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |copper engravings (visual works)|
 |copy prints|
 |correspondence|
-|directories|
 |diaries|
 |digital images|
+|directories|
 |documents (object genre)|
 |drawings (visual works)|
 |engravings (prints)|
