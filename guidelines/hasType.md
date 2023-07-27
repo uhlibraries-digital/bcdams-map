@@ -52,7 +52,7 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |correspondence|
 |diaries|
 |digital images|
-|document (object genre)|
+|directories|
 |documents (object genre)|
 |drawings (visual works)|
 |engravings (prints)|
