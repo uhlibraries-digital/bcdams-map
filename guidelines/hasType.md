@@ -58,6 +58,7 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |engravings (prints)|
 |envelopes|
 |essays|
+|exhibition catalogs|
 |financial records|
 |financial statements|
 |fliers (printed matter)|
