@@ -67,6 +67,7 @@ Use the capitalization below; pay close attention to terms that are pluralized.
 |illuminated manuscripts|
 |illustrations (layout features)|
 |inscriptions|
+|instructional materials|
 |instructions (document genre)|
 |interviews|
 |invitations|
