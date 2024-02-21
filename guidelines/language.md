@@ -32,7 +32,8 @@ Polish | `pol`
 Portuguese | `por`
 Serbian | `srp`
 Spanish | `spa`
-Turkish |  `tur`
+Swedish | `swe`
+Turkish | `tur`
 Zapotec | `zap`
 
 
