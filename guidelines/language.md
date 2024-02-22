@@ -28,6 +28,9 @@ Icelandic | `isl`
 Korean | `kor`
 Latin | `lat`
 Mandarin | `cmn` (when using this code, enter code `zho` for Chinese as well)
+Norwegian | `nor`
+Norwegian Bokmål | `nob` (when using this code, enter code `nor` for Norwegian as well)
+Norwegian Nynorsk | `nno` (when using this code, enter code `nor` for Norwegian as well)
 Polish | `pol`
 Portuguese | `por`
 Serbian | `srp`
